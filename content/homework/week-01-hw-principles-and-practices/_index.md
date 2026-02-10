@@ -4,7 +4,7 @@ weight: 10
 ---
 | pre-fire | post-fire |
 | ---------------------- | ---------------------- |
-| ![pre-fire](lm_prefire_edit.jpg) | ![post-fire](post-fire.jpg) |
+| <img src="lm_prefire_edit.jpg" width="400"> | <img src="post-fire.jpg" width="400"> |
 | pre-fire | post-fire |
 |-----|-----|
 | <img src="lm_prefire_edit.jpg" width="200"> | <img src="post-fire.jpg" width="200"> |
