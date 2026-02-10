@@ -2,7 +2,7 @@
 title: 'Week 1 HW: Principles and Practices'
 weight: 10
 ---
-
+![cover image](lm_prefire_edit.jpg)
 ![cover image](post-fire.jpg)
 
 
