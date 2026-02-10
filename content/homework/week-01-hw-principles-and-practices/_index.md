@@ -3,7 +3,7 @@ title: 'Week 1 HW: Principles and Practices'
 weight: 10
 ---
 <p float="left">
-  <img src="images/post-fire.jpg" width="250" />
+  <img src="/post-fire.jpg" width="250" />
   <img src="images/cat.png" width="250" />
   <img src="images/lizzard.png" width="250" />
 </p>
