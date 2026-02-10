@@ -2,7 +2,9 @@
 title: 'Week 1 HW: Principles and Practices'
 weight: 10
 ---
-<img src="lm_prefire_edit.jpg" width="400"><img src="post-fire.jpg" width="400">
+| pre-fire                            | post-fire                            |
+| ----------------------------------- | ----------------------------------- |
+|<img src="lm_prefire_edit.jpg" width="800">|<img src="post-fire.jpg" width="800">|
 
 <!-- One of the questions this week asks you to fill in a table; that table is copied here from the course page's markdown
      (https://edit.htgaa.org/2026a-course-pages/webpages.git/src/branch/main/content/weeks/week-01/_index.md?display=source)
