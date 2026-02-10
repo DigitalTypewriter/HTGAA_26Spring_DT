@@ -7,7 +7,7 @@ type: home
 
 ## {{% icon user %}} About me
 
-I'm a committed listener connecting from the Chicago node, ChiTownBio!
+I'm a committed listener connecting from the Chicago.
 
 ### {{% icon address-card %}} Contact info
 <!-- This block is a comment (which will not be displayed on your pages) with sample social media links.
