@@ -71,7 +71,11 @@ https://www.sciencedirect.com/science/article/pii/S0045653506013361?via%3Dihub
 ## Week 2 Lecture Prep
 ### Homework Questions from Professor Jacobson:
 1. Nature’s machinery for copying DNA is called polymerase. What is the error rate of polymerase? How does this compare to the length of the human genome. How does biology deal with that discrepancy?
+
+**Most natural DNA polymerases make about one mistake per 10⁶–10⁷ nucleotides copied. The human genome is usually rounded to 3 × 10⁹ or 3.2 × 10⁹ bases, so at this raw error rate, replication would introduce roughly 3000 errors each time the genome is copied. To deal with this discrepancy, biology relies on multiple layers of error correction, including the MutS mismatch repair system, while synthetic biology uses engineered approaches such as error‑correcting gene synthesis and demonstrated examples like GFP gene synthesis to reduce mutation rates and ensure accurate DNA construction.**
+
 2. How many different ways are there to code (DNA nucleotide code) for an average human protein? In practice what are some of the reasons that all of these different codes don’t work to code for the protein of interest?
+
 ### Homework Questions from Dr. LeProust:
 1. What’s the most commonly used method for oligo synthesis currently?
 2. Why is it difficult to make oligos longer than 200nt via direct synthesis?
