@@ -3,7 +3,7 @@ title: '<Daniel Tseng> — HTGAA Spring 2026'
 type: home
 ---
 
-![cover image]()
+![cover image](post-fire)
 
 ## {{% icon user %}} About me
 
