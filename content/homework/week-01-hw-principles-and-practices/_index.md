@@ -2,11 +2,10 @@
 title: 'Week 1 HW: Principles and Practices'
 weight: 10
 ---
-<p float="left">
-  <img src="/post-fire.jpg" width="250" />
-  <img src="images/cat.png" width="250" />
-  <img src="images/lizzard.png" width="250" />
-</p>
+| pre-fire               | post-fire               |
+| ---------------------- | ---------------------- |
+| ![cat](post-fire.jpg) | ![dog](post-fire.jpg) |
+
 
 
 <!-- One of the questions this week asks you to fill in a table; that table is copied here from the course page's markdown
