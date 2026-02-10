@@ -4,7 +4,7 @@ weight: 10
 ---
 | pre-fire               | post-fire               |
 | ---------------------- | ---------------------- |
-| ![cat](post-fire.jpg) | ![dog](post-fire.jpg) |
+| ![pre-fire](lm_prefire_edit.jpg) | ![post-fire](post-fire.jpg) |
 
 
 
