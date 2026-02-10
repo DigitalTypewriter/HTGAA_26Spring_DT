@@ -14,7 +14,7 @@ weight: 10
      If you want to use this form, you can fill in the table by putting your scoring for each action between the |  | markers
      for each column; DO NOT enter any newlines between the |  | markers, that starts a new table row right there!
  -->
- ## Week 1 Class Assignment Part 1
+ # Week 1 Class Assignment Part 1
  1. First, describe a biological engineering application or tool you want to develop and why
 
  2. Next, describe one or more governance/policy goals related to ensuring that this application or tool contributes to an “ethical” future, like ensuring non-malfeasance (preventing harm). Break big goals down into two or more specific sub-goals.
@@ -44,13 +44,12 @@ weight: 10
 5. Last, drawing upon this scoring, describe which governance option, or combination of options, you would prioritize, and why. Outline any trade-offs you considered as well as assumptions and uncertainties.
 
 ---
-### Week 2 Lecture Prep
-# Homework Questions from Professor Jacobson:
+# Week 2 Lecture Prep
+### Homework Questions from Professor Jacobson:
 1. Nature’s machinery for copying DNA is called polymerase. What is the error rate of polymerase? How does this compare to the length of the human genome. How does biology deal with that discrepancy?
 2. How many different ways are there to code (DNA nucleotide code) for an average human protein? In practice what are some of the reasons that all of these different codes don’t work to code for the protein of interest?
-# Homework Questions from Dr. LeProust:
+### Homework Questions from Dr. LeProust:
 1. What’s the most commonly used method for oligo synthesis currently?
 2. Why is it difficult to make oligos longer than 200nt via direct synthesis?
 3. Why can’t you make a 2000bp gene via direct oligo synthesis?
-
-# Homework Question from George Church:
+### Homework Question from George Church:
