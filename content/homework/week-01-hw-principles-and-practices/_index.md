@@ -40,27 +40,32 @@ https://www.sciencedirect.com/science/article/pii/S0045653506013361?via%3Dihub
 
 **The action assumes that openness can improve safety and democratize participation, though it also introduces risks: users with varying levels of expertise may replicate the hardware, and widespread deployment of low‑cost sensors could lead to inconsistent calibration or uneven data quality. Still, by making the sensing system transparent and modular, this governance approach aims for reproducibility, ethical oversight, and broader community engagement.**
 
+### Governance Action 3: Standards for Interpretation and Public Communication of Biological Sensing Data
+
+**This governance action establishes guidelines to prevent misinterpretation of biological sensing data generated from Lemna minor microsensing experiments. Plant‑based sensing outputs are inherently indirect: physiological changes in Lemna minor can be influenced not only by heavy metal exposure but also by light levels, nutrient availability, temperature, and general stress. Without proper context, these signals risk being treated as precise measurements of contamination when they are, in fact, biological indicators with meaningful uncertainty. To address this, the action proposes standardized communication practices that require contextual metadata, clear disclosure of uncertainty, and consistent visual or textual formats for reporting results. These standards help ensure that biological indicators are interpreted appropriately in environmental, regulatory, and community decision‑making contexts.**
 
  4. Next, score (from 1-3 with, 1 as the best, or n/a) each of your governance actions against your rubric of policy goals. The following is one framework but feel free to make your own:
 
 | Does the option:                                    | Option 1 | Option 2 | Option 3 |
 |-----------------------------------------------------|----------|----------|----------|
 | **Enhance Biosecurity**                             |          |          |          |
-| &bull; By preventing incidents                      |          |          |          |
-| &bull; By helping respond                           |          |          |          |
+| &bull; By preventing incidents                      |     2     |     1     |    2      |
+| &bull; By helping respond                           |     1     |     2     |    2      |
 | **Foster Lab Safety**                               |          |          |          |
-| &bull; By preventing incident                       |          |          |          |
-| &bull; By helping respond                           |          |          |          |
+| &bull; By preventing incident                       |     2     |     1     |     1     |
+| &bull; By helping respond                           |     1     |     2     |     2     |
 | **Protect the environment**                         |          |          |          |
-| &bull; By preventing incidents                      |          |          |          |
-| &bull; By helping respond                           |          |          |          |
+| &bull; By preventing incidents                      |     3     |     2     |     2     |
+| &bull; By helping respond                           |     1     |     2     |     2     |
 | **Other considerations**                            |          |          |          |
-| &bull; Minimizing costs and burdens to stakeholders |          |          |          |
-| &bull; Feasibility?                                 |          |          |          |
-| &bull; Not impede research                          |          |          |          |
-| &bull; Promote constructive applications            |          |          |          |
+| &bull; Minimizing costs and burdens to stakeholders |     2     |     1     |     1     |
+| &bull; Feasibility?                                 |     2     |     2     |     2     |
+| &bull; Not impede research                          |     1     |     1     |     1     |
+| &bull; Promote constructive applications            |     3     |     3     |     3     |
 
 5. Last, drawing upon this scoring, describe which governance option, or combination of options, you would prioritize, and why. Outline any trade-offs you considered as well as assumptions and uncertainties.
+
+**Based on the scoring, I would prioritize a combination of Option 1 and Option 3, since together they offer the strongest balance of safety, environmental protection, and constructive application without imposing excessive burdens on researchers. Option 1 directly reduces the most immediate risks—accidental exposure, improper disposal, and environmental contamination—making it essential for preventing harm at the source. Option 3 complements this by ensuring that any biological sensing data generated is communicated responsibly, reducing the likelihood of misinterpretation or misuse in public or regulatory contexts. While Option 2 has value, its lower scores in feasibility and safety‑related categories suggest it introduces more complexity than benefit at this stage. Overall, Options 1 and 3 provide the most robust and practical governance foundation, though this conclusion depends on the assumption that safety protocols will be consistently followed and that communication standards will be adopted across different settings.**
 
 ---
 ## Week 2 Lecture Prep
