@@ -35,6 +35,12 @@ https://www.sciencedirect.com/science/article/pii/S0045653506013361?via%3Dihub
 
 **These protocols would define safe concentration limits, specify engineering controls and PPE, and outline approved disposal pathways for contaminated liquids, plant biomass, and sensing hardware. The action assumes that training and infrastructure vary widely, and that contaminated plant material is often underestimated as a hazard. Formalizing procedures and disposal routes can reduce risk while supporting responsible experimentation.**
 
+### Governance Action 2: Open, Modular Standards for Microsensing Hardware
+**This governance action promotes transparency, accessibility, and ethical design by encouraging open standards for the microsensing hardware used with Lemna minor. Many microsensing systems—whether based on small PCBs, flexible circuits, microfabricated electrodes, or other substrates—are developed through proprietary processes that limit reproducibility and prevent external review of design choices that affect biological safety. By contrast, open, modular hardware architectures with publicly available schematics, fabrication files, and material specifications would allow researchers, community labs, and environmental groups to inspect, adapt, and audit the sensing system.**
+
+**The action assumes that openness can improve safety and democratize participation, though it also introduces risks: users with varying levels of expertise may replicate the hardware, and widespread deployment of low‑cost sensors could lead to inconsistent calibration or uneven data quality. Still, by making the sensing system transparent and modular, this governance approach aims for reproducibility, ethical oversight, and broader community engagement.**
+
+
  4. Next, score (from 1-3 with, 1 as the best, or n/a) each of your governance actions against your rubric of policy goals. The following is one framework but feel free to make your own:
 
 | Does the option:                                    | Option 1 | Option 2 | Option 3 |
