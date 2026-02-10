@@ -76,8 +76,13 @@ https://www.sciencedirect.com/science/article/pii/S0045653506013361?via%3Dihub
 
 2. How many different ways are there to code (DNA nucleotide code) for an average human protein? In practice what are some of the reasons that all of these different codes don’t work to code for the protein of interest?
 
+**n/a**
+
 ### Homework Questions from Dr. LeProust:
 1. What’s the most commonly used method for oligo synthesis currently?
+**The most commonly used method for oligo synthesis today is solid‑phase phosphoramidite chemical synthesis.**
 2. Why is it difficult to make oligos longer than 200nt via direct synthesis?
+**It is difficult to make oligos longer than ~200 nt because the stepwise chemical coupling efficiency is less than 100%, causing exponential loss of full‑length product and rising error rates.**
 3. Why can’t you make a 2000bp gene via direct oligo synthesis?
+**You cannot make a 2000 bp gene by direct oligo synthesis because the cumulative truncation and error rates over thousands of chemical cycles make full‑length, accurate molecules essentially impossible to obtain.**
 ### Homework Question from George Church:
