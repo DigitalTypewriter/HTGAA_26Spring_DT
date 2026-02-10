@@ -14,7 +14,7 @@ weight: 10
      If you want to use this form, you can fill in the table by putting your scoring for each action between the |  | markers
      for each column; DO NOT enter any newlines between the |  | markers, that starts a new table row right there!
  -->
- # Week 1 Class Assignment Part 1
+ ## Week 1 Class Assignment
  1. First, describe a biological engineering application or tool you want to develop and why
 
  2. Next, describe one or more governance/policy goals related to ensuring that this application or tool contributes to an “ethical” future, like ensuring non-malfeasance (preventing harm). Break big goals down into two or more specific sub-goals.
