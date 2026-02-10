@@ -7,6 +7,8 @@ type: home
 
 ## {{% icon user %}} About me
 
+I'm a committed listener connecting from the Chicago node, ChiTownBio!
+
 ### {{% icon address-card %}} Contact info
 <!-- This block is a comment (which will not be displayed on your pages) with sample social media links.
      Copy a line, paste it above this comment and fill in the '...' to have that social media link on your homepage:
