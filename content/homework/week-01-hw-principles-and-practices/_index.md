@@ -29,6 +29,14 @@ https://www.sciencedirect.com/science/article/pii/S0045653506013361?via%3Dihub
 
  3. Next, describe at least three different potential governance “actions” by considering the four aspects below (Purpose, Design, Assumptions, Risks of Failure & “Success”).
 
+### Governance Action 1: Strengthened Safety and Containment Protocols for Heavy Metal Research
+
+**This governance action establishes dedicated safety and containment procedures for the use of heavy metals in Lemna minor–based microsensing research. Heavy metals such as cadmium, lead, and mercury are persistent environmental pollutants with well‑documented ecological and human health risks, and their handling requires careful oversight even in small‑scale laboratory settings.**
+
+**In the context of this project, Lemna minor accumulates heavy metals through phytoremediation, creating a secondary waste stream in the form of contaminated plant biomass. Because this biomass can retain hazardous concentrations of metals, it must be treated with the same level of caution as chemical waste. Strengthened protocols would therefore define safe concentration limits for experimental use, specify engineering controls such as containment trays and fume hoods, and require appropriate personal protective equipment. They would also establish approved disposal pathways for contaminated liquids, plant tissue, and sensing hardware, aligning with principles outlined in metals‑risk assessment frameworks used by environmental agencies.**
+
+**This action assumes that existing infrastructure and training vary widely across research settings, and that contaminated biological material may be underestimated as a hazardous substance. By formalizing procedures, institutions can reduce the likelihood of accidental exposure, improper disposal, or environmental release. However, the success of such protocols depends on consistent enforcement and institutional support; without these, safety measures risk becoming procedural checkboxes rather than meaningful safeguards.**
+
  4. Next, score (from 1-3 with, 1 as the best, or n/a) each of your governance actions against your rubric of policy goals. The following is one framework but feel free to make your own:
 
 | Does the option:                                    | Option 1 | Option 2 | Option 3 |
