@@ -1,5 +1,5 @@
 ---
-title: '<Daniel Tseng> — HTGAA Spring 2026'
+title: 'Daniel Tseng — HTGAA Spring 2026'
 type: home
 ---
 
