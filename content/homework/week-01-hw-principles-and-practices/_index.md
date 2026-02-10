@@ -15,9 +15,9 @@ weight: 10
      for each column; DO NOT enter any newlines between the |  | markers, that starts a new table row right there!
  -->
  ## Week 1 Class Assignment
- * 1. First, describe a biological engineering application or tool you want to develop and why. *
+ 1. First, describe a biological engineering application or tool you want to develop and why.
 
- I want to develop a biologically integrated microsensing tool that can detect heavy metal intoxication in living Lemna minor tissue at the cellular level. This idea grew out of a group project facilitated by Dr. Andrew Scarpelli through the ChiTownBio node, where we demonstrated Lemna minor’s ability to phytoremediate heavy metals using a ceramic kiln burnout process to visualize metal accumulation. While this approach confirmed effective metal uptake, its irreversible thermal processing of the plant tissue to generate a readout, making the method qualitative and not easily scalable. Developing a microsensing system that can read biochemical or protein-level responses in living plant cells would allow for more accurate, non-destructive, and low-cost detection of environmental metal contamination.
+** I want to develop a biologically integrated microsensing tool that can detect heavy metal intoxication in living Lemna minor tissue at the cellular level. This idea grew out of a group project facilitated by Dr. Andrew Scarpelli through the ChiTownBio node, where we demonstrated Lemna minor’s ability to phytoremediate heavy metals using a ceramic kiln burnout process to visualize metal accumulation. While this approach confirmed effective metal uptake, its irreversible thermal processing of the plant tissue to generate a readout, making the method qualitative and not easily scalable. Developing a microsensing system that can read biochemical or protein-level responses in living plant cells would allow for more accurate, non-destructive, and low-cost detection of environmental metal contamination.**
 
  2. Next, describe one or more governance/policy goals related to ensuring that this application or tool contributes to an “ethical” future, like ensuring non-malfeasance (preventing harm). Break big goals down into two or more specific sub-goals.
 
