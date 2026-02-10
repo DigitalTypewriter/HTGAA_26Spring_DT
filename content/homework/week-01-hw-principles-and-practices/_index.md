@@ -5,6 +5,7 @@ weight: 10
 | pre-fire | post-fire |
 | ---------------------- | ---------------------- |
 | <img src="lm_prefire_edit.jpg" width="800"> | <img src="post-fire.jpg" width="800"> |
+<img src="lm_prefire_edit.jpg" width="800"><img src="post-fire.jpg" width="800">
 <!-- One of the questions this week asks you to fill in a table; that table is copied here from the course page's markdown
      (https://edit.htgaa.org/2026a-course-pages/webpages.git/src/branch/main/content/weeks/week-01/_index.md?display=source)
      just as a convenience -- you DON'T have to use this to complete your homework!  Any form, format or content which is
