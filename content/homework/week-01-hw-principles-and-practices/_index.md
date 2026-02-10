@@ -92,3 +92,7 @@ https://www.sciencedirect.com/science/article/pii/S0045653506013361?via%3Dihub
 **You cannot make a 2000 bp gene by direct oligo synthesis because the cumulative truncation and error rates over thousands of chemical cycles make full‑length, accurate molecules essentially impossible to obtain.**
 
 ### Homework Question from George Church:
+
+1. What are the 10 essential amino acids in all animals and how does this affect your view of the “Lysine Contingency”?
+
+**The ten essential amino acids—phenylalanine, valine, threonine, tryptophan, methionine, leucine, isoleucine, lysine, histidine, and arginine—are those that humans and many other animals cannot synthesize biologically and must therefore acquire through their diet.**
