@@ -44,7 +44,7 @@ weight: 10
 5. Last, drawing upon this scoring, describe which governance option, or combination of options, you would prioritize, and why. Outline any trade-offs you considered as well as assumptions and uncertainties.
 
 ---
-# Week 2 Lecture Prep
+## Week 2 Lecture Prep
 ### Homework Questions from Professor Jacobson:
 1. Nature’s machinery for copying DNA is called polymerase. What is the error rate of polymerase? How does this compare to the length of the human genome. How does biology deal with that discrepancy?
 2. How many different ways are there to code (DNA nucleotide code) for an average human protein? In practice what are some of the reasons that all of these different codes don’t work to code for the protein of interest?
