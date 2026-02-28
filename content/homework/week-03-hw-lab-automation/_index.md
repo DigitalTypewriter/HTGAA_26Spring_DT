@@ -2,7 +2,8 @@
 title: 'Week 3 HW: Lab Automation'
 weight: 10
 ---
-upload photo of opentron
+Python Script for Opentrons Artwork
+upload the code
 
 Post-Lab Questions
 Find and describe a published paper that utilizes the Opentrons or an automation tool to achieve novel biological applications.
