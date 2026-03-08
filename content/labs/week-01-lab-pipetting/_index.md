@@ -21,8 +21,8 @@ If the molar mass of MS is 532 g/mol, what’s the concentration of the stock co
 
 **Answer: Three dilution steps are needed using P10 & P1000 pipettes with three 1.5 mL microcentrifuge tubes.**<br>
 **Steps:**<br>
-> **1. Calculate the total dilution factor.** 5 M = 5 mol/L. The target is 100 µM = 1 × 10^-4 mol/L.  
-> Total dilution factor = (5 mol/L) / (1 × 10^-4 mol/L) = 50,000.<br>
+> **1. Calculate the total dilution factor.** 5 M = 5 mol/L. The target is 100 µM = 1 × 10<sup>-4</sup> mol/L.  
+> Total dilution factor = (5 mol/L) / (1 × 10<sup>-4</sup> mol/L) = 50,000.<br>
 > **2. Break this into three steps.** 50,000 = 100 × 100 × 5, so we will do a 1:100 dilution, then another 1:100 dilution, then a 1:5 dilution.<br>
 > **3. Use three 1.5 mL microcentrifuge tubes (Tube 1, Tube 2, Tube 3).**<br>
 > • Tube 1: 1:100 dilution from the 5 M stock. Add 990 µL diluent + 10 µL of 5 M MS (P1000 + P10). Final concentration in Tube 1 = (5 M) / 100 = 0.05 M = 50 mM.<br>
