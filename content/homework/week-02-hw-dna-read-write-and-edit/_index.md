@@ -4,8 +4,8 @@ weight: 10
 ---
 
 ## My HW
-Part 1: Benchling & In-silico Gel Art
-<img src="virtual_digest_sequence_lambda.png">
+Part 1: Benchling & In-silico Gel Art<br>
+<img src="virtual_digest_sequence_lambda.png" width="255"><br>
 Part 2: Gel Art - Restriction Digests and Gel Electrophoresis
 | pre                           | post                            |
 | ----------------------------------- | ----------------------------------- |
