@@ -10,7 +10,7 @@ weight: 10
 1. The stock concentration of a mystery substance (MS) is 5 M.
 If the molar mass of MS is 532 g/mol, what’s the concentration of the stock concentration in g/mL? To make your life easier, you can use one of many online calculators.
 
-**Answer: The stock concentration of MS is 2.66 g/mL.**
+**Answer: The stock concentration of MS is 2.66 g/mL.**<br>
 **Steps:**
 **Molarity (M) is defined as moles of solute per liter of solution (mol/L).**
 **1. Convert moles to grams**
