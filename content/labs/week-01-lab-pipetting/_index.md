@@ -41,14 +41,13 @@ If the molar mass of MS is 532 g/mol, what’s the concentration of the stock co
 - Loading dye: (6X) · V1 = (1X) · (60 µL) → V1 = 10 µL  
 - MS: (100 µM) · V1 = (40 µM) · (60 µL) → V1 = (40/100) · 60 µL = 24 µL  
 - dH2O: 60 µL total − 10 µL dye − 24 µL MS = 26 µL
-
-We made 100 µM MS as a **working stock** because:
+**We made 100 µM MS as a working stock because:**
 > **1. Pipetting accuracy:**  
-> It’s much easier and more accurate to pipette volumes like 10–25 µL from a 100 µM stock than to pipette tiny volumes from a much more dilute 40 µM stock.
+> It’s much easier and more accurate to pipette volumes like 10–25 µL from a 100 µM stock than to pipette tiny volumes from a much more dilute 40 µM stock.<br>
 > **2. Flexibility:**  
-> A 100 µM stock can be used to make many different final concentrations (e.g., 10, 20, 40, 50 µM) simply by adjusting the volume added. A 40 µM stock would only be useful for reactions requiring exactly 40 µM.
+> A 100 µM stock can be used to make many different final concentrations (e.g., 10, 20, 40, 50 µM) simply by adjusting the volume added. A 40 µM stock would only be useful for reactions requiring exactly 40 µM.<br>
 > **3. Separation of tasks:**  
-> Preparing a 100 µM intermediate stock allows you to complete the serial dilution step once. After that, setting up reactions becomes a simple mixing step rather than repeating dilution calculations every time.
+> Preparing a 100 µM intermediate stock allows you to complete the serial dilution step once. After that, setting up reactions becomes a simple mixing step rather than repeating dilution calculations every time.<br>
 > **4. Cleaner math for the final mix:**  
 > Using a 100 µM stock makes the final reaction calculation simple.  
-> Going from 100 µM to 40 µM in a 60 µL reaction is a single C1V1 = C2V2 step, and it uses pipetting volumes that are accurate and easy to measure.
+> Going from 100 µM to 40 µM in a 60 µL reaction is a single C1V1 = C2V2 step, and it uses pipetting volumes that are accurate and easy to measure.<br>
