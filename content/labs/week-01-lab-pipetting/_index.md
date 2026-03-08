@@ -29,7 +29,7 @@ Total dilution factor = (5 mol/L) / (1 × 10<sup>-4</sup> mol/L) = 50,000.<br>
 • Tube 1: 1:100 dilution from the 5 M stock. Add 990 µL diluent + 10 µL of 5 M MS (P1000 + P10).<br> 
 &nbsp;&nbsp; Final concentration in Tube 1 = (5 M) / 100 = 0.05 M = 50 mM.<br>
 • Tube 2: 1:100 dilution from Tube 1. Add 990 µL diluent + 10 µL from Tube 1 (P1000 + P10).<br>
-&nbsp; Final concentration in Tube 2 = (50 mM) / 100 = 0.5 mM = 500 µM.<br>
+&nbsp;&nbsp; Final concentration in Tube 2 = (50 mM) / 100 = 0.5 mM = 500 µM.<br>
 • Tube 3: 1:5 dilution from Tube 2. Add 800 µL diluent + 200 µL from Tube 2 (both with P1000).<br>
 &nbsp;&nbsp; Final concentration in Tube 3 = (500 µM) / 5 = 100 µM.<br>
   
