@@ -4,19 +4,23 @@ weight: 10
 ---
 
 ## Part 1: Benchling & In-silico Gel Art<br>
-<img src="virtual_digest_sequence_lambda.png" width="500"><br>
-Part 2: Gel Art - Restriction Digests and Gel Electrophoresis
+<img src="virtual_digest_sequence_lambda.png" width="400"><br>
+## Part 2: Gel Art - Restriction Digests and Gel Electrophoresis
 | pre                           | post                            |
 | ----------------------------------- | ----------------------------------- |
 |<img src="gel_eletrophoresis_pre.jpg" width="225">|<img src="gel_electrophoresis_post.jpg" width="375">|
 
-Part 3: DNA Design Challenge
+## Part 3: DNA Design Challenge
+
 3.1. Choose your protein.
+
 3.2. Reverse Translate: Protein (amino acid) sequence to DNA (nucleotide) sequence.
+
 3.3. Codon optimization.
+
 3.4. You have a sequence! Now what?
 
-Part 5 DNA Read/Write/Edit
+## Part 5 DNA Read/Write/Edit
 
 5.1 DNA Read
 (i) What DNA would you want to sequence (e.g., read) and why?
