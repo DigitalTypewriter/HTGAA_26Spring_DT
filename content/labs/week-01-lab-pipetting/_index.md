@@ -40,7 +40,7 @@ If the molar mass of MS is 532 g/mol, what’s the concentration of the stock co
 **Check with C1V1 = C2V2:**  
 - Loading dye: (6X) · V1 = (1X) · (60 µL) → V1 = 10 µL  
 - MS: (100 µM) · V1 = (40 µM) · (60 µL) → V1 = (40/100) · 60 µL = 24 µL  
-- dH2O: 60 µL total − 10 µL dye − 24 µL MS = 26 µL
+- dH2O: 60 µL total − 10 µL dye − 24 µL MS = 26 µL<br>
 **We made 100 µM MS as a working stock because:**
 > **1. Pipetting accuracy:**  
 > It’s much easier and more accurate to pipette volumes like 10–25 µL from a 100 µM stock than to pipette tiny volumes from a much more dilute 40 µM stock.<br>
