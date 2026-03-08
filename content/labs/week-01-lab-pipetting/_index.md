@@ -43,7 +43,7 @@ Total dilution factor = (5 mol/L) / (1 × 10<sup>-4</sup> mol/L) = 50,000.<br>
 - MS: (100 µM) · V<sub>1</sub> = (40 µM) · (60 µL) → V<sub>1</sub> = (40/100) · 60 µL = 24 µL  
 - dH<sub>2</sub>O: 60 µL total − 10 µL dye − 24 µL MS = 26 µL
 
-**Answer 3 Part 2 - We made 100 µM MS as a working stock because:**
+**Answer 3 Part 2 - We made 100 µM MS as a working stock because:**<br>
 **1. Pipetting accuracy:**  
 It’s much easier and more accurate to pipette volumes like 10–25 µL from a 100 µM stock than to pipette tiny volumes from a much more dilute 40 µM stock.<br>
 **2. Flexibility:**  
