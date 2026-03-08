@@ -13,9 +13,9 @@ If the molar mass of MS is 532 g/mol, what’s the concentration of the stock co
 **Answer: The stock concentration of MS is 2.66 g/mL.**<br>
 **Steps:**<br>
 **Molarity (M) is defined as moles of solute per liter of solution (mol/L).**<br>
-- **- 1. Convert moles to grams. A 5 M solution contains 5 moles per liter: 5 mol/L * 532 g/mol = 2660 g/L**<br>
- - **- So there are 2660 g of MS in 1 L of the stock solution.**<br>
-- **- 2. Convert grams per liter to grams per milliliter: 2660 g / 1000 mL = 2.66 g/mL**
+> **- 1. Convert moles to grams. A 5 M solution contains 5 moles per liter: 5 mol/L * 532 g/mol = 2660 g/L**<br>
+ > **- So there are 2660 g of MS in 1 L of the stock solution.**<br>
+> **- 2. Convert grams per liter to grams per milliliter: 2660 g / 1000 mL = 2.66 g/mL**
 
 
 4. You will perform a serial dilution to get 100 uM of MS. Devise a plan to dilute a 5 M MS solution to 100 uM. How many dilution steps will we need? Which tubes should we use? Which pipettes?
