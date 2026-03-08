@@ -5,16 +5,23 @@ weight: 10
 
 ![cover image]()
 
-Dilution Practice 1
-Dilution Practice 2
+## Dilution Practice 1
+## Dilution Practice 2
 1. The stock concentration of a mystery substance (MS) is 5 M.
 If the molar mass of MS is 532 g/mol, what’s the concentration of the stock concentration in g/mL? To make your life easier, you can use one of many online calculators.
 
-the stock concentration is 2.66 g/ml.
-converts moles to grams: 5mol x 532 g/mol = 2660 g of MS per 1 L of solution.
-2660 g/1000mL = 2.66 g/mL.
+Answer: The stock concentration of MS is 2.66 g/mL.
+Steps:
+*molarity measures concentration unit, while grams measure weight
+Molarity (M) is defined as moles of solute per liter of solution (mol/L).
+1. Convert moles to grams
+A 5 M solution contains 5 moles per liter:
+5\mathrm{\  mol/L}\times 532\mathrm{\  g/mol}=2660\mathrm{\  g\  per\  liter}
+So there are 2660 g of MS in 1 L of the stock solution.
+2. Convert grams per liter to grams per milliliter
+\frac{2660\mathrm{\  g}}{1000\mathrm{\  mL}}=2.66\mathrm{\  g/mL}
 
-2. You will perform a serial dilution to get 100 uM of MS. Devise a plan to dilute a 5 M MS solution to 100 uM. How many dilution steps will we need? Which tubes should we use? Which pipettes?
+3. You will perform a serial dilution to get 100 uM of MS. Devise a plan to dilute a 5 M MS solution to 100 uM. How many dilution steps will we need? Which tubes should we use? Which pipettes?
 
 100 mm = 1 x 10-4 mm. total dilution factor: 5/1 x 10-4 = 50,000. I would have 3 dilution steps with 100x100x5. 
 - Number of dilution steps: 3
