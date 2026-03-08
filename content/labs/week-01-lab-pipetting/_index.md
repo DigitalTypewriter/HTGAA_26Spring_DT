@@ -3,6 +3,8 @@ title: 'Week 1 Lab: Pipetting'
 weight: 10
 ---
 
+# Performing Serial Dilution
+
 ![cover image]()
 
 ## Dilution Practice 1
@@ -29,10 +31,8 @@ If the molar mass of MS is 532 g/mol, what’s the concentration of the stock co
   
 3. Fill out the following chart to prepare a final reaction with 60 uL reaction volume. Why did we make 100 uM MS if we actually need 40 uM MS? Why not prepare 40 uM in serial dilutions?
 
-Reagent	/ Stock concentration /	Desired concentration /	Volume
-Loading dye	/ 6X /	1X	
-MS / 	100 uM /	40 uM	
-dH2O /	n/a /	n/a	
-
-Performing Serial Dilution
-<insert photo//
+| Reagent     | Stock concentration | Desired concentration | Volume |
+|-------------|---------------------|------------------------|--------|
+| Loading dye | 6X                  | 1X                     |        |
+| MS          | 100 µM              | 40 µM                  |        |
+| dH2O        | n/a                 | n/a                    |        |
