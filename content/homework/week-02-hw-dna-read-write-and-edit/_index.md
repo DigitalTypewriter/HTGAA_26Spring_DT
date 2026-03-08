@@ -1,5 +1,5 @@
 ---
-title: 'Week 2 HW: DNA Read, Write, and Edit'
+title: 'Week 2 HW: DNA Read, Write, & Edit'
 weight: 10
 ---
 
