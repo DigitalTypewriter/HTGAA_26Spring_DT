@@ -35,12 +35,12 @@ If the molar mass of MS is 532 g/mol, what’s the concentration of the stock co
 |-------------|---------------------|------------------------|--------------------------|
 | Loading dye | 6X                  | 1X                     | 10 µL                    |
 | MS          | 100 µM              | 40 µM                  | 24 µL                    |
-| dH2O        | n/a                 | n/a                    | 26 µL                    |
+| dH<sub>2</sub>O        | n/a                 | n/a                    | 26 µL                    |
 
-**Check with C1V1 = C2V2:**  
-- Loading dye: (6X) · V1 = (1X) · (60 µL) → V1 = 10 µL  
-- MS: (100 µM) · V1 = (40 µM) · (60 µL) → V1 = (40/100) · 60 µL = 24 µL  
-- dH2O: 60 µL total − 10 µL dye − 24 µL MS = 26 µL
+**Check with C<sub>1</sub>V<sub>1</sub> = C<sub>2</sub>V<sub>2</sub>:**  
+- Loading dye: (6X) · V<sub>1</sub> = (1X) · (60 µL) → V<sub>1</sub> = 10 µL  
+- MS: (100 µM) · V<sub>1</sub> = (40 µM) · (60 µL) → V<sub>1</sub> = (40/100) · 60 µL = 24 µL  
+- dH<sub>2</sub>O: 60 µL total − 10 µL dye − 24 µL MS = 26 µL
 
 **We made 100 µM MS as a working stock because:**
 > **1. Pipetting accuracy:**  
@@ -51,4 +51,4 @@ If the molar mass of MS is 532 g/mol, what’s the concentration of the stock co
 > Preparing a 100 µM intermediate stock allows you to complete the serial dilution step once. After that, setting up reactions becomes a simple mixing step rather than repeating dilution calculations every time.<br>
 > **4. Cleaner math for the final mix:**  
 > Using a 100 µM stock makes the final reaction calculation simple.  
-> Going from 100 µM to 40 µM in a 60 µL reaction is a single C1V1 = C2V2 step, and it uses pipetting volumes that are accurate and easy to measure.<br>
+> Going from 100 µM to 40 µM in a 60 µL reaction is a single C<sub>1</sub>V<sub>1</sub> = C<sub>2</sub>V<sub>2</sub> step, and it uses pipetting volumes that are accurate and easy to measure.<br>
