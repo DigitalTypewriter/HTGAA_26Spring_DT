@@ -20,8 +20,21 @@ A 5 M solution contains 5 moles per liter:
 So there are 2660 g of MS in 1 L of the stock solution.
 2. Convert grams per liter to grams per milliliter
 \frac{2660\mathrm{\  g}}{1000\mathrm{\  mL}}=2.66\mathrm{\  g/mL}
+$$
+5 \,\text{mol/L} \times 532 \,\text{g/mol} = 2660 \,\text{g/L}
+$$
 
-3. You will perform a serial dilution to get 100 uM of MS. Devise a plan to dilute a 5 M MS solution to 100 uM. How many dilution steps will we need? Which tubes should we use? Which pipettes?
+So there are **2660 g of MS in 1 L** of the stock solution.
+
+### 2. Convert grams per liter to grams per milliliter
+
+$$
+\frac{2660 \,\text{g}}{1000 \,\text{mL}} = 2.66 \,\text{g/mL}
+$$
+
+
+
+4. You will perform a serial dilution to get 100 uM of MS. Devise a plan to dilute a 5 M MS solution to 100 uM. How many dilution steps will we need? Which tubes should we use? Which pipettes?
 
 100 mm = 1 x 10-4 mm. total dilution factor: 5/1 x 10-4 = 50,000. I would have 3 dilution steps with 100x100x5. 
 - Number of dilution steps: 3
