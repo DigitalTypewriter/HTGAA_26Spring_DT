@@ -14,7 +14,12 @@ weight: 10
 
 3.1. Choose your protein.
 
-COPT1_ARATH Copper transporter 1 from Arabidopsis thaliana
+**I chose the protein Copper Transporter 1 (COPT1) from Arabidopsis thaliana (UniProt ID: COPT1_ARATH). This protein functions as a membrane transporter responsible for copper uptake in plants. Copper is an essential micronutrient required for many cellular processes, including photosynthesis and enzyme activity, but it can also become toxic at high concentrations. Because of this, organisms require specialized transport proteins such as COPT1 to regulate copper uptake and maintain homeostasis.**
+
+**I am interested in this protein because it is related to a research project I am developing involving the aquatic plant Lemna minor (duckweed). In this project, I am exploring whether introducing or increasing the expression of the copper uptake gene COPT1 could potentially enhance copper uptake in Lemna minor compared to the wild type. This could have implications for phytoremediation, where plants are used to remove heavy metals from contaminated water.**
+
+**To obtain the protein sequence, I searched for COPT1_ARATH on the UniProt database. The amino acid sequence for the COPT1 protein was copied directly from the UniProt entry and is provided below.**
+
 <p><span class="copy-to-clipboard" dir="auto"><code class="copy-to-clipboard-code highlight" data-code="&gt;sp|Q39065|COPT1_ARATH Copper transporter 1 OS=Arabidopsis thaliana OX=3702 GN=COPT1 PE=2 SV=2
 MDHDHMHGMPRPSSSSSSSPSSMMNNGSMNEGGGHHHMKMMMHMTFFWGKNTEVLFSGWP
 GTSSGMYALCLIFVFFLAVLTEWLAHSSLLRGSTGDSANRAAGLIQTAVYTLRIGLAYLV
