@@ -6,9 +6,8 @@ weight: 10
 ## Part 1: Benchling & In-silico Gel Art<br>
 <img src="virtual_digest_sequence_lambda.png" width="400"><br>
 ## Part 2: Gel Art - Restriction Digests and Gel Electrophoresis
-| pre                           | post                            |
-| ----------------------------------- | ----------------------------------- |
-|<img src="gel_eletrophoresis_pre.jpg" width="225">|<img src="gel_electrophoresis_post.jpg" width="375">|
+
+please visit the week2-lab page here: https://pages.htgaa.org/2026a/daniel-tseng/labs/week-02-lab-dna-gel-art/index.html
 
 ## Part 3: DNA Design Challenge
 
