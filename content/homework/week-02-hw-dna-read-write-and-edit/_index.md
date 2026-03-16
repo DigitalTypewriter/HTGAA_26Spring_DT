@@ -7,7 +7,7 @@ weight: 10
 <img src="virtual_digest_sequence_lambda.png" width="400"><br>
 ## Part 2: Gel Art - Restriction Digests and Gel Electrophoresis
 
-please visit the week2-lab page here: [pages.htgaa.org/2026a/daniel-tseng/labs/week-02-lab-dna-gel-art/](pages.htgaa.org/2026a/daniel-tseng/labs/week-02-lab-dna-gel-art/)
+please visit the week2-lab page here: [pages.htgaa.org/2026a/daniel-tseng/labs/week-02-lab-dna-gel-art/](http://pages.htgaa.org/2026a/daniel-tseng/labs/week-02-lab-dna-gel-art/)
 
 ## Part 3: DNA Design Challenge
 
