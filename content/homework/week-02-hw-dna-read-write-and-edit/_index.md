@@ -30,6 +30,9 @@ MLAVMSFNAGVFLVALAGHAVGFMLFGSQTFRNTSDDRKTNYVPPSGCAC</code><span class="btn cstyle
 
 3.2. Reverse Translate: Protein (amino acid) sequence to DNA (nucleotide) sequence.
 
+Because of the degeneracy of the genetic code, multiple DNA sequences can encode the same protein. Therefore this Reverse translation still needs codon optimized for the host organism, Lemna minor in this case, to improve expression.
+<p>COPT1-ARATH Protein Reverse-translated DNA sequence<br><span class="copy-to-clipboard" dir="auto"><code class="copy-to-clipboard-code highlight" data-code="atggatcatgaccatatgcacatgggtatgccgcggccgtcttcttcttcttcttcttcttctccgtcttctatgatgaacaacggttctatgaacgaaggtggtggtcaccaccacatgaaaatgatgatgcacatgacctttttctggggtaaaaacacggaagtgctgttctctggctggccaggcacctcttctggtatgtacgccctgtgtctcatcttcgtcttcttcttggccgtgctgacggaatggctggcgcactcttctctgctgcggggttctactggtgactctgcgaaccgtgcggctgggcttatccaaactgcggtgtacactctgcgtattggcctggcctacgtgctgatggttctggcggtgatgagctttaacgccggtgtgtttctggtggccctggccggtcatgcggtgggtttcatgctgttcggctcccaaaccttccgtaacacctctgatgatcggaagacgaactacgtgccgccatctggttgtgcctgt">atggatcatgaccatatgcacatgggtatgccgcggccgtcttcttcttcttcttcttcttctccgtcttctatgatgaacaacggttctatgaacgaaggtggtggtcaccaccacatgaaaatgatgatgcacatgacctttttctggggtaaaaacacggaagtgctgttctctggctggccaggcacctcttctggtatgtacgccctgtgtctcatcttcgtcttcttcttggccgtgctgacggaatggctggcgcactcttctctgctgcggggttctactggtgactctgcgaaccgtgcggctgggcttatccaaactgcggtgtacactctgcgtattggcctggcctacgtgctgatggttctggcggtgatgagctttaacgccggtgtgtttctggtggccctggccggtcatgcggtgggtttcatgctgttcggctcccaaaccttccgtaacacctctgatgatcggaagacgaactacgtgccgccatctggttgtgcctgt</code><span class="btn cstyle inline-copy-to-clipboard-button inline notitle interactive"><button type="button" title="Copy text to clipboard"><i class="fa-fw far fa-copy"></i></button></span></span></p>
+
 3.3. Codon optimization.
 
 3.4. You have a sequence! Now what?
