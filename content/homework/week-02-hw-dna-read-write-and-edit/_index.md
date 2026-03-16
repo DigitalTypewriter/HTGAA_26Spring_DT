@@ -42,6 +42,8 @@ MLAVMSFNAGVFLVALAGHAVGFMLFGSQTFRNTSDDRKTNYVPPSGCAC</code><span class="btn cstyle
 
 **For this project, the codon sequence was optimized for Lemna minor (duckweed). This organism was chosen because the goal of the project is to introduce and express the copper transporter protein COPT1 in Lemna minor in order to potentially enhance copper uptake compared to the wild type. Optimizing the codon usage for Lemna minor increases the chance that the plant’s cellular machinery will efficiently translate the gene and produce the desired protein.**
 
+Lemna minor [gbpln]: 4 CDS's (1597 codons) 
+fields: [triplet] [frequency: per thousand] ([number]) 
 <pre>
 UUU 17.5(    28)  UCU 13.8(    22)  UAU  8.8(    14)  UGU  5.0(     8)
 UUC 36.3(    58)  UCC 17.5(    28)  UAC 15.7(    25)  UGC 14.4(    23)
@@ -63,6 +65,7 @@ GUC 25.0(    40)  GCC 22.5(    36)  GAC 26.3(    42)  GGC 21.9(    35)
 GUA  6.3(    10)  GCA 14.4(    23)  GAA 26.3(    42)  GGA 16.9(    27)
 GUG 30.7(    49)  GCG 18.2(    29)  GAG 40.1(    64)  GGG 18.2(    29)
 </pre>
+https://www.kazusa.or.jp/codon/cgi-bin/showcodon.cgi?species=4472
 
 3.4. You have a sequence! Now what?
 
