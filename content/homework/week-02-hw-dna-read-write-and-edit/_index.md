@@ -36,6 +36,48 @@ MLAVMSFNAGVFLVALAGHAVGFMLFGSQTFRNTSDDRKTNYVPPSGCAC</code><span class="btn cstyle
 
 3.3. Codon optimization.
 
+UUU 17.5(    28)  UCU 13.8(    22)  UAU  8.8(    14)  UGU  5.0(     8)
+UUC 36.3(    58)  UCC 17.5(    28)  UAC 15.7(    25)  UGC 14.4(    23)
+UUA  5.6(     9)  UCA 14.4(    23)  UAA  0.0(     0)  UGA  1.9(     3)
+UUG 13.8(    22)  UCG 13.8(    22)  UAG  0.6(     1)  UGG 16.3(    26)
+
+CUU 15.7(    25)  CCU 11.9(    19)  CAU  6.9(    11)  CGU  4.4(     7)
+CUC 25.7(    41)  CCC 15.7(    25)  CAC 16.9(    27)  CGC 18.2(    29)
+CUA  5.0(     8)  CCA 11.3(    18)  CAA 10.0(    16)  CGA  6.3(    10)
+CUG 21.3(    34)  CCG 14.4(    23)  CAG 22.5(    36)  CGG 10.6(    17)
+
+AUU 18.8(    30)  ACU  9.4(    15)  AAU 13.8(    22)  AGU 10.0(    16)
+AUC 19.4(    31)  ACC 17.5(    28)  AAC 21.9(    35)  AGC 15.0(    24)
+AUA  1.9(     3)  ACA  5.0(     8)  AAA 15.7(    25)  AGA 20.7(    33)
+AUG 20.7(    33)  ACG 10.0(    16)  AAG 35.7(    57)  AGG 17.5(    28)
+
+GUU 15.0(    24)  GCU 25.0(    40)  GAU 20.0(    32)  GGU  8.1(    13)
+GUC 25.0(    40)  GCC 22.5(    36)  GAC 26.3(    42)  GGC 21.9(    35)
+GUA  6.3(    10)  GCA 14.4(    23)  GAA 26.3(    42)  GGA 16.9(    27)
+GUG 30.7(    49)  GCG 18.2(    29)  GAG 40.1(    64)  GGG 18.2(    29)
+<pre>
+UUU 17.5(    28)  UCU 13.8(    22)  UAU  8.8(    14)  UGU  5.0(     8)
+UUC 36.3(    58)  UCC 17.5(    28)  UAC 15.7(    25)  UGC 14.4(    23)
+UUA  5.6(     9)  UCA 14.4(    23)  UAA  0.0(     0)  UGA  1.9(     3)
+UUG 13.8(    22)  UCG 13.8(    22)  UAG  0.6(     1)  UGG 16.3(    26)
+
+CUU 15.7(    25)  CCU 11.9(    19)  CAU  6.9(    11)  CGU  4.4(     7)
+CUC 25.7(    41)  CCC 15.7(    25)  CAC 16.9(    27)  CGC 18.2(    29)
+CUA  5.0(     8)  CCA 11.3(    18)  CAA 10.0(    16)  CGA  6.3(    10)
+CUG 21.3(    34)  CCG 14.4(    23)  CAG 22.5(    36)  CGG 10.6(    17)
+
+AUU 18.8(    30)  ACU  9.4(    15)  AAU 13.8(    22)  AGU 10.0(    16)
+AUC 19.4(    31)  ACC 17.5(    28)  AAC 21.9(    35)  AGC 15.0(    24)
+AUA  1.9(     3)  ACA  5.0(     8)  AAA 15.7(    25)  AGA 20.7(    33)
+AUG 20.7(    33)  ACG 10.0(    16)  AAG 35.7(    57)  AGG 17.5(    28)
+
+GUU 15.0(    24)  GCU 25.0(    40)  GAU 20.0(    32)  GGU  8.1(    13)
+GUC 25.0(    40)  GCC 22.5(    36)  GAC 26.3(    42)  GGC 21.9(    35)
+GUA  6.3(    10)  GCA 14.4(    23)  GAA 26.3(    42)  GGA 16.9(    27)
+GUG 30.7(    49)  GCG 18.2(    29)  GAG 40.1(    64)  GGG 18.2(    29)
+</pre>
+
+
 3.4. You have a sequence! Now what?
 
 ## Part 5 DNA Read/Write/Edit
