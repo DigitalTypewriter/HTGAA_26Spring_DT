@@ -42,7 +42,7 @@ MLAVMSFNAGVFLVALAGHAVGFMLFGSQTFRNTSDDRKTNYVPPSGCAC</code><span class="btn cstyle
 
 **For this project, the codon sequence was optimized for Lemna minor (duckweed). This organism was chosen because the goal of the project is to introduce and express the copper transporter protein COPT1 in Lemna minor in order to potentially enhance copper uptake compared to the wild type. Optimizing the codon usage for Lemna minor increases the chance that the plant’s cellular machinery will efficiently translate the gene and produce the desired protein.**
 
-Lemna minor [gbpln]: 4 CDS's (1597 codons) 
+Lemna minor [gbpln]: 4 CDS's (1597 codons) <br>
 fields: [triplet] [frequency: per thousand] ([number]) 
 <pre>
 UUU 17.5(    28)  UCU 13.8(    22)  UAU  8.8(    14)  UGU  5.0(     8)
