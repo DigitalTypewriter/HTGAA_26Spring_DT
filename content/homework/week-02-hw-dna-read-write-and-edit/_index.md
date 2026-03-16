@@ -13,11 +13,8 @@ weight: 10
 ## Part 3: DNA Design Challenge
 
 3.1. Choose your protein.
->sp|Q39065|COPT1_ARATH Copper transporter 1 OS=Arabidopsis thaliana OX=3702 GN=COPT1 PE=2 SV=2
-MDHDHMHGMPRPSSSSSSSPSSMMNNGSMNEGGGHHHMKMMMHMTFFWGKNTEVLFSGWP
-GTSSGMYALCLIFVFFLAVLTEWLAHSSLLRGSTGDSANRAAGLIQTAVYTLRIGLAYLV
-MLAVMSFNAGVFLVALAGHAVGFMLFGSQTFRNTSDDRKTNYVPPSGCAC
 
+COPT1_ARATH Copper transporter 1 from Arabidopsis thaliana
 <p><span class="copy-to-clipboard" dir="auto"><code class="copy-to-clipboard-code highlight" data-code="&gt;sp|Q39065|COPT1_ARATH Copper transporter 1 OS=Arabidopsis thaliana OX=3702 GN=COPT1 PE=2 SV=2
 MDHDHMHGMPRPSSSSSSSPSSMMNNGSMNEGGGHHHMKMMMHMTFFWGKNTEVLFSGWP
 GTSSGMYALCLIFVFFLAVLTEWLAHSSLLRGSTGDSANRAAGLIQTAVYTLRIGLAYLV
@@ -25,6 +22,7 @@ MLAVMSFNAGVFLVALAGHAVGFMLFGSQTFRNTSDDRKTNYVPPSGCAC">&gt;sp|Q39065|COPT1_ARATH Co
 MDHDHMHGMPRPSSSSSSSPSSMMNNGSMNEGGGHHHMKMMMHMTFFWGKNTEVLFSGWP
 GTSSGMYALCLIFVFFLAVLTEWLAHSSLLRGSTGDSANRAAGLIQTAVYTLRIGLAYLV
 MLAVMSFNAGVFLVALAGHAVGFMLFGSQTFRNTSDDRKTNYVPPSGCAC</code><span class="btn cstyle inline-copy-to-clipboard-button inline notitle interactive"><button type="button" title="Copy text to clipboard"><i class="fa-fw far fa-copy"></i></button></span></span></p>
+
 3.2. Reverse Translate: Protein (amino acid) sequence to DNA (nucleotide) sequence.
 
 3.3. Codon optimization.
