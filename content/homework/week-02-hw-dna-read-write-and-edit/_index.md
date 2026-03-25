@@ -151,7 +151,7 @@ Also answer the following questions:
 Also answer the following questions:
     How does your technology of choice edit DNA? What are the essential steps?
     What preparation do you need to do (e.g. design steps) and what is the input (e.g. DNA template, enzymes, plasmids, primers, guides, cells) for the editing?
-    What are the limitations of your editing methods (if any) in terms of efficiency or precision?
+    What are the limitations of your editing methods (if any) in terms of efficiency or precision?<br>
 **<mark>CRISPR‑Cas9</mark> would be used for genome editing because it enables targeted modifications in plant genomes, including insertions, deletions, and gene replacements. In this project, CRISPR‑Cas9 conceptually allows insertion of the codon‑optimized COPT1/PCS/RFP cassette into the Lemna minor genome.**<br>
 **The system uses a guide RNA (gRNA) that directs the Cas9 nuclease to a specific genomic sequence, where Cas9 introduces a double‑strand break. The plant repairs this break either through non‑homologous end joining (NHEJ), which produces small insertions or deletions and can knock out genes, or through homology‑directed repair (HDR) if a donor DNA template is provided, enabling precise insertion of the engineered COPT1 cassette. Inputs include the gRNA design, a Cas9 expression cassette, donor DNA for HDR, and plant tissue.**<br>
 **Limitations include low HDR efficiency in plants, potential off‑target edits, and the need to screen many plants to identify those with the correct genomic modification.**
