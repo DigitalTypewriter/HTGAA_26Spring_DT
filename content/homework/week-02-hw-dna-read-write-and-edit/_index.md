@@ -109,9 +109,9 @@ Also answer the following questions:
 - **Project: Confirms that the entire COPT1/PCS/RFP cassette integrated as a single, intact unit.**
 
 **Citations:**<br>
-    Goodwin et al., Nat Rev Genet (2016) – overview of sequencing generations.<br>
-    Heather & Chain, Genome Biology (2016) – Illumina workflow.<br>
-    Jain et al., Nat Biotechnol (2016) – Nanopore long‑read sequencing.<br>
+    **Goodwin et al., Nat Rev Genet (2016) – overview of sequencing generations.**<br>
+    **Heather & Chain, Genome Biology (2016) – Illumina workflow.**<br>
+    **Jain et al., Nat Biotechnol (2016) – Nanopore long‑read sequencing.**<br>
 
 5.2 DNA Write
 (i) What DNA would you want to synthesize (e.g., write) and why?<br>
@@ -136,8 +136,8 @@ Also answer the following questions:
   - **Cost increases with size and complexity**
 
 **Citations:**<br>
-    Kosuri & Church, Nat Methods (2014) – gene synthesis technologies.<br>
-    Beaucage & Caruthers, Tetrahedron (1981) – phosphoramidite chemistry.<br>
+    **Kosuri & Church, Nat Methods (2014) – gene synthesis technologies.**<br>
+    **Beaucage & Caruthers, Tetrahedron (1981) – phosphoramidite chemistry.**<br>
 
 5.3 DNA Edit
 (i) What DNA would you want to edit and why?<br>
@@ -152,6 +152,9 @@ Also answer the following questions:
     How does your technology of choice edit DNA? What are the essential steps?
     What preparation do you need to do (e.g. design steps) and what is the input (e.g. DNA template, enzymes, plasmids, primers, guides, cells) for the editing?
     What are the limitations of your editing methods (if any) in terms of efficiency or precision?<br>
+    
 **<mark>CRISPR‑Cas9</mark> would be used for genome editing because it enables targeted modifications in plant genomes, including insertions, deletions, and gene replacements. In this project, CRISPR‑Cas9 conceptually allows insertion of the codon‑optimized COPT1/PCS/RFP cassette into the Lemna minor genome.**<br>
+
 **The system uses a guide RNA (gRNA) that directs the Cas9 nuclease to a specific genomic sequence, where Cas9 introduces a double‑strand break. The plant repairs this break either through non‑homologous end joining (NHEJ), which produces small insertions or deletions and can knock out genes, or through homology‑directed repair (HDR) if a donor DNA template is provided, enabling precise insertion of the engineered COPT1 cassette. Inputs include the gRNA design, a Cas9 expression cassette, donor DNA for HDR, and plant tissue.**<br>
+
 **Limitations include low HDR efficiency in plants, potential off‑target edits, and the need to screen many plants to identify those with the correct genomic modification.**
