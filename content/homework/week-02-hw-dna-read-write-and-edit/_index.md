@@ -78,15 +78,6 @@ https://www.kazusa.or.jp/codon/cgi-bin/showcodon.cgi?species=4472
 
 5.1 DNA Read
 (i) What DNA would you want to sequence (e.g., read) and why?
-(ii) In lecture, a variety of sequencing technologies were mentioned. What technology or technologies would you use to perform sequencing on your DNA and why?
-Also answer the following questions:
-    Is your method first-, second- or third-generation or other? How so?
-    What is your input? How do you prepare your input (e.g. fragmentation, adapter ligation, PCR)? List the essential steps.
-    What are the essential steps of your chosen sequencing technology, how does it decode the bases of your DNA sample (base calling)?
-    What is the output of your chosen sequencing technology?
-
-5.2 DNA Write
-(i) What DNA would you want to synthesize (e.g., write) and why?
 
 **For the Lemna minor project, I would sequence:**
 - **The <mark>engineered plasmid</mark> containing codon‑optimized COPT1, PCS, and RFP to confirm the construct is correct before transformation.**
@@ -94,11 +85,13 @@ Also answer the following questions:
 - **<mark>Flanking genomic regions</mark> to confirm insertion site(s) and rule out unintended mutations.**<br>
 **These sequencing is to ensure that the introduced COPT1 gene is intact, correctly optimized, and stably integrated—critical for evaluating copper‑uptake phenotypes.**
 
-(ii) What technology or technologies would you use to perform this DNA synthesis and why?
+(ii) In lecture, a variety of sequencing technologies were mentioned. What technology or technologies would you use to perform sequencing on your DNA and why?
 Also answer the following questions:
-    What are the essential steps of your chosen sequencing methods?
-    What are the limitations of your sequencing method (if any) in terms of speed, accuracy, scalability?
-
+    Is your method first-, second- or third-generation or other? How so?
+    What is your input? How do you prepare your input (e.g. fragmentation, adapter ligation, PCR)? List the essential steps.
+    What are the essential steps of your chosen sequencing technology, how does it decode the bases of your DNA sample (base calling)?
+    What is the output of your chosen sequencing technology?
+    
 **I would use a hybrid approach of both <mark>Illumina Sequencing (2nd) & Oxford Nanopore Sequencing (3rd)</mark>:**
 
 **<mark>Illumina Sequencing (Second‑Generation)</mark>**
@@ -119,6 +112,14 @@ Also answer the following questions:
     Goodwin et al., Nat Rev Genet (2016) – overview of sequencing generations.<br>
     Heather & Chain, Genome Biology (2016) – Illumina workflow.<br>
     Jain et al., Nat Biotechnol (2016) – Nanopore long‑read sequencing.<br>
+
+5.2 DNA Write
+(i) What DNA would you want to synthesize (e.g., write) and why?
+
+(ii) What technology or technologies would you use to perform this DNA synthesis and why?
+Also answer the following questions:
+    What are the essential steps of your chosen sequencing methods?
+    What are the limitations of your sequencing method (if any) in terms of speed, accuracy, scalability?
 
 5.3 DNA Edit
 (i) What DNA would you want to edit and why?
