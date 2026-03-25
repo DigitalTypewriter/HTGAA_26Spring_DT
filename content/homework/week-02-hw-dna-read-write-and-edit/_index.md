@@ -91,13 +91,34 @@ Also answer the following questions:
 **For the Lemna minor project, I would sequence:**
 - **The <mark>engineered plasmid</mark> containing codon‑optimized COPT1, PCS, and RFP to confirm the construct is correct before transformation.**
 - **The <mark>T‑DNA insertion region</mark> in transformed Lemna minor to verify that the entire expression cassette integrated properly and without rearrangements.**
-- **<mark>Flanking genomic regions</mark> to confirm insertion site(s) and rule out unintended mutations.**
+- **<mark>Flanking genomic regions</mark> to confirm insertion site(s) and rule out unintended mutations.**<br>
 **These sequencing is to ensure that the introduced COPT1 gene is intact, correctly optimized, and stably integrated—critical for evaluating copper‑uptake phenotypes.**
 
 (ii) What technology or technologies would you use to perform this DNA synthesis and why?
 Also answer the following questions:
     What are the essential steps of your chosen sequencing methods?
     What are the limitations of your sequencing method (if any) in terms of speed, accuracy, scalability?
+
+**I would use a hybrid approach of both <mark>Illumina Sequencing (2nd) & Oxford Nanopore Sequencing (3rd)</mark>:**
+
+**<mark>Illumina Sequencing (Second‑Generation)</mark>**
+- **Why: High accuracy for confirming the exact nucleotide sequence of the plasmid and transgene.**
+- **How it works: Sequencing‑by‑synthesis with fluorescently labeled nucleotides; optical detection produces short reads (50–300 bp).**
+- **Input & preparation: Extracted DNA → fragmentation → adapter ligation → cluster amplification.**
+- **Output: Millions of short, accurate reads ideal for mutation checking.**
+- **Project: Ensures the codon‑optimized COPT1 sequence is error‑free.**
+
+**<mark>Oxford Nanopore Sequencing (Third‑Generation)</mark>**
+- **Why: Long reads allow full T‑DNA insertion mapping in Lemna minor.**
+- **How it works: DNA passes through a nanopore; current disruptions correspond to nucleotide patterns.**
+- **Input & preparation: High‑molecular‑weight DNA with ligated adapters.**
+- **Output: Long reads (kb–Mb) ideal for structural verification.**
+- **Project: Confirms that the entire COPT1/PCS/RFP cassette integrated as a single, intact unit.**
+
+**Citations:**<br>
+    Goodwin et al., Nat Rev Genet (2016) – overview of sequencing generations.<br>
+    Heather & Chain, Genome Biology (2016) – Illumina workflow.<br>
+    Jain et al., Nat Biotechnol (2016) – Nanopore long‑read sequencing.<br>
 
 5.3 DNA Edit
 (i) What DNA would you want to edit and why?
