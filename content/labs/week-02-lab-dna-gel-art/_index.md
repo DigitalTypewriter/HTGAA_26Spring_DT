@@ -5,8 +5,8 @@ weight: 10
 ## Gel Art - Restriction Digests and Gel Electrophoresis
 Protocol | Part 0: Designing your Gel Art<br>
 Protocol | Part 1a: Preparing a 1% agarose electrophoresis gel<br>
-gel protocals
-<img src="gelart_protocal1.jpg" width="225"> <img src="gelart_protocal2.jpg" width="375">
+gel protocals<br>
+<img src="gelart_protocal1.jpg" width="225"> <img src="gelart_protocal2.jpg" width="225"><br>
 Protocol | Part 1b: Restriction Digest<br>
 Protocol | Part 2: Gel Run<br>
 Protocol | Part 3: Imaging Your Results with a Transilluminator<br>
