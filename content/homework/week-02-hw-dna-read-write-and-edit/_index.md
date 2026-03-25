@@ -114,12 +114,30 @@ Also answer the following questions:
     Jain et al., Nat Biotechnol (2016) – Nanopore long‑read sequencing.<br>
 
 5.2 DNA Write
-(i) What DNA would you want to synthesize (e.g., write) and why?
+(i) What DNA would you want to synthesize (e.g., write) and why?<br>
+
+**I would synthesize:**<br>
+- **The <mark>codon‑optimized COPT1 gene</mark> tailored for Lemna minor codon usage.**
+- **<mark>PCS and RFP coding sequences</mark>**
+- **<mark>Regulatory elements (promoters, terminators)</mark>**
+- **The <mark>full multi‑gene expression cassette</mark>, if ordered as a single synthetic construct.**<br>
 
 (ii) What technology or technologies would you use to perform this DNA synthesis and why?
 Also answer the following questions:
     What are the essential steps of your chosen sequencing methods?
-    What are the limitations of your sequencing method (if any) in terms of speed, accuracy, scalability?
+    What are the limitations of your sequencing method (if any) in terms of speed, accuracy, scalability?<br>
+
+**Commercial DNA Synthesis (Phosphoramidite Chemistry + Enzymatic Assembly)**<br>
+- **Why: Industry standard for accurate, customizable gene synthesis.**
+- **Essential steps: Chemical synthesis of short oligos -> Purification -> Enzymatic assembly into full genes -> Sequence verification**
+- **Limitations:**
+  - **Length constraints (long constructs require assembly)**
+  - **Slower turnaround time**
+  - **Cost increases with size and complexity**
+
+**Citations:**<br>
+    Kosuri & Church, Nat Methods (2014) – gene synthesis technologies.<br>
+    Beaucage & Caruthers, Tetrahedron (1981) – phosphoramidite chemistry.<br>
 
 5.3 DNA Edit
 (i) What DNA would you want to edit and why?
