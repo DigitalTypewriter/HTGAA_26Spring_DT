@@ -2,6 +2,9 @@
 title: 'Week 3 HW: Lab Automation'
 weight: 10
 ---
+| GUI design                            | Opentron                            |
+| ----------------------------------- | ----------------------------------- |
+|<img src="well_plate_design.png" width="1000">|<img src="PXL_20260323_195820053.RAW-01.jpg" width="1000">|
 Python Script for Opentrons Artwork
 upload the code
 
