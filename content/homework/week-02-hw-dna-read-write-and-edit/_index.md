@@ -87,6 +87,13 @@ Also answer the following questions:
 
 5.2 DNA Write
 (i) What DNA would you want to synthesize (e.g., write) and why?
+
+**For the Lemna minor project, I would sequence:**
+- **The <mark>engineered plasmid</mark> containing codon‑optimized COPT1, PCS, and RFP to confirm the construct is correct before transformation.**
+- **The <mark>T‑DNA insertion region</mark> in transformed Lemna minor to verify that the entire expression cassette integrated properly and without rearrangements.**
+- **<mark>Flanking genomic regions</mark> to confirm insertion site(s) and rule out unintended mutations.**
+**These sequencing is to ensure that the introduced COPT1 gene is intact, correctly optimized, and stably integrated—critical for evaluating copper‑uptake phenotypes.**
+
 (ii) What technology or technologies would you use to perform this DNA synthesis and why?
 Also answer the following questions:
     What are the essential steps of your chosen sequencing methods?
