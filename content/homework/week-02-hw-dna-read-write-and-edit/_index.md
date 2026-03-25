@@ -140,9 +140,18 @@ Also answer the following questions:
     Beaucage & Caruthers, Tetrahedron (1981) – phosphoramidite chemistry.<br>
 
 5.3 DNA Edit
-(i) What DNA would you want to edit and why?
+(i) What DNA would you want to edit and why?<br>
+
+**I would edit:**<br>
+- **The <mark>Lemna minor genome</mark> to insert the COPT1/PCS/RFP expression cassette for stable transgenic lines.**
+- **Optionally, <mark>endogenous copper‑transport genes</mark> to study synergistic or compensatory effects.**
+**This allows direct testing of whether COPT1 overexpression enhances copper uptake.**<br>
+
 (ii) What technology or technologies would you use to perform these DNA edits and why?
 Also answer the following questions:
     How does your technology of choice edit DNA? What are the essential steps?
     What preparation do you need to do (e.g. design steps) and what is the input (e.g. DNA template, enzymes, plasmids, primers, guides, cells) for the editing?
     What are the limitations of your editing methods (if any) in terms of efficiency or precision?
+**<mark>CRISPR‑Cas9</mark> would be used for genome editing because it enables targeted modifications in plant genomes, including insertions, deletions, and gene replacements. In this project, CRISPR‑Cas9 conceptually allows insertion of the codon‑optimized COPT1/PCS/RFP cassette into the Lemna minor genome.**<br>
+**The system uses a guide RNA (gRNA) that directs the Cas9 nuclease to a specific genomic sequence, where Cas9 introduces a double‑strand break. The plant repairs this break either through non‑homologous end joining (NHEJ), which produces small insertions or deletions and can knock out genes, or through homology‑directed repair (HDR) if a donor DNA template is provided, enabling precise insertion of the engineered COPT1 cassette. Inputs include the gRNA design, a Cas9 expression cassette, donor DNA for HDR, and plant tissue.**<br>
+**Limitations include low HDR efficiency in plants, potential off‑target edits, and the need to screen many plants to identify those with the correct genomic modification.**
