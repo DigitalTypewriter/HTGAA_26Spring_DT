@@ -68,6 +68,12 @@ https://www.kazusa.or.jp/codon/cgi-bin/showcodon.cgi?species=4472
 
 3.4. You have a sequence! Now what?
 
+**For this project, I would use a cell-dependent, plant-based expression system to produce the target proteins in Lemna minor. Specifically, I would use Agrobacterium-mediated transformation, a common method for introducing foreign DNA into plant cells.**
+
+**First, the DNA sequences encoding <mark>COPT1, phytochelatin synthase, and a red fluorescent protein (RFP)</mark> reporter would be inserted into a plant expression plasmid using molecular cloning techniques such as restriction enzyme digestion and ligation (or Gibson assembly). The construct would include <mark>multiple expression cassettes: a CaMV 35S promoter driving COPT1 to enhance copper uptake, a second promoter (such as ubiquitin or CaMV 35S) driving phytochelatin synthase to facilitate heavy metal sequestration, and an RFP reporter gene for visualization.</mark> Each gene would be followed by a suitable terminator such as the NOS terminator, along with a selectable marker gene to identify successfully transformed cells. The recombinant plasmid is then introduced into Agrobacterium tumefaciens, a soil bacterium naturally capable of transferring DNA into plant cells.**
+
+**During Agrobacterium-mediated transformation, the bacterium attaches to plant tissue and transfers a specific region of its plasmid, known as T-DNA, into the plant cell. The engineered genes are placed within this T-DNA region, allowing them to be delivered into the plant cell and, in many cases, integrated into the plant genome. This enables stable expression of all introduced genes in Lemna minor. Once inside the plant cell, the introduced DNA is transcribed into messenger RNA (mRNA) by the plant’s RNA polymerase. The mRNA is then translated by ribosomes into their respective proteins, with each codon specifying an amino acid in the growing polypeptide chains.**
+
 ## Part 5 DNA Read/Write/Edit
 
 5.1 DNA Read
