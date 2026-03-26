@@ -6,7 +6,13 @@ weight: 10
 Part A: Conceptual Questions
 Answer any NINE of the following questions from Shuguang Zhang: (i.e. you can select two to skip)
 1. How many molecules of amino acids do you take with a piece of 500 grams of meat? (on average an amino acid is ~100 Daltons)
+
+**<mark>6.022×1023 molecules.</mark> A 500‑gram piece of meat contains about 20% protein, so 500 g×0.20=100 g of protein. Using an average amino acid mass of roughly 100 Daltons (≈100 g/mol), this corresponds to 100 g/100 g/mol=1 mol of amino acids. Since one mole contains 6.022×1023 molecules, eating 500 grams of meat provides on the order of 6×1023 individual amino acid molecules.**
+
 2. Why do humans eat beef but do not become a cow, eat fish but do not become fish?
+
+**Humans don’t turn into cows or fish when we eat them because <mark>digestion breaks biological structures down into their simplest components: proteins are dismantled into amino acids, DNA into nucleotides, and lipids into fatty acids</mark>. Once reduced to these basic molecules, the body discards the original organism’s structure and identity and instead uses the raw materials to build human proteins and cells according to human DNA instructions. In other words, we absorb building blocks, not templates, so eating beef or fish provides nutrients but never transfers the biological “identity” of the organism we consumed.**
+
 3. Why are there only 20 natural amino acids?
 4. Can you make other non-natural amino acids? Design some new amino acids.
 5. Where did amino acids come from before enzymes that make them, and before life started?
