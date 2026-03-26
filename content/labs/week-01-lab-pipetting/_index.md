@@ -52,15 +52,14 @@ If the molar mass of MS is 532 g/mol, what’s the concentration of the stock co
 
 **Answer 3 Part 2 -**<br>
 **We made 100 µM MS as a working stock because:**<br>
-**1. Pipetting accuracy:**<br>  
+**1. Pipetting accuracy:**  
 **It’s much easier and more accurate to pipette volumes like 10–25 µL from a 100 µM stock than to pipette tiny volumes from a much more dilute 40 µM stock.<br>**
 
-**2. Flexibility:**<br>  
+**2. Flexibility:**
 **A 100 µM stock can be used to make many different final concentrations (e.g., 10, 20, 40, 50 µM) simply by adjusting the volume added. A 40 µM stock would only be useful for reactions requiring exactly 40 µM.<br>**
 
-**3. Separation of tasks:**<br>  
+**3. Separation of tasks:**  
 **Preparing a 100 µM intermediate stock allows you to complete the serial dilution step once. After that, setting up reactions becomes a simple mixing step rather than repeating dilution calculations every time.<br>**
 
 **4. Cleaner math for the final mix:** 
-**Using a 100 µM stock makes the final reaction calculation simple.**  
-**Going from 100 µM to 40 µM in a 60 µL reaction is a single C<sub>1</sub>V<sub>1</sub> = C<sub>2</sub>V<sub>2</sub> step, and it uses pipetting volumes that are accurate and easy to measure.<br>**
+**Using a 100 µM stock makes the final reaction calculation simple. Going from 100 µM to 40 µM in a 60 µL reaction is a single C<sub>1</sub>V<sub>1</sub> = C<sub>2</sub>V<sub>2</sub> step, and it uses pipetting volumes that are accurate and easy to measure.<br>**
