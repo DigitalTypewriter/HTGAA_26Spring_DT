@@ -51,9 +51,10 @@ If the molar mass of MS is 532 g/mol, what’s the concentration of the stock co
 - **dH<sub>2</sub>O: 60 µL total − 10 µL dye − 24 µL MS = 26 µL**
 
 **Answer 3 Part 2 -**<br>
-**We made 100 µM MS as a working stock because:**<br>
-**1. Pipetting accuracy:**  
-**It’s much easier and more accurate to pipette volumes like 10–25 µL from a 100 µM stock than to pipette tiny volumes from a much more dilute 40 µM stock.<br>**
+
+**We made 100 µM MS as a working stock because:**
+
+**1. Pipetting accuracy: It’s much easier and more accurate to pipette volumes like 10–25 µL from a 100 µM stock than to pipette tiny volumes from a much more dilute 40 µM stock.<br>**
 
 **2. Flexibility:**
 **A 100 µM stock can be used to make many different final concentrations (e.g., 10, 20, 40, 50 µM) simply by adjusting the volume added. A 40 µM stock would only be useful for reactions requiring exactly 40 µM.<br>**
