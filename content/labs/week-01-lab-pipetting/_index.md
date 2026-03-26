@@ -51,7 +51,6 @@ Answer 3 Part 1 -<br>
 - **dH<sub>2</sub>O: 60 µL total − 10 µL dye − 24 µL MS = 26 µL**
 
 Answer 3 Part 2 -<br>
-
 **We made 100 µM MS as a working stock because:**
 
 **1. Pipetting accuracy: It’s much easier and more accurate to pipette volumes like 10–25 µL from a 100 µM stock than to pipette tiny volumes from a much more dilute 40 µM stock.<br>**
