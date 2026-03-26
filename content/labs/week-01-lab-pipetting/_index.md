@@ -44,13 +44,13 @@ If the molar mass of MS is 532 g/mol, what’s the concentration of the stock co
 | MS          | 100 µM              | 40 µM                  | 24 µL                    |
 | dH<sub>2</sub>O        | n/a                 | n/a                    | 26 µL                    |
 
-**Answer 3 Part 1 -**<br> 
+Answer 3 Part 1 -<br> 
 **Check with C<sub>1</sub>V<sub>1</sub> = C<sub>2</sub>V<sub>2</sub>:**  
 - **Loading dye: (6X) · V<sub>1</sub> = (1X) · (60 µL) → V<sub>1</sub> = 10 µL**  
 - **MS: (100 µM) · V<sub>1</sub> = (40 µM) · (60 µL) → V<sub>1</sub> = (40/100) · 60 µL = 24 µL**  
 - **dH<sub>2</sub>O: 60 µL total − 10 µL dye − 24 µL MS = 26 µL**
 
-**Answer 3 Part 2 -**<br>
+Answer 3 Part 2 -<br>
 
 **We made 100 µM MS as a working stock because:**
 
