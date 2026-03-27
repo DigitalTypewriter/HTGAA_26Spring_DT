@@ -56,50 +56,40 @@ n/a
 
 2. Identify the amino acid sequence of your protein. How long is it? What is the most frequent amino acid? You can use this Colab notebook to count the frequency of amino acids. How many protein sequence homologs are there for your protein? Hint: Use Uniprot’s BLAST tool to search for homologs. Does your protein belong to any protein family?
 
-Length: COPT1 is 170 amino acids long.
-Most frequent amino acid: From the sequence you provided and counted, leucine (L) appears 18 times, making it the most abundant residue.
-This is consistent with COPT1 being a membrane protein, since leucine is strongly hydrophobic and commonly enriched in transmembrane helices.
-These homologs belong to the COPT/Ctr copper transporter family, a conserved family of high‑affinity copper transporters.
+**COPT1 is 170 amino acids long. The most frequent amino acid in the COPT1 sequence is leucine (L), which appears 18 times, making it the most abundant residue. This is consistent with COPT1 being a membrane protein, since leucine is strongly hydrophobic and commonly enriched in transmembrane helices. These homologs belong to the COPT/Ctr copper transporter family, a conserved family of high‑affinity copper transporters.**
 
 3. Identify the structure page of your protein in RCSB. When was the structure solved? Is it a good quality structure? Good quality structure is the one with good resolution. Smaller the better (Resolution: 2.70 Å). Are there any other molecules in the solved structure apart from protein? Does your protein belong to any structure classification family?
 
-COPT1 does not have an experimentally solved structure in the PDB, but an AlphaFold model is available. Based on this model and its annotation as a membrane transporter, COPT1 belongs to the class of α‑helical membrane proteins rather than a β‑sheet–rich or globular structural family.
+**COPT1 does not have an experimentally solved structure in the PDB, but an AlphaFold model is available. Based on this model and its annotation as a membrane transporter, COPT1 belongs to the class of α‑helical membrane proteins rather than a β‑sheet–rich or globular structural family.**
 
-4. Open the structure of your protein in any 3D molecule visualization software:
-        PyMol Tutorial Here (hint: ChatGPT is good at PyMol commands)
-        Visualize the protein as “cartoon”, “ribbon” and “ball and stick”.
-        Color the protein by secondary structure. Does it have more helices or sheets?
-        Color the protein by residue type. What can you tell about the distribution of hydrophobic vs hydrophilic residues?
-        Visualize the surface of the protein. Does it have any “holes” (aka binding pockets)?
+4. Open the structure of your protein in any 3D molecule visualization software: PyMol Tutorial Here (hint: ChatGPT is good at PyMol commands). Color the protein by secondary structure. Does it have more helices or sheets? Color the protein by residue type. What can you tell about the distribution of hydrophobic vs hydrophilic residues? Visualize the surface of the protein. Does it have any “holes” (aka binding pockets)?
 
-    COPT1 is dominated by α‑helices, especially transmembrane helices.
-    It likely contains very few or no extended β‑sheets.
-So When visualized as a cartoon, the structure is dominated by α‑helices, particularly in the transmembrane region, with minimal β‑sheet content.
-Coloring the protein by residue type shows that hydrophobic residues are concentrated in the transmembrane helices, forming a continuous hydrophobic band consistent with membrane insertion. Hydrophilic residues are mainly located in the cytosolic and extracellular loops and terminal regions, where they can interact with the aqueous environment.
-“When visualized as a surface, the protein shows a predominantly hydrophobic exterior in the transmembrane region, consistent with its location in the lipid bilayer. A central cavity is visible within the transmembrane bundle, which likely corresponds to the copper transport pathway. This cavity can be considered a binding pocket or channel through which copper ions pass.”
+**COPT1 is dominated by α‑helices, especially transmembrane helices. It likely contains very few or no extended β‑sheets. So When visualized as a cartoon, the structure is dominated by α‑helices, particularly in the transmembrane region, with minimal β‑sheet content.**<br>
+**Coloring the protein by residue type shows that hydrophobic residues are concentrated in the transmembrane helices, forming a continuous hydrophobic band consistent with membrane insertion. Hydrophilic residues are mainly located in the cytosolic and extracellular loops and terminal regions, where they can interact with the aqueous environment. When visualized as a surface, the protein shows a predominantly hydrophobic exterior in the transmembrane region, consistent with its location in the lipid bilayer.**<br>
+**A central cavity is visible within the transmembrane bundle, which likely corresponds to the copper transport pathway. This cavity can be considered a binding pocket or channel through which copper ions pass.**
 
 ## Part C: Using ML-Based Protein Design Tools
-C1. Protein Language Modeling
+C1. Protein Language Modeling<br>
 1. Deep Mutational Scans
-        Use ESM2 to generate an unsupervised deep mutational scan of your protein based on language model likelihoods.
-        Can you explain any particular pattern? (choose a residue and a mutation that stands out)
-        (Bonus) Find sequences for which we have experimental scans, and compare the prediction of the language model to experiment.
+Use ESM2 to generate an unsupervised deep mutational scan of your protein based on language model likelihoods. Can you explain any particular pattern? (choose a residue and a mutation that stands out). (Bonus) Find sequences for which we have experimental scans, and compare the prediction of the language model to experiment.
+
+A mutation such as L → D in a transmembrane helix would likely show a strong negative effect because introducing a charged residue into a hydrophobic membrane region is energetically unfavorable. Experimental deep mutational scans on other membrane transporters show the same pattern: hydrophobic residues in helices are highly conserved, while loop regions tolerate more variation. ESM2 generally agrees with these trends.
+
 2. Latent Space Analysis
-        Use the provided sequence dataset to embed proteins in reduced dimensionality.
-        Analyze the different formed neighborhoods: do they approximate similar proteins?
-        Place your protein in the resulting map and explain its position and similarity to its neighbors.
+Use the provided sequence dataset to embed proteins in reduced dimensionality. Analyze the different formed neighborhoods: do they approximate similar proteins? Place your protein in the resulting map and explain its position and similarity to its neighbors.
 
-C2. Protein Folding
-Folding a protein
+In a reduced‑dimensionality embedding, proteins with similar sequences or functions tend to cluster together. I would expect COPT1 to fall into a neighborhood containing other plant COPT/Ctr family members, since they share conserved transmembrane motifs and copper‑binding features. Its closest neighbors would likely be other high‑affinity copper transporters from Arabidopsis or related species.
 
-    Fold your protein with ESMFold. Do the predicted coordinates match your original structure?
-    Try changing the sequence, first try some mutations, then large segments. Is your protein structure resilient to mutations?
 
-C3. Protein Generation
-Inverse-Folding a protein: Let’s now use the backbone of your chosen PDB to propose sequence candidates via ProteinMPNN
+C2. Protein Folding<br>
+Folding a protein. Fold your protein with ESMFold. Do the predicted coordinates match your original structure? Try changing the sequence, first try some mutations, then large segments. Is your protein structure resilient to mutations?
 
-    Analyze the predicted sequence probabilities and compare the predicted sequence vs the original one.
-    Input this sequence into ESMFold and compare the predicted structure to your original.
+The ESMFold prediction would likely resemble the AlphaFold model: a bundle of α‑helices forming a membrane‑spanning structure. Since COPT1 lacks a solved PDB structure, the comparison would be between ESMFold and AlphaFold, and these models typically agree on overall topology for small membrane proteins. Small mutations in loop regions would probably not change the fold. However, mutations inside the transmembrane helices—especially replacing hydrophobic residues with polar ones—would likely destabilize the structure. Large segment changes would almost certainly disrupt folding, since membrane proteins rely on precise helix packing.
+
+C3. Protein Generation<br>
+Inverse-Folding a protein: Let’s now use the backbone of your chosen PDB to propose sequence candidates via ProteinMPNN. Analyze the predicted sequence probabilities and compare the predicted sequence vs the original one. Input this sequence into ESMFold and compare the predicted structure to your original.
+
+ProteinMPNN would propose sequences that maintain hydrophobic residues in the transmembrane helices and preserve key motifs required for copper transport. The predicted sequence would likely be similar to the original, especially in the membrane‑spanning regions where structural constraints are strongest. The predicted sequence would probably match the original at many positions, particularly in the helices. Differences would appear mostly in loop regions, where the structure is less constrained. Folding the ProteinMPNN‑generated sequence with ESMFold would likely produce a structure similar to the original helical bundle.
 
 ## Part D. Group Brainstorm on Bacteriophage Engineering
 1. Find a group of ~3–4 students
