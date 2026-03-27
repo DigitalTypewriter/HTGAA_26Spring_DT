@@ -95,16 +95,16 @@ ProteinMPNN would propose sequences that maintain hydrophobic residues in the tr
 1. Find a group of ~3–4 students
 2. Read through the Phage Reading material listed under “Reading & Resources” below.
 3. Review the Bacteriophage Final Project Goals for engineering the L Protein:
-        Increased stability (easiest)
-        Higher titers (medium)
-        Higher toxicity of lysis protein (hard)
+  - Increased stability (easiest)
+  - Higher titers (medium)
+  - Higher toxicity of lysis protein (hard)
 4. Brainstorm Session
-        Choose one or two main goals from the list that you think you can address computationally (e.g., “We’ll try to stabilize the lysis protein,” or “We’ll attempt to disrupt its interaction with E. coli DnaJ.”).
-        Write a 1-page proposal (bullet points or short paragraphs) describing:
-            Which tools/approaches from recitation you propose using (e.g., “Use Protein Language Models to do in silico mutagenesis, then AlphaFold-Multimer to check complexes.”).
-            Why do you think those tools might help solve your chosen sub-problem?
-            Name one or two potential pitfalls (e.g., “We lack enough training data on phage–bacteria interactions.”).
-            Include a schematic of your pipeline.
-        This resource may be useful: HTGAA Protein Engineering Tools
+  - Choose one or two main goals from the list that you think you can address computationally (e.g., “We’ll try to stabilize the lysis protein,” or “We’ll attempt to disrupt its interaction with E. coli DnaJ.”).
+  - Write a 1-page proposal (bullet points or short paragraphs) describing:
+    - Which tools/approaches from recitation you propose using (e.g., “Use Protein Language Models to do in silico mutagenesis, then AlphaFold-Multimer to check complexes.”).
+      - Why do you think those tools might help solve your chosen sub-problem?
+      - Name one or two potential pitfalls (e.g., “We lack enough training data on phage–bacteria interactions.”).
+      - Include a schematic of your pipeline.
+  - This resource may be useful: HTGAA Protein Engineering Tools
 5. Each individually put your plan on your HTGAA website
-        Include your group’s short plan for engineering a bacteriophage
+  - Include your group’s short plan for engineering a bacteriophage
