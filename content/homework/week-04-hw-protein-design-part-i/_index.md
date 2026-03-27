@@ -30,9 +30,14 @@ Answer any NINE of the following questions from Shuguang Zhang: (i.e. you can se
 **Natural proteins are built from L‑amino acids, which form right‑handed α‑helices, and this handedness is a direct consequence of the chirality of the backbone. D‑amino acids are the mirror‑image enantiomers of L‑amino acids, so the geometry flips: every stereocenter is mirrored, and the resulting α‑helix becomes left‑handed. In other words, <mark>switching from L‑ to D‑amino acids inverts the chirality of the entire secondary structure, giving you a left‑handed α‑helix rather than the right‑handed form found in nature</mark>.**
 
 7. Can you discover additional helices in proteins?
+
+**You can discover additional helices in proteins because the α‑helix is just one of several helical solutions that polypeptide backbones can adopt. Natural proteins also contain 3₁₀ helices and π‑helices, which are less common but follow the same geometric principle of repeating backbone hydrogen bonds with different spacing and pitch. Beyond biology, synthetic systems such as foldamers and peptoids can form an even wider range of helical structures, showing that helices are a general geometric outcome of constrained backbones rather than something specific to the α‑helix or to natural amino acids.**
+
 8. Why are most molecular helices right-handed?
-9. Why do β-sheets tend to aggregate?
-        What is the driving force for β-sheet aggregation?
+
+**Most molecular helices are right‑handed because the <mark>stereochemistry of the monomers (L‑amino acids)</mark> that make up biological polymers imposes geometric and steric constraints that strongly favor a right‑handed twist. The opposite handedness would place substituents in crowded, unfavorable positions, so left‑handed helices in proteins built from L‑amino acids are rare and usually very short.**
+
+9. Why do β-sheets tend to aggregate? What is the driving force for β-sheet aggregation?
 10. Why do many amyloid diseases form β-sheets?
         Can you use amyloid β-sheets as materials?
 11. Design a β-sheet motif that forms a well-ordered structure.
