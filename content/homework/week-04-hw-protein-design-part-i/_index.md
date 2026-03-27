@@ -51,20 +51,32 @@ n/a
 
 Part B: Protein Analysis and Visualization
 1. Briefly describe the protein you selected and why you selected it.
-2. Identify the amino acid sequence of your protein.
-        How long is it? What is the most frequent amino acid? You can use this Colab notebook to count the frequency of amino acids.
-        How many protein sequence homologs are there for your protein? Hint: Use Uniprot’s BLAST tool to search for homologs.
-        Does your protein belong to any protein family?
-3. Identify the structure page of your protein in RCSB
-        When was the structure solved? Is it a good quality structure? Good quality structure is the one with good resolution. Smaller the better (Resolution: 2.70 Å)
-        Are there any other molecules in the solved structure apart from protein?
-        Does your protein belong to any structure classification family?
+
+**I selected <mark>Copper Transporter 1 (COPT1)</mark> from Arabidopsis thaliana (UniProt ID: Q39065, COPT1_ARATH). COPT1 is a membrane‑localized copper transporter responsible for high‑affinity copper uptake in plants. Copper is essential for processes like photosynthesis and redox chemistry but is toxic at high levels, so transporters like COPT1 are crucial for maintaining copper homeostasis. I chose this protein because it is the targeted protein for the final project on Lemna minor (duckweed), where I am interested in whether introducing or overexpressing COPT1 could enhance copper uptake for phytoremediation.**
+
+2. Identify the amino acid sequence of your protein. How long is it? What is the most frequent amino acid? You can use this Colab notebook to count the frequency of amino acids. How many protein sequence homologs are there for your protein? Hint: Use Uniprot’s BLAST tool to search for homologs. Does your protein belong to any protein family?
+
+Length: COPT1 is 170 amino acids long.
+Most frequent amino acid: From the sequence you provided and counted, leucine (L) appears 18 times, making it the most abundant residue.
+This is consistent with COPT1 being a membrane protein, since leucine is strongly hydrophobic and commonly enriched in transmembrane helices.
+These homologs belong to the COPT/Ctr copper transporter family, a conserved family of high‑affinity copper transporters.
+
+3. Identify the structure page of your protein in RCSB. When was the structure solved? Is it a good quality structure? Good quality structure is the one with good resolution. Smaller the better (Resolution: 2.70 Å). Are there any other molecules in the solved structure apart from protein? Does your protein belong to any structure classification family?
+
+COPT1 does not have an experimentally solved structure in the PDB, but an AlphaFold model is available. Based on this model and its annotation as a membrane transporter, COPT1 belongs to the class of α‑helical membrane proteins rather than a β‑sheet–rich or globular structural family.
+
 4. Open the structure of your protein in any 3D molecule visualization software:
         PyMol Tutorial Here (hint: ChatGPT is good at PyMol commands)
         Visualize the protein as “cartoon”, “ribbon” and “ball and stick”.
         Color the protein by secondary structure. Does it have more helices or sheets?
         Color the protein by residue type. What can you tell about the distribution of hydrophobic vs hydrophilic residues?
         Visualize the surface of the protein. Does it have any “holes” (aka binding pockets)?
+
+    COPT1 is dominated by α‑helices, especially transmembrane helices.
+    It likely contains very few or no extended β‑sheets.
+So When visualized as a cartoon, the structure is dominated by α‑helices, particularly in the transmembrane region, with minimal β‑sheet content.
+Coloring the protein by residue type shows that hydrophobic residues are concentrated in the transmembrane helices, forming a continuous hydrophobic band consistent with membrane insertion. Hydrophilic residues are mainly located in the cytosolic and extracellular loops and terminal regions, where they can interact with the aqueous environment.
+“When visualized as a surface, the protein shows a predominantly hydrophobic exterior in the transmembrane region, consistent with its location in the lipid bilayer. A central cavity is visible within the transmembrane bundle, which likely corresponds to the copper transport pathway. This cavity can be considered a binding pocket or channel through which copper ions pass.”
 
 Part C: Using ML-Based Protein Design Tools
 C1. Protein Language Modeling
