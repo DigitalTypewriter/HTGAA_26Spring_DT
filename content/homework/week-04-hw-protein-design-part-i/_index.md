@@ -2,6 +2,18 @@
 title: 'Week 4 HW: Protein Design Part I'
 weight: 10
 ---
+<script src="https://3Dmol.org/build/3Dmol.js"></script>
+
+<div id="viewer" style="width: 600px; height: 400px; position: relative;"></div>
+
+<script>
+  let viewer = $3Dmol.createViewer("viewer", {backgroundColor: "white"});
+  $3Dmol.download("AF-Q39065-F1-model_v6.pdb", viewer, {}, function() {
+    viewer.setStyle({}, {cartoon: {color: 'spectrum'}});
+    viewer.zoomTo();
+    viewer.render();
+  });
+</script>
 ## Part A: Conceptual Questions
 Answer any NINE of the following questions from Shuguang Zhang: (i.e. you can select two to skip)
 1. How many molecules of amino acids do you take with a piece of 500 grams of meat? (on average an amino acid is ~100 Daltons)
