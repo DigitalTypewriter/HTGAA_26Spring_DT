@@ -14,9 +14,18 @@ Answer any NINE of the following questions from Shuguang Zhang: (i.e. you can se
 **Humans don’t turn into cows or fish when we eat them because <mark>digestion breaks biological structures down into their simplest components: proteins are dismantled into amino acids, DNA into nucleotides, and lipids into fatty acids</mark>. Once reduced to these basic molecules, the body discards the original organism’s structure and identity and instead uses the raw materials to build human proteins and cells according to human DNA instructions. In other words, we absorb building blocks, not templates, so eating beef or fish provides nutrients but never transfers the biological “identity” of the organism we consumed.**
 
 3. Why are there only 20 natural amino acids?
+
+**There are 20 standard natural amino acids because biological evolution settled on this set that <mark>balances chemical diversity with genetic simplicity: these amino acids collectively provide a wide range of charges, sizes, polarities, and reactivities, yet they fit efficiently into the constraints of the triplet genetic code and minimize the impact of mutations by assigning similar codons to chemically similar residues</mark>. This set turned out to be chemically versatile enough to support protein folding, catalysis, and all core biochemical functions, while remaining stable, error‑tolerant, and easy for early life to encode and reproduce. Although a few additional amino acids exist, such as selenocysteine, the ~20 canonical ones represent an evolutionarily optimized core toolkit rather than a hard physical limit.**
+
 4. Can you make other non-natural amino acids? Design some new amino acids.
+
+In the Synthetic biology trajectory, a major theme is engineering genetic systems to incorporate non‑natural amino acids, expanding the chemical capabilities of proteins beyond the standard set of twenty- fluorinated residues, photo‑reactive groups, and side chains designed for click‑chemistry. For my project, I’m considering a metal‑binding amino acid with a bipyridine‑like side chain to enable selective coordination, along with a fluorinated residue to facilitate reporting or tracking. Together, these kinds of synthetic amino acids broaden the functional palette available to engineered proteins, opening possibilities for new structural behaviors, catalytic activities, and material properties that natural biology does not provide.
+
 5. Where did amino acids come from before enzymes that make them, and before life started?
 6. If you make an α-helix using D-amino acids, what handedness (right or left) would you expect?
+
+**Natural proteins are built from L‑amino acids, which form right‑handed α‑helices, and this handedness is a direct consequence of the chirality of the backbone. D‑amino acids are the mirror‑image enantiomers of L‑amino acids, so the geometry flips: every stereocenter is mirrored, and the resulting α‑helix becomes left‑handed. In other words, <mark>switching from L‑ to D‑amino acids inverts the chirality of the entire secondary structure, giving you a left‑handed α‑helix rather than the right‑handed form found in nature</mark>.**
+
 7. Can you discover additional helices in proteins?
 8. Why are most molecular helices right-handed?
 9. Why do β-sheets tend to aggregate?
