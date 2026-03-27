@@ -3,7 +3,7 @@ title: 'Week 4 HW: Protein Design Part I'
 weight: 10
 ---
 
-Part A: Conceptual Questions
+## Part A: Conceptual Questions
 Answer any NINE of the following questions from Shuguang Zhang: (i.e. you can select two to skip)
 1. How many molecules of amino acids do you take with a piece of 500 grams of meat? (on average an amino acid is ~100 Daltons)
 
@@ -49,7 +49,7 @@ Answer any NINE of the following questions from Shuguang Zhang: (i.e. you can se
 
 n/a
 
-Part B: Protein Analysis and Visualization
+## Part B: Protein Analysis and Visualization
 1. Briefly describe the protein you selected and why you selected it.
 
 **I selected <mark>Copper Transporter 1 (COPT1)</mark> from Arabidopsis thaliana (UniProt ID: Q39065, COPT1_ARATH). COPT1 is a membrane‑localized copper transporter responsible for high‑affinity copper uptake in plants. Copper is essential for processes like photosynthesis and redox chemistry but is toxic at high levels, so transporters like COPT1 are crucial for maintaining copper homeostasis. I chose this protein because it is the targeted protein for the final project on Lemna minor (duckweed), where I am interested in whether introducing or overexpressing COPT1 could enhance copper uptake for phytoremediation.**
@@ -78,7 +78,7 @@ So When visualized as a cartoon, the structure is dominated by α‑helices, par
 Coloring the protein by residue type shows that hydrophobic residues are concentrated in the transmembrane helices, forming a continuous hydrophobic band consistent with membrane insertion. Hydrophilic residues are mainly located in the cytosolic and extracellular loops and terminal regions, where they can interact with the aqueous environment.
 “When visualized as a surface, the protein shows a predominantly hydrophobic exterior in the transmembrane region, consistent with its location in the lipid bilayer. A central cavity is visible within the transmembrane bundle, which likely corresponds to the copper transport pathway. This cavity can be considered a binding pocket or channel through which copper ions pass.”
 
-Part C: Using ML-Based Protein Design Tools
+## Part C: Using ML-Based Protein Design Tools
 C1. Protein Language Modeling
 1. Deep Mutational Scans
         Use ESM2 to generate an unsupervised deep mutational scan of your protein based on language model likelihoods.
@@ -101,7 +101,7 @@ Inverse-Folding a protein: Let’s now use the backbone of your chosen PDB to pr
     Analyze the predicted sequence probabilities and compare the predicted sequence vs the original one.
     Input this sequence into ESMFold and compare the predicted structure to your original.
 
-Part D. Group Brainstorm on Bacteriophage Engineering
+## Part D. Group Brainstorm on Bacteriophage Engineering
 1. Find a group of ~3–4 students
 2. Read through the Phage Reading material listed under “Reading & Resources” below.
 3. Review the Bacteriophage Final Project Goals for engineering the L Protein:
