@@ -2,17 +2,6 @@
 title: 'Week 4 HW: Protein Design Part I'
 weight: 10
 ---
-
-<div id="viewport" style="width: 600px; height: 400px;"></div>
-<script src="https://unpkg.com/ngl"></script>
-<script>
-  var stage = new NGL.Stage("viewport");
-  stage.loadFile("AF-Q39065-F1-model_v6.pdb").then(function(o) {
-    o.addRepresentation("cartoon");
-    o.autoView();
-  });
-</script>
-
 ## Part A: Conceptual Questions
 Answer any NINE of the following questions from Shuguang Zhang: (i.e. you can select two to skip)
 1. How many molecules of amino acids do you take with a piece of 500 grams of meat? (on average an amino acid is ~100 Daltons)
