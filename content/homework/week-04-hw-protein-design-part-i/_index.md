@@ -38,9 +38,16 @@ Answer any NINE of the following questions from Shuguang Zhang: (i.e. you can se
 **Most molecular helices are right‑handed because the <mark>stereochemistry of the monomers (L‑amino acids)</mark> that make up biological polymers imposes geometric and steric constraints that strongly favor a right‑handed twist. The opposite handedness would place substituents in crowded, unfavorable positions, so left‑handed helices in proteins built from L‑amino acids are rare and usually very short.**
 
 9. Why do β-sheets tend to aggregate? What is the driving force for β-sheet aggregation?
-10. Why do many amyloid diseases form β-sheets?
-        Can you use amyloid β-sheets as materials?
+
+**<mark>Most β‑sheets tend to aggregate because their edges expose unpaired backbone hydrogen‑bond donors and acceptors</mark>. These “sticky” edges allow β‑strands from different molecules to align and extend the hydrogen‑bonding network, creating larger intermolecular sheets. This alignment is energetically favorable because it satisfies backbone hydrogen bonds and packs side chains in a regular, low‑energy pattern. Several forces contribute to this aggregation behavior, including backbone hydrogen bonding, hydrophobic interactions between side chains, π–π stacking among aromatic residues, and the inherent planarity of the peptide backbone in β‑strands. Together, these factors make β‑sheet–rich regions prone to forming very stable, extended structures such as fibrils and aggregates, which is why β‑sheet architecture is often associated with amyloid formation.**
+
+10. Why do many amyloid diseases form β-sheets? Can you use amyloid β-sheets as materials?
+
+**Many amyloid diseases form β‑sheets because protein misfolding exposes the normally buried backbone, allowing β‑strands to align and form extended intermolecular hydrogen‑bond networks. Once a few strands stack, they create a stable template that recruits additional misfolded protein, producing long, highly ordered fibrils characteristic of amyloid aggregates. These same properties—exceptional stability, regular packing, and the ability to form long nanoscale fibers—also make amyloid‑like β‑sheets attractive as materials. Engineered amyloid fibrils can be used to build strong, tunable nanofibers with useful mechanical and chemical properties, enabling applications in biomaterials, nanotechnology, and templated assembly.**
+
 11. Design a β-sheet motif that forms a well-ordered structure.
+
+n/a
 
 Part B: Protein Analysis and Visualization
 1. Briefly describe the protein you selected and why you selected it.
