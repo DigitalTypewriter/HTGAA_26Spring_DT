@@ -23,7 +23,7 @@ Navigate to the AlphaFold Server: alphafoldserver.com
 - Record the ipTM score and briefly describe where the peptide appears to bind. Does it localize near the N-terminus where A4V sits? Does it engage the β-barrel region or approach the dimer interface? Does it appear surface-bound or partially buried?
 - In a short paragraph, describe the ipTM values you observe and whether any PepMLM-generated peptide matches or exceeds the known binder.
 
-<model-viewer src="797C077560F0F202.glb" alt="A 3D model" auto-rotate camera-controls> </model-viewer>
+<model-viewer src="797C077560F0F202.glb" alt="A 3D model" auto-rotate camera-controls></model-viewer>
 
 ## Part 3: Evaluate Properties of Generated Peptides in the PeptiVerse
 ## Part 4: Generate Optimized Peptides with moPPIt
