@@ -24,7 +24,7 @@ Navigate to the AlphaFold Server: alphafoldserver.com
 - In a short paragraph, describe the ipTM values you observe and whether any PepMLM-generated peptide matches or exceeds the known binder.
 
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-<model-viewer src="797C077560F0F202.glb" auto-rotate camera-controls></model-viewer>
+<model-viewer src="797C077560F0F202.glb" auto-rotate camera-controls style="width: 800px; height: 600px;"></model-viewer>
 
 ## Part 3: Evaluate Properties of Generated Peptides in the PeptiVerse
 ## Part 4: Generate Optimized Peptides with moPPIt
