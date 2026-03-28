@@ -23,3 +23,4 @@ Navigate to the AlphaFold Server: alphafoldserver.com
 - Record the ipTM score and briefly describe where the peptide appears to bind. Does it localize near the N-terminus where A4V sits? Does it engage the β-barrel region or approach the dimer interface? Does it appear surface-bound or partially buried?
 - In a short paragraph, describe the ipTM values you observe and whether any PepMLM-generated peptide matches or exceeds the known binder.
 <img src="SOD_mutant.png" width="500"><br>
+<model-viewer src="797C077560F0F202.glb" alt="A 3D model" auto-rotate camera-controls></model-viewer>
