@@ -22,7 +22,4 @@ Navigate to the AlphaFold Server: alphafoldserver.com
 - For each peptide, submit the mutant SOD1 sequence followed by the peptide sequence as separate chains to model the protein-peptide complex.
 - Record the ipTM score and briefly describe where the peptide appears to bind. Does it localize near the N-terminus where A4V sits? Does it engage the β-barrel region or approach the dimer interface? Does it appear surface-bound or partially buried?
 - In a short paragraph, describe the ipTM values you observe and whether any PepMLM-generated peptide matches or exceeds the known binder.
-
 <model-viewer src="797C077560F0F202.glb" alt="A 3D model" auto-rotate camera-controls></model-viewer>
-<model-viewer src="797C077560F0F202.glb" alt="A 3D model" auto-rotate camera-controls></model-viewer>
-
