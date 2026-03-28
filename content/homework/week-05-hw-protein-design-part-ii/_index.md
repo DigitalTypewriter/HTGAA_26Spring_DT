@@ -26,12 +26,11 @@ Navigate to the AlphaFold Server: alphafoldserver.com
 <model-viewer src="797C077560F0F202.glb" alt="A 3D model" auto-rotate camera-controls></model-viewer>
 
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-
-<model-viewer>
+<model-viewer
   src="797C077560F0F202.glb"
   alt="A 3D model"
   auto-rotate
   camera-controls
   style="width: 600px; height: 400px;"
-</model-viewer>
+></model-viewer>
 
