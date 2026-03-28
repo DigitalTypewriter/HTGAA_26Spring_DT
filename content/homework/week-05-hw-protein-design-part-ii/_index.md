@@ -24,3 +24,14 @@ Navigate to the AlphaFold Server: alphafoldserver.com
 - In a short paragraph, describe the ipTM values you observe and whether any PepMLM-generated peptide matches or exceeds the known binder.
 <img src="SOD_mutant.png" width="500"><br>
 <model-viewer src="797C077560F0F202.glb" alt="A 3D model" auto-rotate camera-controls></model-viewer>
+
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+<model-viewer>
+  src="797C077560F0F202.glb"
+  alt="A 3D model"
+  auto-rotate
+  camera-controls
+  style="width: 600px; height: 400px;"
+</model-viewer>
+
