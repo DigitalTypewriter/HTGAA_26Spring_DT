@@ -1,5 +1,5 @@
 ---
-title: 'week-05-hw-protein-design-part-ii'
+title: 'Week 5 HW: Protein Design Part II'
 weight: 10
 ---
 |index|Binder|Pseudo Perplexity|
