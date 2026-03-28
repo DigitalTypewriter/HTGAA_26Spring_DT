@@ -24,4 +24,5 @@ Navigate to the AlphaFold Server: alphafoldserver.com
 - In a short paragraph, describe the ipTM values you observe and whether any PepMLM-generated peptide matches or exceeds the known binder.
 
 <model-viewer src="797C077560F0F202.glb" alt="A 3D model" auto-rotate camera-controls></model-viewer>
+<model-viewer src="797C077560F0F202.glb" alt="A 3D model" auto-rotate camera-controls></model-viewer>
 
