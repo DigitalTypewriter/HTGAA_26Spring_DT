@@ -16,6 +16,8 @@ weight: 10
 |2|Generated|AWWGVYTVRYAWAAX|12\.277514856931905|
 |3|Generated|AWYPVLVAVYELKAA|20\.11580123195301|
 |4|Generated|WWWGPYAAVKELRKK|16\.584271595654002|
+**
+**The known SOD1-binding peptide FLYRWLPSRRGG yielded a pseudo-perplexity score of ~21.74, suggesting moderate model confidence. This value provides a baseline for comparing PepMLM-generated peptides, where lower scores would indicate potentially stronger or more compatible binders.**
 
 ## Part 2: Evaluate Binders with AlphaFold3
 Navigate to the AlphaFold Server: alphafoldserver.com
@@ -25,6 +27,10 @@ Navigate to the AlphaFold Server: alphafoldserver.com
 
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 <model-viewer src="797C077560F0F202.glb" auto-rotate camera-controls style="width: 800px; height: 600px;"></model-viewer>
+
+**ipTM = 0.3; pTM = 0.81**
+
+**The AlphaFold3 prediction yielded an ipTM score of 0.30, indicating low confidence in the peptide–protein interaction, while the pTM score of 0.81 suggests that the overall SOD1 structure is well predicted. This disparity indicates that although the protein fold is reliable, the positioning of the peptide is uncertain and likely does not represent a stable binding interaction.**
 
 ## Part 3: Evaluate Properties of Generated Peptides in the PeptiVerse
 ## Part 4: Generate Optimized Peptides with moPPIt
