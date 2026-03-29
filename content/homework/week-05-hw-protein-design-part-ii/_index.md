@@ -37,4 +37,18 @@ Navigate to the AlphaFold Server: alphafoldserver.com
 **The AlphaFold3 prediction yielded an ipTM score of 0.30, indicating low confidence in the peptide–protein interaction, while the pTM score of 0.81 suggests that the overall SOD1 structure is well predicted. This disparity indicates that although the protein fold is reliable, the positioning of the peptide is uncertain and likely does not represent a stable binding interaction.**
 
 ## Part 3: Evaluate Properties of Generated Peptides in the PeptiVerse
+Structural confidence alone is insufficient for therapeutic development. Using PeptiVerse, let’s evaluate the therapeutic properties of your peptide! For each PepMLM-generated peptide:
+Compare these predictions to what you observed structurally with AlphaFold3. In a short paragraph, describe what you see. Do peptides with higher ipTM also show stronger predicted affinity? Are any strong binders predicted to be hemolytic or poorly soluble? Which peptide best balances predicted binding and therapeutic properties? Choose one peptide you would advance and justify your decision briefly.
+
+|Input|Property|Prediction|Value|Unit|
+|---|---|---|
+|FLRYWLPSRRGG|💧 Solubility|Soluble|1.000|Probability|
+|FLRYWLPSRRGG|🩸 Hemolysis|Non-hemolytic|0.039|Probability|
+|FLRYWLPSRRGG|🔗 Binding Affinity|Weak binding|5.973|pKd/pKi|
+|FLRYWLPSRRGG|📏 Length||12|aa|
+|FLRYWLPSRRGG|⚖️ Molecular Weight||1507.7|Da|
+|FLRYWLPSRRGG|⚡ Net Charge (pH 7)||2.76||
+|FLRYWLPSRRGG|🎯 Isoelectric Point||11.71|pH|
+|FLRYWLPSRRGG|💦 Hydrophobicity (GRAVY)||-0.71|GRAVY|
+
 ## Part 4: Generate Optimized Peptides with moPPIt
