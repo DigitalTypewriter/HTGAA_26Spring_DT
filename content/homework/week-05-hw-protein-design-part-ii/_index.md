@@ -2,7 +2,8 @@
 title: 'Week 5 HW: Protein Design Part II'
 weight: 10
 ---
-## Part 1: Generate Binders with PepMLM
+## Part A: SOD1 Binder Peptide Design (From Pranam)
+# Part 1: Generate Binders with PepMLM
 1. Begin by retrieving the human SOD1 sequence from UniProt (P00441) and introducing the A4V mutation.
 2. Using the PepMLM Colab linked from the HuggingFace PepMLM-650M model card:
 3. Generate four peptides of length 12 amino acids conditioned on the mutant SOD1 sequence.
@@ -60,3 +61,5 @@ Choose one peptide you would advance and justify your decision briefly.<br>
 **Despite the weak binding, the peptide shows favorable therapeutic properties, including a non-hemolytic profile, indicating low predicted toxicity. This highlights an important trade-off: while the peptide may be safe, it lacks sufficient binding strength to be a strong therapeutic candidate. Overall, no strong correlation between high binding affinity and structural confidence is observed in this case, as both metrics consistently indicate weak interaction.**
 
 ## Part 4: Generate Optimized Peptides with moPPIt
+
+## Part C: Final Project: L-Protein Mutants
