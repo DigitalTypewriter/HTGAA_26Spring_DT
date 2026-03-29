@@ -29,6 +29,10 @@ Navigate to the AlphaFold Server: alphafoldserver.com
 <model-viewer src="797C077560F0F202.glb" auto-rotate camera-controls style="width: 800px; height: 600px;"></model-viewer>
 
 **ipTM = 0.3; pTM = 0.81**
+|Type|Copies|Sequence|
+|---|---|---|
+|Peptide|1|FLRYWLPSRRGG|
+|SOD1|1|MATKAVCVLKGDGPVQGIINFEQKESNGPVKVWGSIKGLTEGLHGFHVHEFGDNTAGCTSAGPHFNPLSRKHGGPKDEERHVGDLGNVTADKDGVADVSIEDSVISLSGDHCIIGRTLVVHEKADDLGKGGNEESTKTGNAGSRLACGVIGIAQ|
 
 **The AlphaFold3 prediction yielded an ipTM score of 0.30, indicating low confidence in the peptide–protein interaction, while the pTM score of 0.81 suggests that the overall SOD1 structure is well predicted. This disparity indicates that although the protein fold is reliable, the positioning of the peptide is uncertain and likely does not represent a stable binding interaction.**
 
