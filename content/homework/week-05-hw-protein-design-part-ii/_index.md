@@ -33,8 +33,9 @@ Navigate to the AlphaFold Server: alphafoldserver.com
 |Type|Copies|Sequence|
 |---|---|---|
 |Peptide|1|FLRYWLPSRRGG|
-|A4V Mutant SOD1|1|MTVKVVCVLK<br>
-GDGPVQGIINFEQKESNGPVKVWGSIKGLTEGLHGFHVHEFGDNTAGCTSAGPHFNPLSRKHGGPKDEERHVGDLGNVTADKDGVADVSIEDSVISLSGDHCIIGRTLVVHEKADDLGKGGNEESTKTGNAGSRLACGVIGIAQ|
+|A4V Mutant SOD1|1|MTVKVVCVLK
+GDGPVQGIIN
+FEQKESNGPVKVWGSIKGLTEGLHGFHVHEFGDNTAGCTSAGPHFNPLSRKHGGPKDEERHVGDLGNVTADKDGVADVSIEDSVISLSGDHCIIGRTLVVHEKADDLGKGGNEESTKTGNAGSRLACGVIGIAQ|
 
 **The AlphaFold3 prediction yielded an ipTM score of 0.30, indicating low confidence in the peptide–protein interaction, while the pTM score of 0.81 suggests that the overall SOD1 structure is well predicted. This disparity indicates that although the protein fold is reliable, the positioning of the peptide is uncertain and likely does not represent a stable binding interaction.**
 
