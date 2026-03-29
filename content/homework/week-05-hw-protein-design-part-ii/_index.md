@@ -16,7 +16,7 @@ weight: 10
 |2|Generated|AWWGVYTVRYAWAAX|12\.277514856931905|
 |3|Generated|AWYPVLVAVYELKAA|20\.11580123195301|
 |4|Generated|WWWGPYAAVKELRKK|16\.584271595654002|
-**
+
 **The known SOD1-binding peptide FLYRWLPSRRGG yielded a pseudo-perplexity score of ~21.74, suggesting moderate model confidence. This value provides a baseline for comparing PepMLM-generated peptides, where lower scores would indicate potentially stronger or more compatible binders.**
 
 ## Part 2: Evaluate Binders with AlphaFold3
