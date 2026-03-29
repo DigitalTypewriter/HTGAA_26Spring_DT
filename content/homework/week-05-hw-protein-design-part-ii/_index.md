@@ -41,7 +41,7 @@ Structural confidence alone is insufficient for therapeutic development. Using P
 Compare these predictions to what you observed structurally with AlphaFold3. In a short paragraph, describe what you see. Do peptides with higher ipTM also show stronger predicted affinity? Are any strong binders predicted to be hemolytic or poorly soluble? Which peptide best balances predicted binding and therapeutic properties? Choose one peptide you would advance and justify your decision briefly.
 
 |Input|Property|Prediction|Value|Unit|
-|---|---|---|
+|---|---|---|---|---|
 |FLRYWLPSRRGG|💧 Solubility|Soluble|1.000|Probability|
 |FLRYWLPSRRGG|🩸 Hemolysis|Non-hemolytic|0.039|Probability|
 |FLRYWLPSRRGG|🔗 Binding Affinity|Weak binding|5.973|pKd/pKi|
