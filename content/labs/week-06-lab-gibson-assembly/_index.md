@@ -1,4 +1,4 @@
 ---
-title: 'Week 4 Lab: Restriction Enzyme Digest I - MiniPrep '
+title: 'Week 6 Lab: Restriction Enzyme Digest I - MiniPrep '
 weight: 10
 ---
