@@ -66,6 +66,9 @@ Gibson assembly does not rely on restriction sites — it relies on overlapping 
   **Ensure PCR products are clean and correct (no unintended mutations or primer‑dimer artifacts). Confirm that restriction digests fully linearize the vector and remove unwanted fragments.**
 
 5. How does the plasmid DNA enter the E. coli cells during transformation?
+
+**Competent *E. coli* cells are prepared so their membranes become temporarily permeable to DNA. In <mark>heat‑shock transformation</mark>, a sudden temperature change creates a brief pore‑forming imbalance that allows plasmid DNA to slip into the cell. In electroporation, a short electric pulse opens transient pores in the membrane, enabling DNA uptake. In both cases, the cell membrane reseals afterward, trapping the plasmid inside.**
+
 6. Describe another assembly method in detail (such as Golden Gate Assembly)
   - Explain the other method in 5 - 7 sentences plus diagrams (either handmade or online).
   - Model this assembly method with Benchling or Asimov Kernel!
