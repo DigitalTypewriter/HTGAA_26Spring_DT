@@ -52,6 +52,19 @@ Answer these questions about the protocol in this week’s lab:
   - **You want to avoid introducing PCR‑derived mutations**
 
 4. How can you ensure that the DNA sequences that you have digested and PCR-ed will be appropriate for Gibson cloning?
+
+Gibson assembly does not rely on restriction sites — it relies on overlapping homologous ends (typically 20–40 bp). To make sure your fragments are compatible:
+- **Add appropriate overlaps:**<br>
+  **Design PCR primers that append 20–40 bp of homology to the adjacent fragment or vector. For digested plasmids, ensure the linearized backbone has matching overlap regions.**
+- **Confirm correct orientation:**<br>
+  **Overlaps must match the sequence direction you want the insert to join. Reverse‑complement overlaps when needed so the insert aligns properly.**
+- **Check melting temperatures of overlaps:**<br>
+  **Overlap regions should have similar Tm values (usually ≥50–55 °C) to ensure efficient annealing during the Gibson reaction.**
+- **Avoid problematic secondary structures:**<br>
+  **Screen overlaps for strong hairpins, repeats, or high GC stretches that could interfere with exonuclease chewing or annealing.**
+- **Verify sequence accuracy:**<br>
+  **Ensure PCR products are clean and correct (no unintended mutations or primer‑dimer artifacts). Confirm that restriction digests fully linearize the vector and remove unwanted fragments.**
+
 5. How does the plasmid DNA enter the E. coli cells during transformation?
 6. Describe another assembly method in detail (such as Golden Gate Assembly)
   - Explain the other method in 5 - 7 sentences plus diagrams (either handmade or online).
