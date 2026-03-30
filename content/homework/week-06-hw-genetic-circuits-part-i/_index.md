@@ -9,9 +9,9 @@ Answer these questions about the protocol in this week’s lab:
   **Catalyzes DNA synthesis with very low error rates, ensuring accurate amplification.**
 - **dNTPs (deoxynucleotide triphosphates):**<br>
   **Serve as the building blocks incorporated into the newly synthesized DNA strands.**
-- **Reaction buffer:**<br>  
+- **Reaction buffer:**<br>
   **Maintains optimal pH and ionic strength so the polymerase can function efficiently.**
-- **Mg²⁺ ions:**<br>  
+- **Mg²⁺ ions:**<br>
   **Act as an essential cofactor required for polymerase activity and proper primer–template interaction.**
 - **Primers:**<br>
   **Short DNA sequences that define the start and end points of the region to be amplified.**
