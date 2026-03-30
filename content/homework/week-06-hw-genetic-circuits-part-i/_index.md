@@ -73,6 +73,8 @@ Gibson assembly does not rely on restriction sites — it relies on overlapping 
   - Explain the other method in 5 - 7 sentences plus diagrams (either handmade or online).
   - Model this assembly method with Benchling or Asimov Kernel!
 
+**Golden Gate Assembly is a cloning method that uses Type IIS restriction enzymes, which cut DNA outside of their recognition sequence rather than within it. Because the cut site is offset, these enzymes generate custom 4‑bp overhangs that you can design to be unique and complementary between fragments. During the reaction, digestion and ligation occur simultaneously: the Type IIS enzyme cuts to expose the designed overhangs, and T4 ligase immediately joins matching fragments. Once fragments are ligated, the recognition sites are removed (“scarless”), preventing re‑cutting and driving the reaction toward the final assembled product. This allows directional, multi‑fragment assembly in a single tube with high efficiency. Golden Gate is especially useful for modular cloning systems (e.g., MoClo, GoldenBraid) where standardized overhangs enable rapid construction of complex plasmids.**
+
 ## Assignment: Asimov Kernel
 1. Create a Repository for your work
 2. Create a blank Notebook entry to document the homework and save it to that Repository
