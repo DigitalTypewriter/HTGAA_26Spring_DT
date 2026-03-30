@@ -15,3 +15,12 @@ weight: 10
   Draw a diagram for an intracellular multilayer perceptron where layer 1 outputs an endoribonuclease that regulates a fluorescent protein output in layer 2.
 
 <img src="w7.png"><br>
+
+## Assignment Part 2: Fungal Materials
+1. What are some examples of existing fungal materials and what are they used for? What are their advantages and disadvantages over traditional counterparts?
+
+**Mycelium‑based materials already appear in several commercial forms, including packaging foams, leather alternatives, and structural composites. Mycelium packaging replaces Styrofoam for protective shipping materials and offers advantages such as biodegradability, low‑energy production, and compostability, though it lacks the water resistance and mechanical strength of plastics. Mycelium leather products, used in clothing and upholstery, provide an animal‑free and lower‑carbon alternative to traditional leather but still fall short in durability. More structurally oriented mycelium materials—such as bricks, insulation panels, and molded foams—are used for building, furniture, and consumer goods. These materials are lightweight, fire‑resistant, and easily shaped, but they generally require controlled growth conditions and have lower strength and moisture resistance than conventional construction materials.**
+
+2. What might you want to genetically engineer fungi to do and why? What are the advantages of doing synthetic biology in fungi as opposed to bacteria?
+
+**Fungi could be engineered to produce stronger, more water‑resistant mycelium materials, degrade pollutants like plastics or heavy metals, secrete valuable enzymes, or grow functional materials such as conductive composites. Engineering fungi is attractive because their natural mycelial networks already form robust 3D structures, making them ideal living scaffolds for materials. They also possess eukaryotic machinery, allowing them to fold and secrete complex proteins that bacteria cannot handle. Fungi grow on cheap agricultural waste, tolerate harsh environmental conditions, and generate diverse metabolites, giving them far greater versatility than bacterial systems. Overall, synthetic biology in fungi enables the creation of advanced, sustainable materials and bioprocesses that would be difficult or impossible to achieve in bacteria.**
