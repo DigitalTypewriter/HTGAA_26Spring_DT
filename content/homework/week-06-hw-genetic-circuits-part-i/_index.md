@@ -5,6 +5,21 @@ weight: 10
 ## Assignment: DNA Assembly
 Answer these questions about the protocol in this week’s lab:
 1. What are some components in the Phusion High-Fidelity PCR Master Mix and what is their purpose?
+- High‑fidelity DNA polymerase<br>
+  Catalyzes DNA synthesis with very low error rates, ensuring accurate amplification.
+
+dNTPs (deoxynucleotide triphosphates)  
+Serve as the building blocks incorporated into the newly synthesized DNA strands.
+
+Reaction buffer  
+Maintains optimal pH and ionic strength so the polymerase can function efficiently.
+
+Mg²⁺ ions  
+Act as an essential cofactor required for polymerase activity and proper primer–template interaction.
+
+Primers  
+Short DNA sequences that define the start and end points of the region to be amplified.
+
 2. What are some factors that determine primer annealing temperature during PCR?
 3. There are two methods from this class that create linear fragments of DNA: PCR, and restriction enzyme digests. Compare and contrast these two methods, both in terms of protocol as well as when one may be preferable to use over the other.
 4. How can you ensure that the DNA sequences that you have digested and PCR-ed will be appropriate for Gibson cloning?
