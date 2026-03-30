@@ -17,7 +17,40 @@ Answer these questions about the protocol in this week’s lab:
   **Short DNA sequences that define the start and end points of the region to be amplified.**
 
 2. What are some factors that determine primer annealing temperature during PCR?
+
+- **Primer length:**<br>
+  **Longer primers generally have a higher melting temperature (Tm), which increases the annealing temperature needed for stable binding.
+- **GC content:**<br>
+  **G–C pairs form three hydrogen bonds (vs. two for A–T), so primers with higher GC content have higher Tm values and require higher annealing temperatures.**
+- **Sequence mismatches:**<br>
+  **Imperfect complementarity between primer and template lowers the effective Tm, reducing binding stability and lowering the optimal annealing temperature.**
+- **Salt concentration (ionic strength):**<br>
+  **Higher salt stabilizes DNA duplex formation by shielding negative charges on the phosphate backbone, increasing Tm. Lower salt does the opposite.**
+
 3. There are two methods from this class that create linear fragments of DNA: PCR, and restriction enzyme digests. Compare and contrast these two methods, both in terms of protocol as well as when one may be preferable to use over the other.
+
+**Comparing PCR and Restriction Enzyme Digests for Generating Linear DNA Fragments:**
+| Feature      | PCR                    | Restriction Digest        |
+| ------------ | ---------------------- | ------------------------- |
+| Mechanism    | Uses thermal cycling and a DNA polymerase to amplify a defined region of DNA | Uses restriction endonucleases to cut DNA at specific recognition sequences |
+| Requirements | Primers, template DNA, thermostable polymerase, dNTPs, buffer | Purified DNA substrate, restriction enzyme(s), appropriate buffer |
+| Output       | A newly synthesized, amplified DNA fragment defined entirely by primer design | Linear fragments produced by cutting at existing restriction sites |
+| Flexibility  | Very high — any sequence can be targeted as long as primers can be designed | Limited — only sequences containing the enzyme’s recognition sites can be cut |
+|Precision     | Primer design determines exact start and end points; can introduce mutations or add sequences | Extremely precise at known recognition sites but cannot modify sequence |
+| Use case     | Creating new fragments, adding tags or mutations, amplifying regions without convenient restriction sites | Opening plasmids, isolating inserts, cloning when restriction sites are already present |
+
+**When to Use Each Method**
+- **PCR is preferable when:**
+  - **You need to generate a fragment that doesn’t already exist in the plasmid**
+  - **You want to add or modify sequences (e.g., tags, overhangs, mutations)**
+  - **Restriction sites are absent or inconveniently located**
+  - **You need many copies of a specific region**
+- **Restriction digests are preferable when:**
+  - **You want to cut a plasmid at known, reliable sites**
+  - **You’re preparing a vector and insert for cloning using compatible ends**
+  - **You need clean, predictable fragment boundaries defined by enzyme recognition sequences**
+  - **You want to avoid introducing PCR‑derived mutations**
+
 4. How can you ensure that the DNA sequences that you have digested and PCR-ed will be appropriate for Gibson cloning?
 5. How does the plasmid DNA enter the E. coli cells during transformation?
 6. Describe another assembly method in detail (such as Golden Gate Assembly)
