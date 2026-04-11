@@ -26,12 +26,14 @@ Design an example of a useful synthetic minimal cell as follows:
 3. Experimental details
   - List all lipids and genes. (bonus: find the specific genes; for example, instead of just saying “small molecule membrane channel” pick the actual gene.)
   - How will you measure the function of your system?
+
 Homework question from Peter Nguyen
 Freeze-dried cell-free systems can be incorporated into all kinds of materials as biological sensors or as inducible enzymes to modify the material itself or the surrounding environment. Choose one application field — Architecture, Textiles/Fashion, or Robotics — and propose an application using cell-free systems that are functionally integrated into the material. Answer each of these key questions for your proposal pitch:
   - Write a one-sentence summary pitch sentence describing your concept.
   - How will the idea work, in more detail? Write 3-4 sentences or more.
   - What societal challenge or market need will this address?
   - How do you envision addressing the limitation of cell-free reactions (e.g., activation with water, stability, one-time use)?
+
 Homework question from Ally Huang
 Freeze-dried cell-free reactions have great potential in space, where resources are constrained. As described in my talk, the Genes in Space competition challenges students to consider how biotechnology, including cell-free reactions, can be used to solve biological problems encountered in space. While the competition is limited to only high school students, your assignment will be to develop your own mock Genes in Space proposal to practice thinking about biotech applications in space!
 
