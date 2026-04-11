@@ -8,8 +8,8 @@ For your final project:
   - Please describe all of the elements you would like to measure, and furthermore describe how you will perform these measurements.
   - What are the technologies you will use (e.g., gel electrophoresis, DNA sequencing, mass spectrometry, etc.)? Describe in detail.
 
-Homework: Waters Part I — Molecular Weight
-Homework: Waters Part II — Secondary/Tertiary structure
-Homework: Waters Part III — Peptide Mapping - primary structure
-Homework: Waters Part IV — Oligomers
-Homework: Waters Part V — Did I make GFP?
+Homework: Waters Part I — Molecular Weight<br>
+Homework: Waters Part II — Secondary/Tertiary structure<br>
+Homework: Waters Part III — Peptide Mapping - primary structure<br>
+Homework: Waters Part IV — Oligomers<br>
+Homework: Waters Part V — Did I make GFP?<br>
