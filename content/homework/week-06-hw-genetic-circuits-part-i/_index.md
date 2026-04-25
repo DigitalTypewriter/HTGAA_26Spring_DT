@@ -5,8 +5,7 @@ weight: 10
 ## Assignment: DNA Assembly
 Answer these questions about the protocol in this week’s lab:
 1. What are some components in the Phusion High-Fidelity PCR Master Mix and what is their purpose?
-- **High‑fidelity DNA polymerase:**<br>
-  **Catalyzes DNA synthesis with very low error rates, ensuring accurate amplification.**
+- **High‑fidelity DNA polymerase: Catalyzes DNA synthesis with very low error rates, ensuring accurate amplification.**<br>
 - **dNTPs (deoxynucleotide triphosphates):**<br>
   **Serve as the building blocks incorporated into the newly synthesized DNA strands.**
 - **Reaction buffer:**<br>
@@ -19,7 +18,7 @@ Answer these questions about the protocol in this week’s lab:
 2. What are some factors that determine primer annealing temperature during PCR?
 
 - **Primer length:**<br>
-  **Longer primers generally have a higher melting temperature (Tm), which increases the annealing temperature needed for stable binding.
+  **Longer primers generally have a higher melting temperature (Tm), which increases the annealing temperature needed for stable binding.**
 - **GC content:**<br>
   **G–C pairs form three hydrogen bonds (vs. two for A–T), so primers with higher GC content have higher Tm values and require higher annealing temperatures.**
 - **Sequence mismatches:**<br>
@@ -40,12 +39,12 @@ Answer these questions about the protocol in this week’s lab:
 | Use case     | Creating new fragments, adding tags or mutations, amplifying regions without convenient restriction sites | Opening plasmids, isolating inserts, cloning when restriction sites are already present |
 
 **When to Use Each Method**
-- **PCR is preferable when:**
+**PCR is preferable when:**
   - **You need to generate a fragment that doesn’t already exist in the plasmid**
   - **You want to add or modify sequences (e.g., tags, overhangs, mutations)**
   - **Restriction sites are absent or inconveniently located**
   - **You need many copies of a specific region**
-- **Restriction digests are preferable when:**
+**Restriction digests are preferable when:**
   - **You want to cut a plasmid at known, reliable sites**
   - **You’re preparing a vector and insert for cloning using compatible ends**
   - **You need clean, predictable fragment boundaries defined by enzyme recognition sequences**
