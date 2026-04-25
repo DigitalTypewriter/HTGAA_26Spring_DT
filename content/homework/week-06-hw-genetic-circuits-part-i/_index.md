@@ -5,7 +5,8 @@ weight: 10
 ## Assignment: DNA Assembly
 Answer these questions about the protocol in this week’s lab:
 1. What are some components in the Phusion High-Fidelity PCR Master Mix and what is their purpose?
-- **High‑fidelity DNA polymerase: Catalyzes DNA synthesis with very low error rates, ensuring accurate amplification.**<br>
+- **High‑fidelity DNA polymerase:**<br>
+  **Catalyzes DNA synthesis with very low error rates, ensuring accurate amplification.**<br>
 - **dNTPs (deoxynucleotide triphosphates):**<br>
   **Serve as the building blocks incorporated into the newly synthesized DNA strands.**
 - **Reaction buffer:**<br>
