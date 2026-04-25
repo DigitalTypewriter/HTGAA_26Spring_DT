@@ -43,7 +43,8 @@ Answer these questions about the protocol in this week’s lab:
   - **You need to generate a fragment that doesn’t already exist in the plasmid**
   - **You want to add or modify sequences (e.g., tags, overhangs, mutations)**
   - **Restriction sites are absent or inconveniently located**
-  - **You need many copies of a specific region**<br>
+  - **You need many copies of a specific region**
+
 **Restriction digests are preferable when:**<br>
   - **You want to cut a plasmid at known, reliable sites**
   - **You’re preparing a vector and insert for cloning using compatible ends**
