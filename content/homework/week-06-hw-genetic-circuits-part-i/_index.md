@@ -38,13 +38,13 @@ Answer these questions about the protocol in this week’s lab:
 |Precision     | Primer design determines exact start and end points; can introduce mutations or add sequences | Extremely precise at known recognition sites but cannot modify sequence |
 | Use case     | Creating new fragments, adding tags or mutations, amplifying regions without convenient restriction sites | Opening plasmids, isolating inserts, cloning when restriction sites are already present |
 
-**When to Use Each Method**
-**PCR is preferable when:**
+**When to Use Each Method**<br>
+**PCR is preferable when:**<br>
   - **You need to generate a fragment that doesn’t already exist in the plasmid**
   - **You want to add or modify sequences (e.g., tags, overhangs, mutations)**
   - **Restriction sites are absent or inconveniently located**
-  - **You need many copies of a specific region**
-**Restriction digests are preferable when:**
+  - **You need many copies of a specific region**<br>
+**Restriction digests are preferable when:**<br>
   - **You want to cut a plasmid at known, reliable sites**
   - **You’re preparing a vector and insert for cloning using compatible ends**
   - **You need clean, predictable fragment boundaries defined by enzyme recognition sequences**
