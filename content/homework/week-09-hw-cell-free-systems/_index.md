@@ -4,8 +4,36 @@ weight: 10
 ---
 Homework Part A: General and Lecturer-Specific Questions
 General homework questions
-1. Explain the main advantages of cell-free protein synthesis over traditional in vivo methods, specifically in terms of flexibility and control over experimental variables. Name at least two cases where cell-free expression is more beneficial than cell production.
+1. Explain the main advantages of cell-free protein synthesis over traditional in vivo methods, specifically in terms of flexibility and control over experimental variables. Name at least two cases where cell-free expression is more beneficial than cell production. 
+
+**Cell-free systems remove cellular constraints, allowing direct control over reaction conditions; in terms of flexibility, in cell-free system, you can directly add/remove componenets (DNA/RNA/proteins) without maintaining cell viability, allowing rapid protytyping.in terms of control, cell-free systems allows fine tunning transcripiton/translation rates, concentration of enzymes (agent/reagent). 
+Cell-free system would be benefitical while incorporating non-naturla amino acids, as well as used to synthesize toxic or hard-to-express protein.**
+
 2. Describe the main components of a cell-free expression system and explain the role of each component.
+
+Four main compoenets of cell-free system:
+1. Transcription/Translation machinery<br>
+role: build protein<br>
+  - Ribosomes
+  - tRNAs
+  - RNA polymerase
+  - Aminoacyl-tRNA synthetases
+
+2. Template
+role: provides the coding sequence
+  - DNA or mRNA
+
+3. Energy system
+  - ATP, GTP
+  - regeneration system
+
+4. Cofactors + environment
+role: maintain proper biochemical conditions
+  - amino acids
+  - Salts (Mg<sup>2+</sup>, K<sup>+</sup>)
+  - Buffer
+
+
 3. Why is energy provision regeneration critical in cell-free systems? Describe a method you could use to ensure continuous ATP supply in your cell-free experiment.
 4. Compare prokaryotic versus eukaryotic cell-free expression systems. Choose a protein to produce in each system and explain why.
 5. How would you design a cell-free experiment to optimize the expression of a membrane protein? Discuss the challenges and how you would address them in your setup.
