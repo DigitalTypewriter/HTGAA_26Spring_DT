@@ -24,7 +24,11 @@ Cell-free system would be benefitical while incorporating non-naturla amino acid
 **role: maintain proper biochemical conditions**<br>
 **componenets: amino acids / Salts (Mg<sup>2+</sup>, K<sup>+</sup>) / Buffer**
 
+
 3. Why is energy provision regeneration critical in cell-free systems? Describe a method you could use to ensure continuous ATP supply in your cell-free experiment.
+
+**Protein synthesis is energy expensive; Translation consumes ATP + GTP rapidly and without regenration, the systems shuts down shortly after in minutes. Alternatives such as Phosphoenolpyruvate (PEP) system or Creatine phosphate system or Glucose-based metabolic regeneration thats with a high-energy substrate is used to regenerate ATP from ADP.**
+
 4. Compare prokaryotic versus eukaryotic cell-free expression systems. Choose a protein to produce in each system and explain why.
 5. How would you design a cell-free experiment to optimize the expression of a membrane protein? Discuss the challenges and how you would address them in your setup.
 6. Imagine you observe a low yield of your target protein in a cell-free system. Describe three possible reasons for this and suggest a troubleshooting strategy for each.
