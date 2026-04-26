@@ -14,21 +14,15 @@ Cell-free system would be benefitical while incorporating non-naturla amino acid
 Four main compoenets of cell-free system:
 1. Transcription/Translation machinery<br>
 role: build protein<br>
-  - Ribosomes
-  - tRNAs
-  - RNA polymerase
-  - Aminoacyl-tRNA synthetases
+components: Ribosomes / tRNAs / RNA polymerase / Aminoacyl-tRNA synthetases
 2. Template<br>
 role: provides the coding sequence<br>
-  - DNA or mRNA
+components: DNA / mRNA
 3. Energy system<br>
-  - ATP, GTP
-  - regeneration system
+componenets: ATP, GTP / regeneration system
 4. Cofactors + environment<br>
 role: maintain proper biochemical conditions<br>
-  - amino acids
-  - Salts (Mg<sup>2+</sup>, K<sup>+</sup>)
-  - Buffer
+componenets: amino acids / Salts (Mg<sup>2+</sup>, K<sup>+</sup>) / Buffer
 
 
 3. Why is energy provision regeneration critical in cell-free systems? Describe a method you could use to ensure continuous ATP supply in your cell-free experiment.
