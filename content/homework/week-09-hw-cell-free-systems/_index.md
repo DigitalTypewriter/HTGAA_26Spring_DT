@@ -12,15 +12,15 @@ Cell-free system would be benefitical while incorporating non-naturla amino acid
 2. Describe the main components of a cell-free expression system and explain the role of each component.
 
 **Four main compoenets of cell-free system:**
-1. **Transcription/Translation machinery**<br>
+- **Transcription/Translation machinery**<br>
 **role: build protein**<br>
 **components: Ribosomes / tRNAs / RNA polymerase / Aminoacyl-tRNA synthetases**
-2. **Template**<br>
+- **Template**<br>
 **role: provides the coding sequence**<br>
 **components: DNA / mRNA**
-3. **Energy system**<br>
+- **Energy system**<br>
 **componenets: ATP, GTP / regeneration system**
-4. **Cofactors + environment**<br>
+- **Cofactors + environment**<br>
 **role: maintain proper biochemical conditions**<br>
 **componenets: amino acids / Salts (Mg<sup>2+</sup>, K<sup>+</sup>) / Buffer**<br>
 
@@ -30,6 +30,12 @@ Cell-free system would be benefitical while incorporating non-naturla amino acid
 **Protein synthesis is energy expensive; Translation consumes ATP + GTP rapidly and without regenration, the systems shuts down shortly after in minutes. Alternatives such as Phosphoenolpyruvate (PEP) system or Creatine phosphate system or Glucose-based metabolic regeneration thats with a high-energy substrate is used to regenerate ATP from ADP.**
 
 4. Compare prokaryotic versus eukaryotic cell-free expression systems. Choose a protein to produce in each system and explain why.
+| Feature      | Prokaryotic                    | Eukaryotic        |
+| ------------ | ---------------------- | ------------------------- |
+| speed | fast | slower |
+| post-translational modifications | Limited | Extensive |
+| cost | cheap | expensive |
+
 5. How would you design a cell-free experiment to optimize the expression of a membrane protein? Discuss the challenges and how you would address them in your setup.
 6. Imagine you observe a low yield of your target protein in a cell-free system. Describe three possible reasons for this and suggest a troubleshooting strategy for each.
 
