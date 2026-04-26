@@ -37,7 +37,35 @@ Cell-free system would be benefitical while incorporating non-naturla amino acid
 | cost | cheap | expensive |
 
 5. How would you design a cell-free experiment to optimize the expression of a membrane protein? Discuss the challenges and how you would address them in your setup.
+
+First: identify the challenge
+memebrane proteins are hydrophobic which aggregate easily that needs membrane-like envrionemtns.
+Second: design solution
+want to include Liposomes or nanodiscs (why)
+
+workflow and strucutre:
+set up: add lipid environment to reaction
+expression strategy: co-translational insertion intor memebrane mimic
+optimization variables: lipid composition, detergent concentration, temperature
+
 6. Imagine you observe a low yield of your target protein in a cell-free system. Describe three possible reasons for this and suggest a troubleshooting strategy for each.
+
+Possibility 1: DNA/template issues
+cause:
+- degraded DNA
+- poor promoter
+fix:
+- check DNA quality
+- use stronger promoter
+Possibility 2: energy limiation
+cause: ATP depletion
+fix: improve regenration system
+Possibility 3: protein instability
+cause: degradation or misfolding
+fix:
+- add chaperones
+- lower temperature
+- modify conditions
 
 Homework question from Kate Adamala
 Design an example of a useful synthetic minimal cell as follows:
