@@ -22,7 +22,7 @@ Cell-free system would be benefitical while incorporating non-naturla amino acid
 **componenets: ATP, GTP / regeneration system**
 4. **Cofactors + environment**<br>
 **role: maintain proper biochemical conditions**<br>
-**componenets: amino acids / Salts (Mg<sup>2+</sup>, K<sup>+</sup>) / Buffer**
+**componenets: amino acids / Salts (Mg<sup>2+</sup>, K<sup>+</sup>) / Buffer**<br>
 
 
 3. Why is energy provision regeneration critical in cell-free systems? Describe a method you could use to ensure continuous ATP supply in your cell-free experiment.
