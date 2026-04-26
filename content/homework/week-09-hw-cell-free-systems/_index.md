@@ -11,19 +11,18 @@ Cell-free system would be benefitical while incorporating non-naturla amino acid
 
 2. Describe the main components of a cell-free expression system and explain the role of each component.
 
-Four main compoenets of cell-free system:
-1. Transcription/Translation machinery<br>
-role: build protein<br>
-components: Ribosomes / tRNAs / RNA polymerase / Aminoacyl-tRNA synthetases
-2. Template<br>
-role: provides the coding sequence<br>
-components: DNA / mRNA
-3. Energy system<br>
-componenets: ATP, GTP / regeneration system
-4. Cofactors + environment<br>
-role: maintain proper biochemical conditions<br>
-componenets: amino acids / Salts (Mg<sup>2+</sup>, K<sup>+</sup>) / Buffer
-
+**Four main compoenets of cell-free system:**
+1. **Transcription/Translation machinery**<br>
+**role: build protein**<br>
+**components: Ribosomes / tRNAs / RNA polymerase / Aminoacyl-tRNA synthetases**
+2. **Template**<br>
+**role: provides the coding sequence**<br>
+**components: DNA / mRNA**
+3. **Energy system**<br>
+**componenets: ATP, GTP / regeneration system**
+4. **Cofactors + environment**<br>
+**role: maintain proper biochemical conditions**<br>
+**componenets: amino acids / Salts (Mg<sup>2+</sup>, K<sup>+</sup>) / Buffer**
 
 3. Why is energy provision regeneration critical in cell-free systems? Describe a method you could use to ensure continuous ATP supply in your cell-free experiment.
 4. Compare prokaryotic versus eukaryotic cell-free expression systems. Choose a protein to produce in each system and explain why.
