@@ -74,14 +74,42 @@ Design an example of a useful synthetic minimal cell as follows:
   - Could this function be realized by cell-free Tx/Tl alone, without encapsulation?
   - Could this function be realized by genetically modified natural cell?
   - Describe the desired outcome of your synthetic cell operation.
+
+To reference back to the final project that im developing along the course, implementing a designed cell-dependent system into a synthetic cell design to achieve the goal.
+the functiuon could be described as heavy metal (copper) uptake and sequestration using COPT1 and phytochelatin synthase./a synthetic cell that detects and removes copper ions from its envrionment and sequesters them into a non-toxic complex.
+- Cell-free Tx/Tl alone cannot replicate vectorial transport across a membrnace. this function (vectorial transport) cannot be realized by cell-free Tx/Tl alone beause COPT1 is a memnbrane transporter while requires a lipid bilayer. the compartmentalization to accumulate copper
+- genetically modified natural cell is exactlty the aim of my final project; a cell that sequester copper with phytochelatin synthase.
+- the desire outcome is for Cu<sup>2+</sup> concentration 
+
 2. Design all components that would need to be part of your synthetic cell.
   - What would be the membrane made of?
   - What would you encapsulate inside? Enzymes, small molecules.
   - Which organism your Tx/Tl system will come from? Is bacterial OK, or do you need a mammalian system for some reason? (hint: for example, if you want to use small molecule modulated promotors, like Tet-ON, you need mammalian)
   - How will your synthetic cell communicate with the environment? (hint: are substrates permeable? or do you need to express the membrane channel?)
+
+instead of plant cells, Phospholipid vesicle (liposome) or possibly include cholesterol (if mimicing eukaryotic properties)
+- inside the synthetic cells would consist with core componenets like Tx/Tl machinery with COPT1/PCS/RFP DNA encodings while also amino acids, ATP regeneration system and Cofactors (especially Glutathione for PCS as substrate)
+- im trying to use E.coli for agrobacterium Tx/Tl system; the trade off is that while bacteria extract is easier, cheaper, faster, but poor at expressing eukaryotic memebrane proteins, which bacterial system might misfold COPT1 plant membrane protein. could switch to a eukaryotic lysate or bacterial with optimization.
+- as copper ion sequestered by the organism, we've successfully engineered a synthetic cell that communicate with the environment, to be specific, the copper ions must cross the membrnace and express COPT1 as a memebrance transporter.
+
 3. Experimental details
   - List all lipids and genes. (bonus: find the specific genes; for example, instead of just saying “small molecule membrane channel” pick the actual gene.)
   - How will you measure the function of your system?
+
+Lipids
+- Phosphatidylcholine (PC)
+- Phosphatidylethanolamine (PE)
+- Cholesterol; for stability
+
+Genes
+- COPT1 (copper transporter from Arabidopsis)
+- PCS1 (phytochelatin synthase)
+- RFP (red fluorescent protein)
+
+Measurement
+- Fluorescence: RFP expression confirms Tx/Tl activity
+- ICP-MS or colorimetric assay: copper quantification
+- Vesicle loading
 
 Homework question from Peter Nguyen
 Freeze-dried cell-free systems can be incorporated into all kinds of materials as biological sensors or as inducible enzymes to modify the material itself or the surrounding environment. Choose one application field — Architecture, Textiles/Fashion, or Robotics — and propose an application using cell-free systems that are functionally integrated into the material. Answer each of these key questions for your proposal pitch:
