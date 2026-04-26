@@ -18,17 +18,14 @@ role: build protein<br>
   - tRNAs
   - RNA polymerase
   - Aminoacyl-tRNA synthetases
-
-2. Template
-role: provides the coding sequence
+2. Template<br>
+role: provides the coding sequence<br>
   - DNA or mRNA
-
-3. Energy system
+3. Energy system<br>
   - ATP, GTP
   - regeneration system
-
-4. Cofactors + environment
-role: maintain proper biochemical conditions
+4. Cofactors + environment<br>
+role: maintain proper biochemical conditions<br>
   - amino acids
   - Salts (Mg<sup>2+</sup>, K<sup>+</sup>)
   - Buffer
