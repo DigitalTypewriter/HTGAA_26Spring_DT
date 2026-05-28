@@ -1,5 +1,5 @@
 ---
-title: 'Individual Final Project - Transgenic Phytomining:<br> Lemna minEr'
+title: 'Individual Final Project - Transgenic Phytomining:  Lemna minEr'
 weight: 10
 ---
 
