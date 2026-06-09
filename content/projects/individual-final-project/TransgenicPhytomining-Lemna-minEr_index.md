@@ -28,13 +28,20 @@ The third aim of this project is to develop a scalable phytoremediation platform
 
 ### Section 3: Background
 Breifly summarize two peer-reviewed research citations relevant to your research
-this paper[^1]
+While looking into the feasibility in enhancing the already known phytoremediation capability of the hosting plant organisms, Dr. Andrew Scarpelli referenced to two papers that points direction towards synthetic biology to potentially design a system with trangenic expression.
+
+In "Programmable Ligan Detection System in Plants through a Synthetic SIgnal Transduction Pathway,"[^1] published in 2011, reported a successful enhancement the biosencin of TNT as ligand via computationally re-designed periplasmic binding proteins (PBPs) provide a means to design highlt senstitve and specific ligand sensing capabilities in receptors.
+"To function in plants, re-designed bacterial PBPs must be localized outside the plant cell to sense extracellurlar ligands, but be retained in such a way that they are able to activate transmembrance histidine kinases (HKs)," that bridge the cell membrane to relay environmental signals into the cell
 [^1]: Antunes, Mauricio S et al. “Programmable ligand detection system in plants through a synthetic signal transduction pathway.” PloS one vol. 6,1 e16292. 25 Jan. 2011, doi:10.1371/journal.pone.0016292.
 
+In "Engineering triacylglycerol accumulation in duckweed (Lemna japonica)"[^2] published in 2022, has reported successful experimental result in enhanced accumulation of triacylglycerol (TAG) accumulation in duckweed, specifically Lemna japonica, through facilitated transgenic expression of multi-cassette agrobacterium-mediated of transfgenic transformation of callus cultures.
 Liang, Yuanxue et al. “Engineering triacylglycerol accumulation in duckweed (Lemna japonica).” Plant biotechnology journal vol. 21,2 (2023): 317-330. doi:10.1111/pbi.13943
 
 Explain how your project is novel or innovative (min 3 sent)
-seeing the results from the transgenetic expression to synthesize signaling pathways and/or enahcning fatty acid accumulation for biofuel, these experiment have shed a light on not only the feasibility of transgenic expression of the Lemna plant but also its implementation. Refereing the experimental results, Dr, Andrew Scarpelli points to the phytoremediation capabilities of this plants and came up with the idea to enhance specific metal uptake for environmental remediation.
+seeing the results from the transgenetic expression to synthesize signaling pathways and/or enahcning fatty acid accumulation for biofuel, these experiment have shed a light on not only the feasibility of transgenic expression of the plant organism but more specifically various experiemnt has been done with transgenic line exprfession for multiple duckweed species. Refereing the experimental results, Dr, Andrew Scarpelli points to the phytoremediation capabilities of this plants and came up with the idea to enhance specific metal uptake for environmental remediation.
+
+https://www.cabidigitallibrary.org/doi/full/10.5555/20013129239
+ Boehm, R. , Kruse, C. , Voeste, D. , Barth, S. and Schnabl, H. (2001) A transient transformation system for duckweed (Wolffia columbiana) using Agrobacterium‐mediated gene transfer. J. Appl. Bot. 75, 107–111. [Google Scholar]
 
 Explain why your project matters and what impact it could have
 the problem addressed: 
