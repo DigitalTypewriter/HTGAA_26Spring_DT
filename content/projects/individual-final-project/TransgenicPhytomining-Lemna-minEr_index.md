@@ -24,7 +24,8 @@ Aim 3 explores the scalability and potential field implementation of this phytor
 
 Section 3: Background
 Breifly summarize two peer-reviewed research citations relevant to your research
-Antunes, Mauricio S et al. “Programmable ligand detection system in plants through a synthetic signal transduction pathway.” PloS one vol. 6,1 e16292. 25 Jan. 2011, doi:10.1371/journal.pone.0016292
+this paper[^1]
+[^1]: Antunes, Mauricio S et al. “Programmable ligand detection system in plants through a synthetic signal transduction pathway.” PloS one vol. 6,1 e16292. 25 Jan. 2011, doi:10.1371/journal.pone.0016292.
 
 Liang, Yuanxue et al. “Engineering triacylglycerol accumulation in duckweed (Lemna japonica).” Plant biotechnology journal vol. 21,2 (2023): 317-330. doi:10.1111/pbi.13943
 
