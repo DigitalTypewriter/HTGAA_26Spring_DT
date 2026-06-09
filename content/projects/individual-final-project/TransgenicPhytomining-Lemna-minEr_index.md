@@ -15,19 +15,15 @@ To achieve this objective, the project first aims to design and assemble a multi
 Following successful transformation, the project will evaluate whether transgenic *Lemna minor* demonstrates enhanced copper uptake and improved metal tolerance compared to wild-type plants. In the long term, this work explores the scalability of engineered duckweed as a sustainable phytoremediation platform for environmental cleanup and water treatment applications.
 
 ## Section 2: Project Aims
-
 ### Aim 1: Experimental Aim
 The first aim of my final project is to design and assemble a multi-cassette plant expression plasmid capable of expressing AtCOPT1, phytochelatin synthase (PCS), and a red fluorescent protein (RFP) reporter in *Lemna minor* by utilizing molecular cloning, bacterial transformation, and Agrobacterium-mediated plant transformation protocols.
-
 ### Aim 2: Development Aim
 The second aim of this project is to evaluate whether transgenic *Lemna minor* overexpressing COPT1 and PCS demonstrates improved copper uptake, accumulation, and detoxification compared to wild-type plants through comparative copper remediation assays and tissue stress analysis.
-
 ### Aim 3: Visionary Aim
 The third aim of this project is to develop a scalable phytoremediation platform using engineered *Lemna minor* for sustainable environmental monitoring, heavy metal cleanup, and water treatment applications in polluted aquatic environments.
 
-
-### Section 3: Background
-While looking into the feasibility of enhancing the already known phytoremediation capability of host plant organisms, Dr. Andrew Scarpelli referred me to several papers that explored the use of synthetic biology as a way to address environmental issues through transgenic expression systems. These studies provided both conceptual and technical foundations for this project by demonstrating that plants can be genetically engineered for specialized biological functions beyond their native capabilities.
+## Section 3: Background
+Dr. Andrew Scarpelli referred me to several papers that explored the use of synthetic biology as a way to address environmental issues through transgenic expression systems. These studies provided both conceptual and technical foundations for this project by demonstrating that plants can be genetically engineered for specialized biological functions beyond their native capabilities.
 
 In “Programmable Ligand Detection System in Plants through a Synthetic Signal Transduction Pathway,” (Antunes et al., 2011)[^1] demonstrated that plants can be genetically engineered with synthetic signaling pathways capable of detecting environmental ligands with high specificity. The study utilized computationally redesigned bacterial periplasmic binding proteins (PBPs) coupled with transmembrane histidine kinase (HK) signaling systems to create programmable biosensing capabilities in plants. This work demonstrated the successful design of synthetic biological pathways that can function within plant systems while maintaining environmental responsiveness. The study is significant because it showed that plants can be engineered beyond their native biological functions to perform targeted sensing and response behaviors.
 [^1]: Antunes, Mauricio S et al. “Programmable ligand detection system in plants through a synthetic signal transduction pathway.” PloS one vol. 6,1 e16292. 25 Jan. 2011, doi:10.1371/journal.pone.0016292.
