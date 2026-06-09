@@ -5,10 +5,13 @@ weight: 10
 
 ![cover image]()
 
-Section 1: Abstract
+###Section 1: Abstract
 Environmental pollution caused by human activity, particularly heavy metal contamination, has created a growing need for simple, cost-effective, and sustainable methods for environmental monitoring and remediation. This project originated from exploring phytoremediation as a low-cost strategy for environmental monitoring and pollutant removal. Throughout the course of development, the project evolved to focus on engineering a transgenic Lemna minor (duckweed) system with enhanced copper phytomining and environmental remediation capabilities.
+
 The overall objective of this project is to engineer Lemna minor to improve its ability to uptake, tolerate, and accumulate copper from contaminated environments through transgenic expression of metal-transport and detoxification proteins. The project tests the hypothesis that expression of the copper transporter gene AtCOPT1 from Arabidopsis thaliana will enhance copper uptake in Lemna minor, while co-expression of phytochelatin synthase (PCS) will improve intracellular detoxification and sequestration of copper ions.
+
 Aim 1 focuses on designing a multi-cassette plant expression plasmid capable of expressing COPT1, PCS, and a red fluorescent protein (RFP) reporter in Lemna minor. Although Lemna minor naturally contains native copper transporters, COPT1 was selected because it is well-characterized, highly specific for copper transport, and extensively sequenced in prior studies. The inclusion of PCS is intended to support metal tolerance and accumulation, while RFP enables visual confirmation of successful transformation and gene expression. Aim 2 evaluates whether transgenic Lemna minor overexpressing COPT1 and PCS demonstrates enhanced copper uptake and improved detoxification compared to wild-type plants. Aim 3 explores the scalability and potential field implementation of this phytoremediation platform.
+
 The plasmid construct is designed using an E. coli backbone containing the three protein expression modules: COPT1, PCS, and RFP. Following plasmid assembly, the construct is propagated in E. coli using heat-shock transformation. The amplified plasmid is subsequently transferred into Agrobacterium tumefaciens through electroporation. Finally, Agrobacterium-mediated transformation is performed by co-cultivating the bacteria with Lemna minor fronds, allowing natural DNA transfer into plant cells through the bacterium’s native infection pathway.
 
 Section 2: Project Aims
@@ -53,9 +56,3 @@ What synthetic biology techniques did you utilize in validating this aspect of y
 You must present data as part of your final project and include some analysis of that data. The data may be collected experimentally in the lab or generated as simulated data (e.g., using the Asimov Kernel or another simulation method). (min. 2 sentences)
 
 Did you encounter any unexpected challenge(s) when performing your validation? If so, describe the challenge(s) and strategies to overcome it. If not, discuss potential problems, difficulties, limitations, and/or alternative strategies to overcome challenges in your final project. (min. 4 sentences). 
-
-SECTION 6: ADDITIONAL INFORMATION
-12. List all references cited in this assignment (bullet-point list)
-
-
-
