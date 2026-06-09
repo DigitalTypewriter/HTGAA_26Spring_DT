@@ -1,12 +1,11 @@
 ---
-title: 'Individual Final Project - Transgenic Phytomining:  
-Lemna minEr'
+title: 'Individual Final Project - Transgenic Phytomining: Lemna minEr'
 weight: 10
 ---
 
 ![cover image]()
 
-###Section 1: Abstract
+### Section 1: Abstract
 Environmental pollution caused by human activity, particularly heavy metal contamination, has created a growing need for simple, cost-effective, and sustainable methods for environmental monitoring and remediation. This project originated from exploring phytoremediation as a low-cost strategy for environmental monitoring and pollutant removal. Throughout the course of development, the project evolved to focus on engineering a transgenic Lemna minor (duckweed) system with enhanced copper phytomining and environmental remediation capabilities.
 
 The overall objective of this project is to engineer Lemna minor to improve its ability to uptake, tolerate, and accumulate copper from contaminated environments through transgenic expression of metal-transport and detoxification proteins. The project tests the hypothesis that expression of the copper transporter gene AtCOPT1 from Arabidopsis thaliana will enhance copper uptake in Lemna minor, while co-expression of phytochelatin synthase (PCS) will improve intracellular detoxification and sequestration of copper ions.
@@ -15,7 +14,7 @@ Aim 1 focuses on designing a multi-cassette plant expression plasmid capable of 
 
 The plasmid construct is designed using an E. coli backbone containing the three protein expression modules: COPT1, PCS, and RFP. Following plasmid assembly, the construct is propagated in E. coli using heat-shock transformation. The amplified plasmid is subsequently transferred into Agrobacterium tumefaciens through electroporation. Finally, Agrobacterium-mediated transformation is performed by co-cultivating the bacteria with Lemna minor fronds, allowing natural DNA transfer into plant cells through the bacterium’s native infection pathway.
 
-Section 2: Project Aims
+### Section 2: Project Aims
 Aim 1: Experimental Aim
 Aim 1 focuses on designing a multi-cassette plant expression plasmid capable of expressing COPT1, PCS, and a red fluorescent protein (RFP) reporter in Lemna minor. Although Lemna minor naturally contains native copper transporters, COPT1 was selected because it is well-characterized, highly specific for copper transport, and extensively sequenced in prior studies. The inclusion of PCS is intended to support metal tolerance and accumulation, while RFP enables visual confirmation of successful transformation and gene expression
 
@@ -26,7 +25,7 @@ Aim 2 evaluates whether transgenic Lemna minor overexpressing COPT1 and PCS demo
 Aim 3: Visionary Aim
 Aim 3 explores the scalability and potential field implementation of this phytoremediation platform as cost-effective, and sustainable methods for environmental monitoring and remediation.
 
-Section 3: Background
+### Section 3: Background
 Breifly summarize two peer-reviewed research citations relevant to your research
 this paper[^1]
 [^1]: Antunes, Mauricio S et al. “Programmable ligand detection system in plants through a synthetic signal transduction pathway.” PloS one vol. 6,1 e16292. 25 Jan. 2011, doi:10.1371/journal.pone.0016292.
@@ -46,8 +45,10 @@ field-level change
 
 Describe the ethical implications associated with your project and identify relevant ethical principles (e.g., non-maleficence, beneficence, justice, or responsibility). (Minimum 2 paragraphs.)
 Create a detailed experimental plan for your final project. Include a timeline for each part of your experimental plan (i.e., how long you would expect each step in your final project to take). (min. 15 lines/sentences—a numbered list is acceptable)
+### SECTION 4: EXPERIMENTAL DESIGN, TECHNIQUES, TOOLS, AND TECHNOLOGY
+Create a detailed experimental plan for your final project. Include a timeline for each part of your experimental plan (i.e., how long you would expect each step in your final project to take). (min. 15 lines/sentences—a numbered list is acceptable)
 
-SECTION 5: Results & Quantitative Expectations
+### SECTION 5: Results & Quantitative Expectations
 What aspect of your final project did you choose to validate? (min. 2 sentences)
 
 Write down a detailed protocol of how you validated this aspect of your final project. (Numbered list or paragraph is fine)
