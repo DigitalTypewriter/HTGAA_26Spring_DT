@@ -5,25 +5,26 @@ weight: 10
 
 ![cover image]()
 
-### Section 1: Abstract
-Environmental pollution caused by human activity, particularly heavy metal contamination, has created a growing need for simple, cost-effective, and sustainable methods for environmental monitoring and remediation. This project originated from exploring phytoremediation as a low-cost strategy for environmental monitoring and pollutant removal. Throughout the course of development, the project evolved to focus on engineering a transgenic Lemna minor (duckweed) system with enhanced copper phytomining and environmental remediation capabilities.
+## Section 1: Abstract
+Environmental pollution caused by anthropogenic activity, particularly heavy metal contamination, has created an increasing need for sustainable and cost-effective methods of environmental monitoring and remediation. *Lemna minEr*, a project supervised by Dr. Andrew Scarpelli, explores the use of phytoremediation to address water contamination and scarcity caused by industrial metal pollution. The project focuses on engineering a transgenic *Lemna minor* (duckweed) system with enhanced copper uptake, tolerance, and accumulation capabilities.
 
-The overall objective of this project is to engineer Lemna minor to improve its ability to uptake, tolerate, and accumulate copper from contaminated environments through transgenic expression of metal-transport and detoxification proteins. The project tests the hypothesis that expression of the copper transporter gene AtCOPT1 from Arabidopsis thaliana will enhance copper uptake in Lemna minor, while co-expression of phytochelatin synthase (PCS) will improve intracellular detoxification and sequestration of copper ions.
+The overall objective of this project is to improve copper phytomining and remediation efficiency in *Lemna minor* through transgenic expression of metal transport and detoxification proteins. The project tests the hypothesis that expression of the copper transporter AtCOPT1 from *Arabidopsis thaliana* will enhance copper uptake, while co-expression of phytochelatin synthase (PCS) will improve intracellular detoxification and sequestration of copper ions. A red fluorescent protein (RFP) reporter is additionally incorporated to enable visual confirmation of successful transformation and gene expression.
 
-Aim 1 focuses on designing a multi-cassette plant expression plasmid capable of expressing COPT1, PCS, and a red fluorescent protein (RFP) reporter in Lemna minor. Although Lemna minor naturally contains native copper transporters, COPT1 was selected because it is well-characterized, highly specific for copper transport, and extensively sequenced in prior studies. The inclusion of PCS is intended to support metal tolerance and accumulation, while RFP enables visual confirmation of successful transformation and gene expression. Aim 2 evaluates whether transgenic Lemna minor overexpressing COPT1 and PCS demonstrates enhanced copper uptake and improved detoxification compared to wild-type plants. Aim 3 explores the scalability and potential field implementation of this phytoremediation platform.
+To achieve this objective, the project first aims to design and assemble a multi-cassette plant expression plasmid containing COPT1, PCS, and RFP expression modules. The plasmid is constructed using an *E. coli* backbone and initially propagated through heat-shock transformation in *E. coli*. The amplified plasmid is then transferred into *Agrobacterium tumefaciens* through electroporation. Finally, Agrobacterium-mediated transformation is performed by co-cultivating the bacteria with *Lemna minor* fronds, enabling DNA transfer into plant cells through the bacterium’s natural infection pathway.
 
-The plasmid construct is designed using an E. coli backbone containing the three protein expression modules: COPT1, PCS, and RFP. Following plasmid assembly, the construct is propagated in E. coli using heat-shock transformation. The amplified plasmid is subsequently transferred into Agrobacterium tumefaciens through electroporation. Finally, Agrobacterium-mediated transformation is performed by co-cultivating the bacteria with Lemna minor fronds, allowing natural DNA transfer into plant cells through the bacterium’s native infection pathway.
+Following successful transformation, the project will evaluate whether transgenic *Lemna minor* demonstrates enhanced copper uptake and improved metal tolerance compared to wild-type plants. In the long term, this work explores the scalability of engineered duckweed as a sustainable phytoremediation platform for environmental cleanup and water treatment applications.
 
-### Section 2: Project Aims
-Aim 1: Experimental Aim
-Aim 1 focuses on designing a multi-cassette plant expression plasmid capable of expressing COPT1, PCS, and a red fluorescent protein (RFP) reporter in Lemna minor. Although Lemna minor naturally contains native copper transporters, COPT1 was selected because it is well-characterized, highly specific for copper transport, and extensively sequenced in prior studies. The inclusion of PCS is intended to support metal tolerance and accumulation, while RFP enables visual confirmation of successful transformation and gene expression
+## Section 2: Project Aims
 
-Aim 2: Development Aim
-Aim 2 evaluates whether transgenic Lemna minor overexpressing COPT1 and PCS demonstrates enhanced copper uptake and improved detoxification compared to wild-type plants.
-- experiment between WT, COPT1, and COPT1+PCS of its remediation efficacy via ___ and detoxification through tissue-stress via ___
+### Aim 1: Experimental Aim
+The first aim of my final project is to design and assemble a multi-cassette plant expression plasmid capable of expressing AtCOPT1, phytochelatin synthase (PCS), and a red fluorescent protein (RFP) reporter in *Lemna minor* by utilizing molecular cloning, bacterial transformation, and Agrobacterium-mediated plant transformation protocols.
 
-Aim 3: Visionary Aim
-Aim 3 explores the scalability and potential field implementation of this phytoremediation platform as cost-effective, and sustainable methods for environmental monitoring and remediation.
+### Aim 2: Development Aim
+The second aim of this project is to evaluate whether transgenic *Lemna minor* overexpressing COPT1 and PCS demonstrates improved copper uptake, accumulation, and detoxification compared to wild-type plants through comparative copper remediation assays and tissue stress analysis.
+
+### Aim 3: Visionary Aim
+The third aim of this project is to develop a scalable phytoremediation platform using engineered *Lemna minor* for sustainable environmental monitoring, heavy metal cleanup, and water treatment applications in polluted aquatic environments.
+
 
 ### Section 3: Background
 Breifly summarize two peer-reviewed research citations relevant to your research
