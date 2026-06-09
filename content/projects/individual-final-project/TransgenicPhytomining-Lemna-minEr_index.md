@@ -1,12 +1,12 @@
 ---
 title: 'Individual Final Project - Transgenic Phytomining: Lemna minEr'
-weight: 9
+weight: 10
 ---
 
 ![cover image]()
 
 ## Section 1: Abstract
-Environmental pollution caused by anthropogenic activity, particularly heavy metal contamination, has created an increasing need for sustainable and cost-effective methods of environmental monitoring and remediation. *Lemna minEr*, a project supervised by Dr. Andrew Scarpelli, explores the use of phytoremediation to address water contamination and scarcity caused by industrial metal pollution. The project focuses on engineering a transgenic *Lemna minor* (duckweed) system with enhanced copper uptake, tolerance, and accumulation capabilities.
+Environmental pollution caused by anthropogenic activity, particularly heavy metal contamination, has created an increasing need for sustainable and cost-effective methods of environmental monitoring and remediation. *Lemna minEr*, a project supervised by Dr. Andrew Scarpelli, explores the use of phytoremediation to address water scarcity and contamination caused by industrial metal pollution. The project focuses on engineering a transgenic *Lemna minor* (duckweed) system with enhanced copper uptake, tolerance, and accumulation capabilities.
 
 The overall objective of this project is to improve copper phytomining and remediation efficiency in *Lemna minor* through transgenic expression of metal transport and detoxification proteins. The project tests the hypothesis that expression of the copper transporter AtCOPT1 from *Arabidopsis thaliana* will enhance copper uptake, while co-expression of phytochelatin synthase (PCS) will improve intracellular detoxification and sequestration of copper ions. A red fluorescent protein (RFP) reporter is additionally incorporated to enable visual confirmation of successful transformation and gene expression.
 
