@@ -5,7 +5,7 @@ weight: 10
 | pre-fire                            | post-fire                            |
 | ----------------------------------- | ----------------------------------- |
 |<img src="lm_prefire_edit.png" width="1000">|<img src="post.png" width="1000">|
-![cover image]()
+*Figure 1. Proof‑of‑principle results showing phytoremediation by Lemna minor cultured in magnesium, chromium, and copper solutions. The resulting color residues indicate metal contamination and are demonstrated through the use of the biomass as an underglaze dye on ceramic tiles for visual reference.*
 
 ## Section 1: Abstract
 Environmental pollution caused by anthropogenic activity, particularly heavy metal contamination, has created an increasing need for sustainable and cost-effective methods of environmental monitoring and remediation. *Lemna minEr*, a project supervised by Dr. Andrew Scarpelli, explores the use of phytoremediation to address water scarcity and contamination caused by industrial metal pollution. The project focuses on engineering a transgenic *Lemna minor* (duckweed) system with enhanced copper uptake, tolerance, and accumulation capabilities.
@@ -46,7 +46,7 @@ Create a detailed experimental plan for your final project. Include a timeline f
 ### SECTION 5: Results & Quantitative Expectations
 | w/ RFP                            | w/out RFP                            |
 | ----------------------------------- | ----------------------------------- |
-|<img src="Copy-of-Lemna-minEr-w-Pnos-RFP-sequence.pdf" width="1000">|<img src="Copy-of-Lemna-minEr-w-out-RFP-sequence.pdf" width="1000">|
+|<img src="Copy-of-Lemna-minEr-w-Pnos-RFP-sequence.png" width="1000">|<img src="Copy-of-Lemna-minEr-w-out-RFP-sequence.png" width="1000">|
 What aspect of your final project did you choose to validate? (min. 2 sentences)
 
 Write down a detailed protocol of how you validated this aspect of your final project. (Numbered list or paragraph is fine)
