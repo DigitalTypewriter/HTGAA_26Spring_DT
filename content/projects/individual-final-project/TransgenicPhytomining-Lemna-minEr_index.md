@@ -5,6 +5,7 @@ weight: 10
 | pre-fire                            | post-fire                            |
 | ----------------------------------- | ----------------------------------- |
 |<img src="lm_prefire_edit.png" width="1000">|<img src="post.png" width="1000">|
+
 *Figure 1. Proof‑of‑principle results showing phytoremediation by Lemna minor cultured in magnesium, chromium, and copper solutions. The resulting color residues indicate metal contamination and are demonstrated through the use of the biomass as an underglaze dye on ceramic tiles for visual reference.*
 
 ## Section 1: Abstract
