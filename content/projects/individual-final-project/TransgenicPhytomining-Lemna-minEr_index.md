@@ -45,11 +45,9 @@ Create a detailed experimental plan for your final project. Include a timeline f
 |<img src="Copy-of-Lemna-minEr-w-Pnos-RFP-sequence.jpg" width="1000">|<img src="Copy-of-Lemna-minEr-w-out-RFP-sequence.jpg" width="1000">|
 
 
-What aspect of your final project did you choose to validate? (min. 2 sentences)<br>
-Write down a detailed protocol of how you validated this aspect of your final project. (Numbered list or paragraph is fine)<br>
-What synthetic biology techniques did you utilize in validating this aspect of your final project? You can refer to the list of techniques in question 8. (min. 4 sentences)<br>
-You must present data as part of your final project and include some analysis of that data. The data may be collected experimentally in the lab or generated as simulated data (e.g., using the Asimov Kernel or another simulation method). (min. 2 sentences)<br>
-Did you encounter any unexpected challenge(s) when performing your validation? If so, describe the challenge(s) and strategies to overcome it. If not, discuss potential problems, difficulties, limitations, and/or alternative strategies to overcome challenges in your final project. (min. 4 sentences). <br>
+For my project validation, I used UniProt and Addgene to identify an appropriate copper‑transporter (COPT1) protein sequence, and then used Benchling to virtually prototype a plasmid design. The design process involved selecting an organism‑specific promoter and evaluating whether a synthetic promoter would be necessary to fine‑tune expression efficiency. I incorporated the gene of interest, COPT1, along with a complementary red fluorescent protein (RFP) reporter to confirm successful translation and expression of the synthetic construct.
+
+Building on the design proposal described in earlier sections, Dr. Andrew Scarpelli at the ChiTownBio laboratory node had ordered the synthetic plasmid through Twist Bioscience and are preparing for Agrobacterium‑mediated enhancement of gene expression. This preparation is intended to support the eventual transfer of the engineered Agrobacterium construct into Lemna minor for downstream phytoremediation testing.
 
 ### Section 6: Reference
 - Antunes et al., 2011  
