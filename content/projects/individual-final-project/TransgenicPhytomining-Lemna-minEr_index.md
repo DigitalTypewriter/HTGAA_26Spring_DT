@@ -26,7 +26,10 @@ The second aim of this project is to evaluate whether transgenic *Lemna minor* o
 The third aim of this project is to develop a scalable phytoremediation platform using engineered *Lemna minor* for sustainable environmental monitoring, heavy metal cleanup, and water treatment applications in polluted aquatic environments.
 
 ## Section 3: Background
-<img src="pone.0016292.g001.jpg">
+| paper 1                             | paper 2                             |
+| ----------------------------------- | ----------------------------------- |
+|<img src="pone.0016292.g001.jpg" width="1000">|<img src="PBI-21-317-g001.jpg" width="1000">|
+
 Dr. Andrew Scarpelli referred me to several papers that explored the use of synthetic biology as a way to address environmental issues through transgenic expression systems. These studies provided both conceptual and technical foundations for this project by demonstrating that plants can be genetically engineered for specialized biological functions beyond their native capabilities.
 
 In “Programmable Ligand Detection System in Plants through a Synthetic Signal Transduction Pathway,” (Antunes et al., 2011), demonstrated that plants can be genetically engineered with synthetic signaling pathways capable of detecting environmental ligands with high specificity. The study utilized computationally-redesigned periplasmic binding proteins (PBPs) coupled with transmembrane histidine kinase (HK) signaling systems to create programmable biosensing capabilities in plants. This work demonstrated the successful design of synthetic biological pathways that can function within plant systems while maintaining environmental responsiveness. The study is significant because it showed that plants can be engineered beyond their native biological functions to perform targeted sensing and response behaviors.
@@ -44,7 +47,6 @@ Create a detailed experimental plan for your final project. Include a timeline f
 | w/ RFP                            | w/out RFP                            |
 | ----------------------------------- | ----------------------------------- |
 |<img src="Copy-of-Lemna-minEr-w-Pnos-RFP-sequence.jpg" width="1000">|<img src="Copy-of-Lemna-minEr-w-out-RFP-sequence.jpg" width="1000">|
-
 
 For my project validation, I used UniProt and Addgene to identify an appropriate copper‑transporter (COPT1) protein sequence, and then used Benchling to virtually prototype a plasmid design. The design process involved selecting an organism‑specific promoter and evaluating whether a synthetic promoter would be necessary to fine‑tune expression efficiency. I incorporated the gene of interest, COPT1, along with a complementary red fluorescent protein (RFP) reporter to confirm successful translation and expression of the synthetic construct.
 
