@@ -45,11 +45,11 @@ Create a detailed experimental plan for your final project. Include a timeline f
 |<img src="Copy-of-Lemna-minEr-w-Pnos-RFP-sequence.jpg" width="1000">|<img src="Copy-of-Lemna-minEr-w-out-RFP-sequence.jpg" width="1000">|
 
 
-What aspect of your final project did you choose to validate? (min. 2 sentences)
-Write down a detailed protocol of how you validated this aspect of your final project. (Numbered list or paragraph is fine)
-What synthetic biology techniques did you utilize in validating this aspect of your final project? You can refer to the list of techniques in question 8. (min. 4 sentences)
-You must present data as part of your final project and include some analysis of that data. The data may be collected experimentally in the lab or generated as simulated data (e.g., using the Asimov Kernel or another simulation method). (min. 2 sentences)
-Did you encounter any unexpected challenge(s) when performing your validation? If so, describe the challenge(s) and strategies to overcome it. If not, discuss potential problems, difficulties, limitations, and/or alternative strategies to overcome challenges in your final project. (min. 4 sentences). 
+What aspect of your final project did you choose to validate? (min. 2 sentences)<br>
+Write down a detailed protocol of how you validated this aspect of your final project. (Numbered list or paragraph is fine)<br>
+What synthetic biology techniques did you utilize in validating this aspect of your final project? You can refer to the list of techniques in question 8. (min. 4 sentences)<br>
+You must present data as part of your final project and include some analysis of that data. The data may be collected experimentally in the lab or generated as simulated data (e.g., using the Asimov Kernel or another simulation method). (min. 2 sentences)<br>
+Did you encounter any unexpected challenge(s) when performing your validation? If so, describe the challenge(s) and strategies to overcome it. If not, discuss potential problems, difficulties, limitations, and/or alternative strategies to overcome challenges in your final project. (min. 4 sentences). <br>
 
 ### Section 6: Reference
 - Antunes et al., 2011  
