@@ -52,14 +52,14 @@ You must present data as part of your final project and include some analysis of
 Did you encounter any unexpected challenge(s) when performing your validation? If so, describe the challenge(s) and strategies to overcome it. If not, discuss potential problems, difficulties, limitations, and/or alternative strategies to overcome challenges in your final project. (min. 4 sentences). 
 
 ### Section 6: Reference
-Antunes et al., 2011  
+- Antunes et al., 2011  
 Antunes, M. S., Ha, S. B., Tewari‑Singh, N., Morey, K. J., Trofka, A. M., Kugrens, P., Deyholos, M. K., & Medford, J. I. (2011). Programmable ligand detection system in plants through a synthetic signal transduction pathway. PLOS ONE, 6(1), e16292. https://doi.org/10.1371/journal.pone.0016292
 
-Liang et al., 2023  
+- Liang et al., 2023  
 Liang, Y., Zhang, Y., Zhang, J., Wang, Y., Li, Y., & Zhao, H. (2023). Engineering triacylglycerol accumulation in duckweed (Lemna japonica). Plant Biotechnology Journal, 21(2), 317–330. https://doi.org/10.1111/pbi.13943
 
-Boehm et al., 2001  
+- Boehm et al., 2001  
 Boehm, R., Kruse, C., Voeste, D., Barth, S., & Schnabl, H. (2001). A transient transformation system for duckweed (Wolffia columbiana) using Agrobacterium‑mediated gene transfer. Journal of Applied Botany, 75, 107–111.
 
-Wang et al., 2021  
+- Wang et al., 2021  
 Wang, K.‑T., Hong, M.‑C., Wu, Y.‑S., & Wu, T.‑M. (2021). Agrobacterium‑mediated genetic transformation of Taiwanese isolates of Lemna aequinoctialis. Plants, 10, 1576. https://doi.org/10.3390/plants10081576
