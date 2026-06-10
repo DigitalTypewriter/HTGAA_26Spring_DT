@@ -2,7 +2,9 @@
 title: 'Individual Final Project - Transgenic Phytomining: Lemna minEr'
 weight: 10
 ---
-
+| pre-fire                            | post-fire                            |
+| ----------------------------------- | ----------------------------------- |
+|<img src="lm_prefire_edit.jpg" width="1000">|<img src="post-fire.jpg" width="1000">|
 ![cover image]()
 
 ## Section 1: Abstract
@@ -42,6 +44,9 @@ Describe the ethical implications associated with your project and identify rele
 Create a detailed experimental plan for your final project. Include a timeline for each part of your experimental plan (i.e., how long you would expect each step in your final project to take). (min. 15 lines/sentences—a numbered list is acceptable)
 
 ### SECTION 5: Results & Quantitative Expectations
+| pre-fire                            | post-fire                            |
+| ----------------------------------- | ----------------------------------- |
+|<img src="lm_prefire_edit.jpg" width="1000">|<img src="post-fire.jpg" width="1000">|
 What aspect of your final project did you choose to validate? (min. 2 sentences)
 
 Write down a detailed protocol of how you validated this aspect of your final project. (Numbered list or paragraph is fine)
