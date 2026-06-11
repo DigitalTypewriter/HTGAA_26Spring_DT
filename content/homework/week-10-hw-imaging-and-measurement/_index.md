@@ -16,19 +16,25 @@ For your final project:
 
 Homework: Waters Part I — Molecular Weight<br>
 1. Based on the predicted amino acid sequence of eGFP (see below) and any known modifications, what is the calculated molecular weight?
+
+
 **With eGFP, the full construct contains 246 amino acids; using the standard approximation of 110 Da per amino acid, the estimated molecular weight is 246 × 110 Da ≈ 27,060 Da, or roughly 27 kDa. The theoretical molecular weight calculated by online tools is 28,006.60 Da (≈28 kDa), which is consistent with the rough estimate of 246 aa × 110 Da ≈ 27,060 Da.**
 
 2. Calculate the molecular weight of the eGFP using the adjacent charge state approach described in the recitation. Select two charge states from the intact LC-MS data (Figure 1) and:
-- Determine for each adjacent pair of peaks
+
+
+- Determine for each adjacent pair of peaks<br>
 **<mark>z= 966.0390/1000.4302−966.0390 = 966.0390/34.3912 ≈ 28</mark>**
-- Determine the MW of the protein using the relationship between m/Zn, MW, and z
-**Molecular Weight Calculation Using Charge State z**<br>
+- Determine the MW of the protein using the relationship between m/Zn, MW, and z<br>
+**Molecular Weight Calculation Using Charge State z**
+  
 **For a given charge state z, the relationship between molecular weight MW and the observed m/z is:**<br>
 <mark>**m/z = (MW+z)/z**</mark><br>
 **rearragne to solve for MW:**<br>
 <mark>**MW = (m/z)*z-z</mark>**<br>
 **using the peak at m/z = 1000.4302 and z = 28**<br>
-<mark>**MW = 1000.4302*28-28 ≈ 28012.046−28 ≈ 27,984 Da**</mark><br>
+<mark>**MW = 1000.4302*28-28 ≈ 28012.046−28 ≈ 27,984 Da**</mark>
+
 **So the protein’s molecular weight from this charge state is ≈27,984 Da (≈28.0 kDa), in excellent agreement with the theoretical ~28,006.6 Da.**
 
 Homework: Waters Part II — Secondary/Tertiary structure<br>
