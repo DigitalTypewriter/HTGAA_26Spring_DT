@@ -19,29 +19,17 @@ Homework: Waters Part I — Molecular Weight<br>
 **With eGFP, the full construct contains 246 amino acids; using the standard approximation of 110 Da per amino acid, the estimated molecular weight is 246 × 110 Da ≈ 27,060 Da, or roughly 27 kDa. The theoretical molecular weight calculated by online tools is 28,006.60 Da (≈28 kDa), which is consistent with the rough estimate of 246 aa × 110 Da ≈ 27,060 Da.**
 
 2. Calculate the molecular weight of the eGFP using the adjacent charge state approach described in the recitation. Select two charge states from the intact LC-MS data (Figure 1) and:
-- **Determine for each adjacent pair of peaks**
-  **<mark>z= 966.0390/1000.4302−966.0390 = 966.0390/34.3912 ≈ 28</mark>**
-
- Molecular Weight Calculation Using Charge State z
-
-The relationship between molecular weight (MW), charge state (z), and the observed m/z is:
-
-\[
-MW = (m/z) \cdot z - z
-\]
-
-Using the observed peak at **m/z = 1000.4302** and the charge state determined from adjacent peaks (**z = 28**):
-
-\[
-MW = 1000.4302 \times 28 - 28
-\]
-
-\[
-MW = 28012.046 - 28 = 27984.046\ \text{Da}
-\]
-
-**Final MW ≈ 27,984 Da (≈ 28.0 kDa)**, which agrees with the theoretical value of ~28,006.6 Da for eGFP with the LE‑His₆ tag.
-
+- Determine for each adjacent pair of peaks
+**<mark>z= 966.0390/1000.4302−966.0390 = 966.0390/34.3912 ≈ 28</mark>**
+- Determine the MW of the protein using the relationship between m/Zn, MW, and z
+**Molecular Weight Calculation Using Charge State z**<br>
+**For a given charge state z, the relationship between molecular weight MW and the observed m/z is:**<br>
+<mark>**m/z = (MW+z)/z**</mark><br>
+**rearragne to solve for MW:**<br>
+<mark>**MW = (m/z)*z-z</mark>**<br>
+**using the peak at m/z = 1000.4302 and z = 28**<br>
+<mark>**MW = 1000.4302*28-28 ≈ 28012.046−28 ≈ 27,984 Da**</mark><br>
+**So the protein’s molecular weight from this charge state is ≈27,984 Da (≈28.0 kDa), in excellent agreement with the theoretical ~28,006.6 Da.**
 
 Homework: Waters Part II — Secondary/Tertiary structure<br>
 Homework: Waters Part III — Peptide Mapping - primary structure<br>
