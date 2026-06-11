@@ -23,9 +23,12 @@ Homework: Waters Part I — Molecular Weight<br>
 2. Calculate the molecular weight of the eGFP using the adjacent charge state approach described in the recitation. Select two charge states from the intact LC-MS data (Figure 1) and:
 
 
-- Determine for each adjacent pair of peaks<br>
+- Determine for each adjacent pair of peaks
+
 **<mark>z= 966.0390/1000.4302−966.0390 = 966.0390/34.3912 ≈ 28</mark>**
-- Determine the MW of the protein using the relationship between m/Zn, MW, and z<br>
+
+- Determine the MW of the protein using the relationship between m/Zn, MW, and z
+
 **Molecular Weight Calculation Using Charge State z**
   
 **For a given charge state z, the relationship between molecular weight MW and the observed m/z is:**<br>
@@ -37,10 +40,12 @@ Homework: Waters Part I — Molecular Weight<br>
 
 **So the protein’s molecular weight from this charge state is ≈27,984 Da (≈28.0 kDa), in excellent agreement with the theoretical ~28,006.6 Da.**
 
-- Calculate the accuracy of the measurement using the deconvoluted MW from 2.2 and the predicted weight of the protein<br>
+- Calculate the accuracy of the measurement using the deconvoluted MW from 2.2 and the predicted weight of the protein
+
 **the measurement is off by about −0.081%, meaning your experimental mass is extremely close to the theoretical value — well within typical intact‑protein LC‑MS accuracy.**
 
 - Can you observe the charge state for the zoomed-in peak in the mass spectrum for the intact eGFP? If yes, what is it? If no, why not?
+
 **You generally cannot determine the charge state from the zoomed‑in intact eGFP peak, because the zoom only shows a single broad peak without either of the two features needed to assign a charge state: adjacent charge‑state peaks or resolved isotopic spacing. Charge states are identified by comparing neighboring peaks in the charge envelope or by measuring the spacing between isotopes (which is 1/z), and neither of those patterns is visible when only one isolated peak is shown. Without that structural context, the zoomed‑in view does not provide enough information to confidently assign a charge state.**
 
 Homework: Waters Part II — Secondary/Tertiary structure<br>
