@@ -6,24 +6,24 @@ Homework Part A: General and Lecturer-Specific Questions
 General homework questions
 1. Explain the main advantages of cell-free protein synthesis over traditional in vivo methods, specifically in terms of flexibility and control over experimental variables. Name at least two cases where cell-free expression is more beneficial than cell production. 
 
-**Cell-free systems remove cellular constraints, allowing direct control over reaction conditions; in terms of flexibility, in cell-free system, you can directly add/remove componenets (DNA/RNA/proteins) without maintaining cell viability, allowing rapid protytyping.in terms of control, cell-free systems allows fine tunning transcripiton/translation rates, concentration of enzymes (agent/reagent). 
-Cell-free system would be benefitical while incorporating non-naturla amino acids, as well as used to synthesize toxic or hard-to-express protein.**
+**Cell‑free systems remove the constraints of living cells, giving researchers direct control over reaction conditions. In terms of flexibility, a cell‑free system allows you to add or remove components—such as DNA, RNA, or proteins—without needing to maintain cell viability, which makes rapid prototyping much easier. In terms of control, cell‑free expression enables precise tuning of transcription and translation rates, as well as the concentrations of enzymes, cofactors, and other reagents.**
+
+**Cell‑free expression is especially beneficial in cases where you want to incorporate non‑natural amino acids, since the open reaction environment allows direct addition of orthogonal tRNAs or modified substrates. It is also advantageous for producing toxic or hard‑to‑express proteins, because there is no living cell to damage and no stress response to interfere with protein synthesis.**
 
 2. Describe the main components of a cell-free expression system and explain the role of each component.
 
 **Four main compoenets of cell-free system:**
-1. **Transcription/Translation machinery**<br>
+I. **Transcription/Translation machinery**<br>
 **role: build protein**<br>
 **components: Ribosomes / tRNAs / RNA polymerase / Aminoacyl-tRNA synthetases**
-2. **Template**<br>
+II. **Template**<br>
 **role: provides the coding sequence**<br>
 **components: DNA / mRNA**
-3. **Energy system**<br>
+III. **Energy system**<br>
 **componenets: Adenosine Triphosphate (ATP), Guanosine Triphosphate (GTP)**
-4. **Cofactors + environment**<br>
+IV. **Cofactors + environment**<br>
 **role: maintain proper biochemical conditions**<br>
 **componenets: amino acids / Salts (Mg<sup>2+</sup>, K<sup>+</sup>) / Buffer**<br>
-
 
 3. Why is energy provision regeneration critical in cell-free systems? Describe a method you could use to ensure continuous ATP supply in your cell-free experiment.
 
@@ -101,6 +101,18 @@ Freeze-dried cell-free systems can be incorporated into all kinds of materials a
   - What societal challenge or market need will this address?
   - How do you envision addressing the limitation of cell-free reactions (e.g., activation with water, stability, one-time use)?
 
+**One‑sentence pitch**<br>
+**A portable, freeze‑dried cell‑free test strip that detects copper ions in water and produces a visible color change, serving as a low‑cost sampling kit to guide copper remediation efforts.**
+
+**How the idea works (3–4 sentences)** <br>
+**Cell‑free transcription/translation reactions are freeze‑dried onto a paper strip or small plastic cartridge, along with a copper‑responsive genetic circuit. When a water sample is applied, the system rehydrates and, if Cu²⁺ is present above a threshold, a copper‑sensing regulator activates expression of a visible reporter such as a chromoprotein or fluorescent protein. The intensity or presence of the color change reflects the copper concentration range, allowing semi‑quantitative readout by eye or with a simple phone app. These test strips can be used in the field to map contamination and decide where to deploy your copper‑sequestering system.**
+
+**Societal challenge or market need**<br>
+**This addresses the need for accessible, low‑cost, on‑site water quality testing, especially in communities with aging infrastructure, industrial runoff, or limited access to centralized lab facilities. It enables non‑experts—residents, schools, local agencies—to quickly assess whether copper levels may be problematic and to prioritize remediation or further laboratory testing.**
+
+**Addressing limitations of cell‑free reactions** <br>
+**The cell‑free reactions are freeze‑dried with stabilizers (e.g., trehalose, sugars, polymers) to maintain activity during storage and transport at room temperature. Activation is intentionally one‑time and water‑triggered: the user adds a small volume of water, the reaction runs for a defined time window, and then naturally stops as energy substrates are consumed. Because they are single‑use, the strips are designed to be cheap and disposable, and can be packaged in sealed pouches to extend shelf life. For more advanced versions, you could calibrate the response time or color intensity to approximate copper concentration ranges relevant to health guidelines.**
+
 Homework question from Ally Huang
 Freeze-dried cell-free reactions have great potential in space, where resources are constrained. As described in my talk, the Genes in Space competition challenges students to consider how biotechnology, including cell-free reactions, can be used to solve biological problems encountered in space. While the competition is limited to only high school students, your assignment will be to develop your own mock Genes in Space proposal to practice thinking about biotech applications in space!
 
@@ -111,3 +123,19 @@ For this particular assignment, your proposal is required to incorporate the Bio
 3. Describe how your molecular or genetic target relates to the space biology question or challenge your proposal addresses. (Maximum 100 words)
 4. Clearly state your hypothesis or research goal and explain the reasoning behind it. (Maximum 150 words)
 5. Outline your experimental plan - identify the sample(s) you will test in your experiment, including any necessary controls, the type of data or measurements that will be collected, etc. (Maximum 100 words)
+
+**Background**<br>
+**Long‑duration space missions rely on closed‑loop water recycling systems, where even small failures in filtration can lead to the gradual buildup of trace contaminants such as copper ions. Elevated copper can damage cells, disrupt enzymes, and threaten astronaut health, yet current monitoring methods are bulky, slow, or Earth‑dependent. A lightweight, freeze‑dried, cell‑free diagnostic that can be run entirely on‑orbit would provide rapid, on‑demand assessment of water quality. This is significant for safe human habitation in space and scientifically interesting for understanding how closed life‑support systems behave over time.**
+
+**Molecular/genetic target**<br>
+**A copper‑responsive genetic circuit using a CueR‑regulated promoter driving expression of a fluorescent reporter protein in the BioBits cell‑free system.**
+
+**Target–challenge connection**<br> 
+**CueR is a copper‑responsive transcription factor that activates gene expression when intracellular copper levels rise. By placing a fluorescent reporter under control of a CueR‑regulated promoter, the BioBits cell‑free system can be engineered to “light up” in response to copper in a water sample. This directly links the molecular target—copper‑regulated transcription—to the space challenge of monitoring trace metal contamination in recycled water. Measuring fluorescence intensity provides a simple, visual readout of copper levels that astronauts could interpret using the P51 Molecular Fluorescence Viewer, without needing complex analytical instruments.**
+
+**Hypothesis / research goal**<br>
+**Hypothesis: A freeze‑dried BioBits cell‑free reaction containing a CueR‑based copper sensor can be rehydrated with spacecraft water samples and produce a fluorescence signal proportional to copper concentration under spaceflight conditions.
+The goal is to develop and characterize a compact, on‑orbit assay that allows astronauts to rapidly assess whether copper levels in recycled water remain within safe limits. This is based on prior work showing that cell‑free systems and fluorescent reporters remain functional after freeze‑drying and rehydration, and that metal‑responsive transcription factors can be wired into synthetic gene circuits. Testing this system in microgravity will reveal whether reaction kinetics, diffusion, or mixing affect sensor performance, and whether calibration curves generated on Earth remain valid in space.**
+
+**Experimental plan**<br>
+**I will prepare freeze‑dried BioBits reactions containing the CueR sensor circuit in PCR tubes or paper‑based formats. On‑orbit, astronauts will rehydrate reactions with water samples from the spacecraft recycling system and with defined copper standards as controls (0, low, medium, high). After incubation at a controlled temperature, fluorescence will be measured using the P51 Molecular Fluorescence Viewer and recorded as relative intensity. Negative controls (no DNA, no copper) and positive controls (known copper spike‑ins) will validate specificity and sensitivity. Data will be used to generate a calibration curve and assess the sensor’s usability for routine monitoring.**
