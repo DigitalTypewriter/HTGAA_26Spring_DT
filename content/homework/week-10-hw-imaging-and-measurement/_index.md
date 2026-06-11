@@ -15,6 +15,34 @@ For your final project:
 **If PCS1 or other sequestration machinery is included, I will additionally measure phytochelatin or thiol production using <mark>HPLC or LC‑MS</mark> to confirm biochemical binding of copper inside the plant. Growth and viability assays under copper stress will help determine whether sequestration reduces toxicity. Together, these measurements create a complete monitoring pipeline: <mark>RFP for screening, molecular assays for expression, tissue‑level copper quantification for uptake, and water‑phase copper testing for environmental cleanup performance,</mark> providing an evaluation of both copper accumulation and remediation efficiency.**
 
 Homework: Waters Part I — Molecular Weight<br>
+1. Based on the predicted amino acid sequence of eGFP (see below) and any known modifications, what is the calculated molecular weight?
+**With eGFP, the full construct contains 246 amino acids; using the standard approximation of 110 Da per amino acid, the estimated molecular weight is 246 × 110 Da ≈ 27,060 Da, or roughly 27 kDa. The theoretical molecular weight calculated by online tools is 28,006.60 Da (≈28 kDa), which is consistent with the rough estimate of 246 aa × 110 Da ≈ 27,060 Da.**
+
+2. Calculate the molecular weight of the eGFP using the adjacent charge state approach described in the recitation. Select two charge states from the intact LC-MS data (Figure 1) and:
+- **Determine for each adjacent pair of peaks**
+  **<mark>z= 966.0390/1000.4302−966.0390 = 966.0390/34.3912 ≈ 28</mark>**
+
+ Molecular Weight Calculation Using Charge State z
+
+The relationship between molecular weight (MW), charge state (z), and the observed m/z is:
+
+\[
+MW = (m/z) \cdot z - z
+\]
+
+Using the observed peak at **m/z = 1000.4302** and the charge state determined from adjacent peaks (**z = 28**):
+
+\[
+MW = 1000.4302 \times 28 - 28
+\]
+
+\[
+MW = 28012.046 - 28 = 27984.046\ \text{Da}
+\]
+
+**Final MW ≈ 27,984 Da (≈ 28.0 kDa)**, which agrees with the theoretical value of ~28,006.6 Da for eGFP with the LE‑His₆ tag.
+
+
 Homework: Waters Part II — Secondary/Tertiary structure<br>
 Homework: Waters Part III — Peptide Mapping - primary structure<br>
 Homework: Waters Part IV — Oligomers<br>
