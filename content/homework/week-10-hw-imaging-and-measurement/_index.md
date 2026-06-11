@@ -42,7 +42,7 @@ Homework: Waters Part I — Molecular Weight<br>
 
 - Calculate the accuracy of the measurement using the deconvoluted MW from 2.2 and the predicted weight of the protein
 
-**the measurement is off by about −0.081%, meaning your experimental mass is extremely close to the theoretical value — well within typical intact‑protein LC‑MS accuracy.**
+**The measurement is off by about −0.081%, meaning your experimental mass is extremely close to the theoretical value — well within typical intact‑protein LC‑MS accuracy.**
 
 - Can you observe the charge state for the zoomed-in peak in the mass spectrum for the intact eGFP? If yes, what is it? If no, why not?
 
