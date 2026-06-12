@@ -55,10 +55,11 @@ graph LR;
     A[Guanine] --> B[Guanine Phosphoribosyltransferase GPRT]
     B --> C{<stron>GMP</strong>}
     C --> |ATP| D[GMP Kinase]
-    C --> E[GDP]
-    E --> F[Nucleoside Diphosphate Kinase NDK]
-    F --> G[GTP]
-    G --> H[T7 RNA Polymerase uses GTP for transcription]
+    C --> E{<strong>GDP</strong>}
+    E --> |ATP| F[Nucleoside Diphosphate Kinase NDK]
+    E --> G{<strong>GTP</strong>}
+    G --> |ATP| H[NDK]
+    G --> I[T7 RNA Polymerase uses GTP for transcription]
 ```
 
 ```mermaid
