@@ -26,7 +26,10 @@ Supplies Mg²⁺, which is essential for ribosome structure, tRNA charging, ATP�
 - **Potassium Phosphate Monobasic & Dibasic<br> 
 Together form a phosphate buffer system that stabilizes pH and provides phosphate needed for nucleotide and energy metabolism.**
 
-**Energy / Nucleotide System**<br>- **Ribose<br>Acts as a carbon backbone for nucleotide regeneration and supports metabolic pathways that recycle energy substrates.**- **Glucose<br>Serves as the primary energy source for the lysate’s metabolic enzymes, enabling ATP regeneration and prolonging protein synthesis.**
+**Energy / Nucleotide System**<br>
+- **Ribose<br>
+Acts as a carbon backbone for nucleotide regeneration and supports metabolic pathways that recycle energy substrates.**
+- **Glucose<br>Serves as the primary energy source for the lysate’s metabolic enzymes, enabling ATP regeneration and prolonging protein synthesis.**
 
 AMP, CMP, GMP, UMP  
 Provide the nucleotide monophosphate precursors required for mRNA synthesis and nucleotide recycling during transcription.
