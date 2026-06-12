@@ -12,6 +12,6 @@ weight: 10
 
 1. Referencing the cell-free protein synthesis reaction composition (the middle box outlined in yellow on the image above, also listed below), provide a 1-2 sentence description of what each component’s role is in the cell-free reaction.
 
-##### E. coli Lysate
-###### BL21 (DE3) Star Lysate (includes T7 RNA Polymerase)
+**E. coli Lysate**<br>
+- **BL21 (DE3) Star Lysate (includes T7 RNA Polymerase)**
 **Provides the full transcription–translation machinery (ribosomes, tRNAs, initiation/elongation factors, chaperones) and, because it contains endogenous T7 RNA polymerase, it drives strong transcription from T7 promoters without needing an added polymerase.**
