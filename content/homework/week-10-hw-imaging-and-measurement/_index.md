@@ -81,6 +81,6 @@ Homework: Waters Part IV — Oligomers<br>
 
 Homework: Waters Part V — Did I make GFP?<br>
 
-|                        | Theoretical       | Observed/Intact LC‑MS        | PPM Mass Error |
-|------------------------|-------------------|------------------------------|----------------|
+||Theoretical|Observed/Intact LC‑MS|PPM Mass Error|
+|-|-|-|-|
 | Molecular Weight (kDa) | 1.0505214         | 1.0505300                    | ~8.2 ppm       |
