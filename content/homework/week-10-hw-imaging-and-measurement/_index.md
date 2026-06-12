@@ -71,13 +71,16 @@ Homework: Waters Part III — Peptide Mapping - primary structure<br>
 **88%**<br>
 
 Homework: Waters Part IV — Oligomers<br>
-| oligomeric species | Theoretical mass | On spectrum |
+
+| Oligomeric species | Theoretical mass | On spectrum |
 |-|-|-|
 |7FU Decamer|10x340 kDa = 3400 kDa = 3.4 MDa|3.4 MDa|
 |8FU Didecamer|20x400 kDa = 8000 kDa = 8.0 MDa|8.33 MDa|
 |8FU 3-Decamer|30x400 kDa = 12000 kDa = 12.0 MDa|12.67 MDa|
 |8FU 4-Decamer|40x400 kDa = 16000 kDa = 16.0 MDa|16 MDa|
+
 Homework: Waters Part V — Did I make GFP?<br>
+
 |                        | Theoretical       | Observed/Intact LC‑MS        | PPM Mass Error |
 |------------------------|-------------------|------------------------------|----------------|
 | Molecular Weight (kDa) | 1.0505214         | 1.0505300                    | ~8.2 ppm       |
