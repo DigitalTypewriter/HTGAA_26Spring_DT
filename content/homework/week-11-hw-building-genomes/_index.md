@@ -48,9 +48,6 @@ Provides the full transcription–translation machinery (ribosomes, tRNAs, initi
 **T7 RNA polymerase does not use guanine directly—it requires GTP. In mixes where GMP is omitted but free guanine is supplied, the endogenous salvage‑pathway enzymes in the E. coli lysate (e.g., guanine phosphoribosyltransferase) convert guanine into GMP, which is then phosphorylated to GDP and GTP using the reaction’s energy system. This allows the system to rebuild the guanine nucleotide pool internally, enabling transcription even without added GMP.**
 
 ```mermaid
----
-title: Guanine salvage pathway
----
 graph LR;
     A[Guanine] --> B[Guanine Phosphoribosyltransferase (GPRT)]
     B --> C[GMP]
