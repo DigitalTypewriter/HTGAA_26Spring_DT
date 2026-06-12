@@ -62,13 +62,5 @@ graph LR;
     G --> |ATP| H[NDK]
 ```
 
-```mermaid
----
-title: Example Diagram
----
-graph LR;
-  A[Hard edge] -->|Link text| B(Round edge)
-  B --> C{<strong>Decision</strong>}
-  C -->|One| D[Result one]
-  C -->|Two| E[Result two]
-```
+#### Part C: Planning the Global Experiment | Cell-Free Master Mix Design
+
