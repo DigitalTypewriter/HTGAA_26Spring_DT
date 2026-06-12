@@ -50,5 +50,21 @@ Homework: Waters Part I — Molecular Weight<br>
 
 Homework: Waters Part II — Secondary/Tertiary structure<br>
 Homework: Waters Part III — Peptide Mapping - primary structure<br>
+1. How many Lysines (K) and Arginines (R) are in eGFP?
+**I counted 20 Lysines (K) and 6 Arginines (R).**
+2. How many peptides will be generated from tryptic digestion of eGFP?
+**Using the Expasy website, it output a table of 19 peptides that >500 Dalton.**
+3. Based on the LC-MS data for the Peptide Map data generated in lab (please use Figure 5a as a reference) how many chromatographic peaks do you see in the eGFP peptide map between 0.5 and 6 minutes? You may count all peaks that are >10% relative abundance.
+**I counted 19 peaks that >10% abudance at above 1.2e6.**
+4. Assuming all the peaks are peptides, does the number of peaks match the number of peptides predicted from question 2 above? Are there more peaks in the chromatogram or fewer?
+**The peaks does match with the Expasy prediction with 19 being the total count.**
+5. Identify the mass-to-charge of the peptide shown in Figure 5b. What is the charge of the most abundant charge state of the peptide (use the separation of the isotopes to determine the charge state). Calculate the mass of the singly charged form of the peptide.
+- **Most abundant isotopic peak (m/z): 525.76712**
+- **Isotope spacing between adjacent peaks Δ(m/z): 526.27−525.77 ≈ 0.50 m/z → z = 2⁺**
+- **Singly charged peptide mass [M+H]⁺: 2*525.76712 − 1.0073 ≈ 1050.53Da**
+
+Measured [M+H]⁺ mass: 1050.5300 Da; Closest theoretical mass (from PeptideMass): 1050.5214 Da.
+Δ𝑚 = 1050.5300−1050.5214 = 0.0086 Da
+ppm error = Δ𝑚/𝑚~theoretical~×10^6^
 Homework: Waters Part IV — Oligomers<br>
 Homework: Waters Part V — Did I make GFP?<br>
