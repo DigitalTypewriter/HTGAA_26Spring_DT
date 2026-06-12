@@ -64,10 +64,10 @@ Homework: Waters Part III — Peptide Mapping - primary structure<br>
 - **Singly charged peptide mass [M+H]⁺: 2*525.76712 − 1.0073 ≈ 1050.53Da**
 6. Identify the peptide based on comparison to expected masses in the PeptideMass tool. What is mass accuracy of measurement? Please calculate the error in ppm.
 - **Measured [M+H]⁺ mass: 1050.5300 Da**
-- **Closest theoretical mass (from PeptideMass): 1050.5214 Da**
-**Mass error: Δ𝑚 = 1050.5300−1050.5214 = 0.0086 Da**
-**Mass accuracy: ppm error = Δ𝑚/𝑚<sub>theoretical</sub>×10<sup>6</sup> ≈ 8.18 ppm**
-7. What is the percentage of the sequence that is confirmed by peptide mapping? (see Figure 6)
-**88%**
+- **Closest theoretical mass (from PeptideMass): 1050.5214 Da**<br>
+**Mass error: Δ𝑚 = 1050.5300−1050.5214 = 0.0086 Da**<br>
+**Mass accuracy: ppm error = Δ𝑚/𝑚<sub>theoretical</sub>×10<sup>6</sup> ≈ 8.18 ppm**<br>
+7. What is the percentage of the sequence that is confirmed by peptide mapping? (see Figure 6)<br>
+**88%**<br>
 Homework: Waters Part IV — Oligomers<br>
 Homework: Waters Part V — Did I make GFP?<br>
