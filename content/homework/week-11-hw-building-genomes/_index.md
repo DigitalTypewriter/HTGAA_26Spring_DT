@@ -53,10 +53,21 @@ title: Guanine salvage pathway
 ---
 graph LR;
     A[Guanine] --> B[Guanine Phosphoribosyltransferase GPRT]
-    B --> C[GMP]
-    C --> D[GMP Kinase]
-    D --> E[GDP]
+    B --> C{<stron>GMP</strong>}
+    C --> |ATP| D[GMP Kinase]
+    C --> || E[GDP]
     E --> F[Nucleoside Diphosphate Kinase NDK]
     F --> G[GTP]
     G --> H[T7 RNA Polymerase uses GTP for transcription]
+```
+
+```mermaid
+---
+title: Example Diagram
+---
+graph LR;
+  A[Hard edge] -->|Link text| B(Round edge)
+  B --> C{<strong>Decision</strong>}
+  C -->|One| D[Result one]
+  C -->|Two| E[Result two]
 ```
