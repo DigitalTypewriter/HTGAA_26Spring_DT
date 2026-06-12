@@ -49,14 +49,14 @@ Provides the full transcription–translation machinery (ribosomes, tRNAs, initi
 
 ```mermaid
 ---
-title: flowchart TD
+title: Guanine salvage pathway
 ---
 graph LR;
-    A[Guanine] --> B[Guanine Phosphoribosyltransferase<br/>(GPRT)]
+    A[Guanine] --> B[Guanine Phosphoribosyltransferase (GPRT)]
     B --> C[GMP]
     C --> D[GMP Kinase]
     D --> E[GDP]
-    E --> F[Nucleoside Diphosphate Kinase<br/>(NDK)]
+    E --> F[Nucleoside Diphosphate Kinase (NDK)]
     F --> G[GTP]
-    G --> H[T7 RNA Polymerase<br/>Uses GTP for Transcription]
+    G --> H[T7 RNA Polymerase uses GTP for transcription]
 ```
