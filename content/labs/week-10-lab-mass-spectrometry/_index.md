@@ -7,7 +7,7 @@ weight: 10
 Instead of Mass Spectrometry, we did a Chromatography instead.
 Chromatography relies on a substance's chemical affinity to separate components out of a physical mixture. Mass spectrometry, on the other hand, relies on the mass-to-charge ratio (m/z) of fragmenmted molecules moving through electromagnetic field to identify exact chemical structure.
 
-<img src="HTGAA_lab10_2.jpg" width="500"> <img src="HTGAA_lab10_3.jpg" width="500">
+<img src="HTGAA_lab10_2.jpg" height="300"> <img src="HTGAA_lab10_3.jpg" height="300">
 
 |feature|Chromatography (e.g., TLC)|Mass Spectrometry (MS)|
 |-|-|-|
