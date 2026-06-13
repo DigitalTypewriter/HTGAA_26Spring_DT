@@ -2,6 +2,10 @@
 title: 'Week 6 Lab: Restriction Enzyme Digest I - MiniPrep '
 weight: 10
 ---
+<img src="HTGAA_lab6_1.jpg" width="600">
+
 **For this week, we performed a <mark>restriction digest and ligation</mark> in lieu of using Gibson Assembly or Golden Gate Assembly. Although Gibson and Golden Gate rely on specialized enzymes and sequence‑designed overlaps to assemble DNA fragments in a single reaction, the restriction‑digest‑plus‑ligation approach achieves the same overall goal—joining an insert into a plasmid backbone—through sequential enzymatic steps.**
+
+<img src="HTGAA_lab6_2.jpg" width="300"><img src="HTGAA_lab6_3.jpg" width="300">
 
 **During this experiment, we began by performing a plasmid miniprep to isolate the GFP‑containing plasmid backbone from E. coli, which served as the host organism carrying the engineered plasmid we intended to modify. Using the alkaline lysis method, the bacterial pellet was resuspended in Tris‑EDTA buffer to protect the DNA, lysed with NaOH and SDS to denature membranes and proteins, and then neutralized with potassium acetate to allow the plasmid DNA to renature while genomic DNA and cellular debris precipitated. After centrifugation, the plasmid‑rich supernatant was collected, and the DNA was precipitated with alcohol, washed, and resuspended to obtain purified plasmid backbone. This plasmid was then used in a restriction enzyme digest, prepared according to the reaction recipe in the notes—18 µL of plasmid DNA mixed with 2 µL of 10× buffer to create a 20 µL reaction—followed by addition of restriction enzymes to cut the plasmid at defined sites and remove the GFP region. In the subsequent ligation step, the digested plasmid backbone from E. coli was combined with the RFP insert by preparing an 18 µL ligation master mix and adding 2 µL of each DNA component to reach a 20 µL total volume, this time including T4 DNA ligase and ligase buffer to covalently join the compatible ends. Overall, the workflow followed the classic cloning pipeline: grow E. coli → isolate the plasmid backbone via miniprep → restriction digest → ligation to replace GFP with the RFP insert.**
