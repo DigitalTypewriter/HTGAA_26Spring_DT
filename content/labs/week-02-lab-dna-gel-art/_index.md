@@ -9,7 +9,7 @@ gel protocals<br>
 <img src="gelart_protocal1.jpg" width="300"> <img src="gelart_protocal2.jpg" width="300"><br>
 Protocol | Part 1b: Restriction Digest<br>
 Protocol | Part 2: Gel Run<br>
-<img src="HTGAA_lab2_part2-1.jpg" width="300"><img src="HTGAA_lab2_part2-2.jpg" width="300">
+<img src="HTGAA_lab2_part2-1.jpg" width="300"><img src="HTGAA_lab2_part2-2.jpg" width="300"><br>
 Protocol | Part 3: Imaging Your Results with a Transilluminator<br>
 | pre                           | post                            |
 | ----------------------------------- | ----------------------------------- |
