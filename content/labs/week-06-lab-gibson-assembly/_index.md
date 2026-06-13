@@ -1,5 +1,5 @@
 ---
-title: 'Week 6 Lab: Restriction Enzyme Digest I - MiniPrep '
+title: 'Week 6 Lab: Restriction Enzyme Digest I - MiniPrep'
 weight: 10
 ---
 <img src="HTGAA_lab6_1.jpg" width="600"><br>
