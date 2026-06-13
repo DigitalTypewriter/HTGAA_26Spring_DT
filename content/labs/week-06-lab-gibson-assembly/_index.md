@@ -3,6 +3,7 @@ title: 'Week 6 Lab: Restriction Enzyme Digest I - MiniPrep '
 weight: 10
 ---
 <img src="HTGAA_lab6_1.jpg" width="600">
+_Figure 1. Diagrams explaining Gibson Assembly & Golden Gate Assembly by Dr. Andrew Scarpelli at community biolab, ChiTownBio._
 
 **For this week, we performed a <mark>restriction digest and ligation</mark> in lieu of using Gibson Assembly or Golden Gate Assembly. Although Gibson and Golden Gate rely on specialized enzymes and sequence‑designed overlaps to assemble DNA fragments in a single reaction, the restriction‑digest‑plus‑ligation approach achieves the same overall goal—joining an insert into a plasmid backbone—through sequential enzymatic steps.**
 
