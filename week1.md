@@ -1,7 +1,3 @@
----
-title: 'Week 1 HW: Principles and Practices'
-weight: 10
----
 | pre-fire                            | post-fire                            |
 | ----------------------------------- | ----------------------------------- |
 |<img src="lm_prefire_edit.jpg" width="1000">|<img src="post-fire.jpg" width="1000">|
